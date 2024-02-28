@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hardspice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Hardspice"
+      },
+      {
+        "value": "CUSTOM:Hardspice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Hardspice"
+      },
+      {
+        "value": "CUSTOM:Hardspice"
+      },
+      {
+        "value": "CUSTOM:Hardspice"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardspiceStairs"
+    },
+    "name": "hardspice_stairs_r",
+    "namespace": "mod"
+  }
+}

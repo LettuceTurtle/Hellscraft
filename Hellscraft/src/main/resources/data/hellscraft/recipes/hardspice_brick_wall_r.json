@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:hardspice_bricks"
+    }
+  },
+  "result": {
+    "item": "hellscraft:hardspice_brick_wall",
+    "count": 6
+  }
+}

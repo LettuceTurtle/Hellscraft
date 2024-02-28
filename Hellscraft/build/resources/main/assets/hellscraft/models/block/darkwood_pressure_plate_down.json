@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "hellscraft:block/6aac242c-54ef-4d37-bdd4-9d559bfe25ef"
+  },
+  "render_type": "solid"
+}

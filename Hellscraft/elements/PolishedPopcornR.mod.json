@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlockOfPopcorn"
+      },
+      {
+        "value": "CUSTOM:BlockOfPopcorn"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlockOfPopcorn"
+      },
+      {
+        "value": "CUSTOM:BlockOfPopcorn"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedBlockOfPopcorn"
+    },
+    "name": "polished_popcorn_r",
+    "namespace": "mod"
+  }
+}

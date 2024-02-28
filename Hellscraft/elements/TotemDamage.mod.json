@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.1,
+    "scaling": "never",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s bid farewell, cruel world!",
+    "itemDeathMessage": "%1$s bid farewell, cruel world!",
+    "playerDeathMessage": "%1$s bid farewell, cruel world!"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "feature": "hellscraft:piss_tree_generation",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 8
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

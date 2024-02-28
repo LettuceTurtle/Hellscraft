@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:corn"
+    }
+  },
+  "result": {
+    "item": "hellscraft:block_of_corn",
+    "count": 1
+  }
+}

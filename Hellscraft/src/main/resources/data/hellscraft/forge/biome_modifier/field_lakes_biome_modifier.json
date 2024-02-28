@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hellscraft:field_of_hopes_and_dreams",
+  "features": "hellscraft:field_lakes",
+  "step": "lakes"
+}

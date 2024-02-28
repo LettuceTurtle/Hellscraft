@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "hellscraft:block/31b0553a-6b6b-4682-8222-571d6b6e514f",
+    "particle": "hellscraft:block/31b0553a-6b6b-4682-8222-571d6b6e514f"
+  },
+  "render_type": "solid"
+}

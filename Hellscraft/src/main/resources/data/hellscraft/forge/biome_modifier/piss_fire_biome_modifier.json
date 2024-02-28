@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hellscraft:piss_forest",
+  "features": "hellscraft:piss_fire",
+  "step": "underground_decoration"
+}

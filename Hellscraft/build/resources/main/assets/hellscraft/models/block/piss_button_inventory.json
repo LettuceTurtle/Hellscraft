@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "hellscraft:block/ebdf48ce-2365-4ab1-95c0-97ac88680b36"
+  },
+  "render_type": "solid"
+}

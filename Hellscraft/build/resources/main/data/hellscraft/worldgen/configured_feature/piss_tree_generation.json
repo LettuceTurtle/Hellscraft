@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:huge_fungus",
+  "config": {
+    "valid_base_block": {
+      "Name": "hellscraft:piss_nylium"
+    },
+    "stem_state": {
+      "Name": "hellscraft:piss_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "hat_state": {
+      "Name": "hellscraft:piss_wart_block"
+    },
+    "decor_state": {
+      "Name": "minecraft:shroomlight"
+    },
+    "replaceable_blocks": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "#replaceable_by_trees"
+    }
+  }
+}

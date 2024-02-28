@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "hellscraft:block/53e2b546-3cad-4f3a-87a3-ba455dfac65a",
+    "particle": "hellscraft:block/53e2b546-3cad-4f3a-87a3-ba455dfac65a"
+  },
+  "render_type": "solid"
+}

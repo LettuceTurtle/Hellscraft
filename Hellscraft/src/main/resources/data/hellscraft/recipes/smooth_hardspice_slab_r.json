@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:smooth_hardspice"
+    }
+  },
+  "result": {
+    "item": "hellscraft:smooth_hardspice_slab",
+    "count": 6
+  }
+}

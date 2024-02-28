@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hellscraft:block/stripped_piss_stem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hellscraft:block/stripped_piss_stem"
+    },
+    "axis=z": {
+      "model": "hellscraft:block/stripped_piss_stem",
+      "x": 90
+    }
+  }
+}

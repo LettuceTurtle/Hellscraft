@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hellscraft:hardspice_brick_wall",
+    "hellscraft:greenstone_brick_wall",
+    "hellscraft:polished_corn_wall",
+    "hellscraft:polished_popcorn_wall"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "bottom": "hellscraft:block/18925538-bc7b-4006-a84a-d5ce804ab35b",
+    "top": "hellscraft:block/7d63a8e8-9ed1-4daf-abc9-bec317b4ca35"
+  },
+  "render_type": "cutout"
+}

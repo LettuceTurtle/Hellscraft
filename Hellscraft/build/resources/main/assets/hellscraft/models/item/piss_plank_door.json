@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hellscraft:block/18925538-bc7b-4006-a84a-d5ce804ab35b"
+  },
+  "render_type": "cutout"
+}

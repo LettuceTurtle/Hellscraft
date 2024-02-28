@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "painting",
+  "definition": {
+    "texture": "goku.png",
+    "width": 48,
+    "height": 80,
+    "title": "Goku",
+    "author": "Ough"
+  }
+}

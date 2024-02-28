@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:block_of_popcorn"
+  },
+  "result": "hellscraft:polished_popcorn_slab"
+}

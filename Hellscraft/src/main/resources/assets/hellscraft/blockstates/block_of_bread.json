@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hellscraft:block/block_of_bread"
+    },
+    "facing=east": {
+      "model": "hellscraft:block/block_of_bread",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hellscraft:block/block_of_bread",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hellscraft:block/block_of_bread",
+      "y": 270
+    }
+  }
+}

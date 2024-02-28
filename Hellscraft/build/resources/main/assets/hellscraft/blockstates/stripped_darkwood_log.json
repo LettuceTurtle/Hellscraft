@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hellscraft:block/stripped_darkwood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hellscraft:block/stripped_darkwood_log"
+    },
+    "axis=z": {
+      "model": "hellscraft:block/stripped_darkwood_log",
+      "x": 90
+    }
+  }
+}

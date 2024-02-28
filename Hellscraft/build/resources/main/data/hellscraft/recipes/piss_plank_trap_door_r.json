@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:piss_planks"
+    }
+  },
+  "result": {
+    "item": "hellscraft:piss_plank_trapdoor",
+    "count": 2
+  }
+}

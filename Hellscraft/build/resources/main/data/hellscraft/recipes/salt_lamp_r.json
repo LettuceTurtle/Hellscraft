@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:block_of_pink_salt"
+    },
+    "b": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "hellscraft:salt_lamp",
+    "count": 2
+  }
+}

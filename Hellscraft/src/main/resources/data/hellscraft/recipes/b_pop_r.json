@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hellscraft:stick_of_butter"
+    },
+    {
+      "item": "hellscraft:bucket_of_popcorn"
+    }
+  ],
+  "result": {
+    "item": "hellscraft:buttered_bucket_of_popcorn",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HardspiceBrickWall"
+      },
+      {
+        "value": "CUSTOM:GreenstoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:PolishedCornWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPopcornWall"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

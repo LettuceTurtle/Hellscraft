@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "hellscraft:block/bfde1824-a1f5-4eb3-823f-5f23b7a8a106",
+    "top": "hellscraft:block/bfde1824-a1f5-4eb3-823f-5f23b7a8a106",
+    "side": "hellscraft:block/bfde1824-a1f5-4eb3-823f-5f23b7a8a106"
+  },
+  "render_type": "solid"
+}

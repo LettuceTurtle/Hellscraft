@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "hellscraft:aging_barrel",
+    "hellscraft:piss_stem",
+    "hellscraft:stripped_piss_stem",
+    "hellscraft:darkwood_log",
+    "hellscraft:piss_planks",
+    "hellscraft:piss_plank_slab",
+    "hellscraft:piss_plank_stairs",
+    "hellscraft:piss_plank_fence",
+    "hellscraft:piss_plank_trapdoor",
+    "hellscraft:piss_plank_door",
+    "hellscraft:piss_button",
+    "hellscraft:piss_pressure_plate",
+    "hellscraft:piss_plank_fence_gate",
+    "hellscraft:stripped_darkwood_log",
+    "hellscraft:darkwood_planks",
+    "hellscraft:darkwood_slab",
+    "hellscraft:darkwood_stairs",
+    "hellscraft:darkwood_fence",
+    "hellscraft:darkwood_fence_gate",
+    "hellscraft:darkwood_trapdoor",
+    "hellscraft:darkwood_button",
+    "hellscraft:darkwood_pressure_plate"
+  ]
+}

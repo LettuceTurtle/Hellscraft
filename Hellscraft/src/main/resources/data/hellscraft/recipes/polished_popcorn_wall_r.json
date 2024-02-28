@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:polished_block_of_popcorn"
+    }
+  },
+  "result": {
+    "item": "hellscraft:polished_popcorn_wall",
+    "count": 6
+  }
+}

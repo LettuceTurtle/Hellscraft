@@ -1,0 +1,267 @@
+{
+  "_fv": 57,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:Necromancer"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.BONE"
+            },
+            "countOffer": 8,
+            "level": 1,
+            "maxTrades": 16,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:BlockOfRottenFlesh"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": "Items.FISH#1"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.SALMON_BUCKET"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 10,
+            "xp": 7,
+            "priceMultiplier": 0.075
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": "Items.FISH#0"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.COD_BUCKET"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 2,
+            "xp": 7,
+            "priceMultiplier": 0.075
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.SPIDER_EYE"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 20,
+            "xp": 6,
+            "priceMultiplier": 0.025
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:VillagerMeat"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 6,
+            "level": 3,
+            "maxTrades": 8,
+            "xp": 10,
+            "priceMultiplier": 0.075
+          },
+          {
+            "price1": {
+              "value": "Items.BONE"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 20,
+            "offer": {
+              "value": "Items.SPAWN_EGG#51"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 1,
+            "xp": 10,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "Items.ROTTEN_FLESH"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 20,
+            "offer": {
+              "value": "Items.SPAWN_EGG#54"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 1,
+            "xp": 10,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:BlockOfRottenFlesh"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 6,
+            "offer": {
+              "value": "Blocks.SKULL#2"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 2,
+            "xp": 8,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:BlockOfRottenFlesh"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 6,
+            "offer": {
+              "value": "Blocks.SKULL#0"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 2,
+            "xp": 85,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:BlockOfRottenFlesh"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 6,
+            "offer": {
+              "value": "Blocks.SKULL#4"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 2,
+            "xp": 8,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:BlockOfRottenFlesh"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 6,
+            "offer": {
+              "value": "Blocks.PIGLIN_HEAD"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 2,
+            "xp": 8,
+            "priceMultiplier": 0.1
+          },
+          {
+            "price1": {
+              "value": "Blocks.IRON_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 40,
+            "offer": {
+              "value": "Blocks.MOB_SPAWNER"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 1,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.TOTEM_OF_UNDYING"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 1,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:salt"
+    },
+    "b": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "item": "hellscraft:pink_salt",
+    "count": 8
+  }
+}

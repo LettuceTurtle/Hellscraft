@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hellscraft:block/netherrack",
+    "up": "hellscraft:block/f099fc12-74a0-4645-ad3c-17afa27ac4ce",
+    "north": "hellscraft:block/a6aaca9c-c5f6-4840-bca6-24e64213b0b8",
+    "east": "hellscraft:block/a6aaca9c-c5f6-4840-bca6-24e64213b0b8",
+    "south": "hellscraft:block/a6aaca9c-c5f6-4840-bca6-24e64213b0b8",
+    "west": "hellscraft:block/a6aaca9c-c5f6-4840-bca6-24e64213b0b8",
+    "particle": "hellscraft:block/netherrack"
+  },
+  "render_type": "solid"
+}

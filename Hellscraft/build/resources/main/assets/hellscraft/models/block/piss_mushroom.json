@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "hellscraft:block/228d6fb0-a3ee-45f0-8fe0-060114edfcca",
+    "particle": "hellscraft:block/228d6fb0-a3ee-45f0-8fe0-060114edfcca"
+  },
+  "render_type": "cutout"
+}

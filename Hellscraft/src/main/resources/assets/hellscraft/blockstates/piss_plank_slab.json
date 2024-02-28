@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/piss_plank_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/piss_plank_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/piss_plank_slab_full"
+    }
+  }
+}

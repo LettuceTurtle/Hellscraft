@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:DarkwoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkwoodTrapdoor"
+    },
+    "name": "darkwood_trapdoor_r",
+    "namespace": "mod"
+  }
+}

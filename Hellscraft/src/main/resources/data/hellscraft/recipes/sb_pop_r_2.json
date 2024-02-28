@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:stick_of_butter"
+    },
+    "b": {
+      "item": "hellscraft:salted_bucket_of_popcorn"
+    }
+  },
+  "result": {
+    "item": "hellscraft:popcorn_with_butter_and_salt",
+    "count": 1
+  }
+}

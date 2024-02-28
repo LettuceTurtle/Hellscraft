@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hellscraft:block/e8e53889-ec9c-4c90-ae6f-1c7e291d24e3",
+    "particle": "hellscraft:block/e8e53889-ec9c-4c90-ae6f-1c7e291d24e3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,141 @@
+{
+  "_fv": 57,
+  "_type": "biome",
+  "definition": {
+    "name": "Piss Forest",
+    "groundBlock": {
+      "value": "CUSTOM:PissNylium"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "underwaterBlock": {
+      "value": ""
+    },
+    "airColor": {
+      "value": -4093686,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "spawnBiome": false,
+    "spawnInCaves": false,
+    "spawnBiomeNether": true,
+    "genTemperature": {
+      "min": -1.0,
+      "max": 0.0
+    },
+    "genHumidity": {
+      "min": -1.0,
+      "max": -0.25
+    },
+    "genContinentalness": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "genErosion": {
+      "min": -1.0,
+      "max": 0.4
+    },
+    "genWeirdness": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:PissStem"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:PissWartBlock"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.SHROOMLIGHT"
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": true,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": true,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityHoglin"
+        },
+        "minGroup": 3,
+        "maxGroup": 4,
+        "weight": 60,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityPigZombie"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 7,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityPiglin"
+        },
+        "minGroup": 3,
+        "maxGroup": 4,
+        "weight": 33,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityStrider"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 100,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

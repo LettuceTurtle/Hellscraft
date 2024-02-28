@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:darksteel_block"
+    }
+  },
+  "result": {
+    "item": "hellscraft:darksteel_ingot",
+    "count": 9
+  }
+}

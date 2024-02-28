@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hellscraft:block/e7ea6f3f-1474-4e29-9bf8-29caa5ba2664",
+    "up": "hellscraft:block/e7ea6f3f-1474-4e29-9bf8-29caa5ba2664",
+    "north": "hellscraft:block/d231bd29-0eb4-4735-9962-7f3436e9a1db",
+    "east": "hellscraft:block/d231bd29-0eb4-4735-9962-7f3436e9a1db",
+    "south": "hellscraft:block/d231bd29-0eb4-4735-9962-7f3436e9a1db",
+    "west": "hellscraft:block/d231bd29-0eb4-4735-9962-7f3436e9a1db",
+    "particle": "hellscraft:block/e7ea6f3f-1474-4e29-9bf8-29caa5ba2664"
+  },
+  "render_type": "solid"
+}

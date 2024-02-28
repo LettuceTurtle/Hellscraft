@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:salt"
+    },
+    "b": {
+      "item": "hellscraft:bucket_of_popcorn"
+    }
+  },
+  "result": {
+    "item": "hellscraft:salted_bucket_of_popcorn",
+    "count": 1
+  }
+}

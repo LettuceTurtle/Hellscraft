@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:hardspice_bricks"
+  },
+  "result": "hellscraft:hardspice_brick_slab"
+}

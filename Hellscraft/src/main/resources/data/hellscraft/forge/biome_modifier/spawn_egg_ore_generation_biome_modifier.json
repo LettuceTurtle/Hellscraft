@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hellscraft:cavern_of_souls",
+  "features": "hellscraft:spawn_egg_ore_generation",
+  "step": "underground_ores"
+}

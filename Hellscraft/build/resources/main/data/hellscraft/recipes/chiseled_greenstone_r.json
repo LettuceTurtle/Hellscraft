@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:greenstone_brick_slab"
+    }
+  },
+  "result": {
+    "item": "hellscraft:chiseled_greenstone_bricks",
+    "count": 1
+  }
+}

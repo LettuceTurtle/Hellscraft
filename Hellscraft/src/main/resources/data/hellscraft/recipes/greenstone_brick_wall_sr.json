@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "hellscraft:greenstone"
+  },
+  "result": "hellscraft:greenstone_brick_wall"
+}

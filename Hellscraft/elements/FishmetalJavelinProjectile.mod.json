@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:FishmetalJavelin"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "igniteFire": false,
+    "power": 1.5,
+    "damage": 2.0,
+    "knockback": 3,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "onHitsBlock": {
+      "name": "FishmetalJavelinHit"
+    },
+    "onHitsEntity": {
+      "name": "FishmetalJavelinHit"
+    }
+  }
+}

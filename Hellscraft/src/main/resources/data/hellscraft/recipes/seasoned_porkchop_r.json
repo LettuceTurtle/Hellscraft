@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hellscraft:netherspice"
+    },
+    {
+      "item": "hellscraft:netherspice"
+    },
+    {
+      "item": "hellscraft:netherspice"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    }
+  ],
+  "result": {
+    "item": "hellscraft:seasoned_porkchop",
+    "count": 1
+  }
+}

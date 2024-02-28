@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hellscraft:piss_forest",
+  "features": "hellscraft:piss_tree_generation",
+  "step": "vegetal_decoration"
+}

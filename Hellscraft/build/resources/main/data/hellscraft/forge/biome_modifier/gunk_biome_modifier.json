@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nether_wastes",
+    "soul_sand_valley",
+    "warped_forest",
+    "hellscraft:piss_forest"
+  ],
+  "features": "hellscraft:gunk",
+  "step": "underground_ores"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hellscraft:salt"
+    },
+    {
+      "item": "hellscraft:salt"
+    },
+    {
+      "item": "hellscraft:salt"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    }
+  ],
+  "result": {
+    "item": "hellscraft:salted_beef",
+    "count": 1
+  }
+}

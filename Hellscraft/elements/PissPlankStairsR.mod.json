@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PissPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PissPlanks"
+      },
+      {
+        "value": "CUSTOM:PissPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PissPlanks"
+      },
+      {
+        "value": "CUSTOM:PissPlanks"
+      },
+      {
+        "value": "CUSTOM:PissPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PissPlankStairs"
+    },
+    "name": "piss_plank_stairs_r",
+    "namespace": "mod"
+  }
+}

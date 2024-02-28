@@ -1,0 +1,16 @@
+{
+  "_fv": 57,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Necromancer",
+    "pointOfInterest": {
+      "value": "CUSTOM:BlockOfVillager"
+    },
+    "actionSound": {
+      "value": "block.sculk_vein.place"
+    },
+    "hat": "None",
+    "professionTextureFile": "villager.png",
+    "zombifiedProfessionTextureFile": "zombie_villager.png"
+  }
+}

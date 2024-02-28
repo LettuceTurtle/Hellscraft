@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "hellscraft:block_of_rotten_flesh",
+    "hellscraft:block_of_villager",
+    "hellscraft:gunk",
+    "hellscraft:piss_wart_block",
+    "hellscraft:darkwood_leaves",
+    "hellscraft:block_of_corn",
+    "hellscraft:waxed_block_of_corn",
+    "hellscraft:polished_block_of_corn",
+    "hellscraft:polished_corn_slab",
+    "hellscraft:polished_corn_stairs",
+    "hellscraft:polished_corn_wall",
+    "hellscraft:block_of_popcorn",
+    "hellscraft:polished_block_of_popcorn",
+    "hellscraft:polished_popcorn_slab",
+    "hellscraft:polished_popcorn_stairs",
+    "hellscraft:polished_popcorn_wall",
+    "hellscraft:block_of_salt",
+    "hellscraft:block_of_butter",
+    "hellscraft:block_of_pink_salt",
+    "hellscraft:salt_lamp",
+    "hellscraft:block_of_bread"
+  ]
+}

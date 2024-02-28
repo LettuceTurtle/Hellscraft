@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "painting",
+  "definition": {
+    "texture": "dreadmaw.png",
+    "width": 48,
+    "height": 32,
+    "title": "Colossal Dreadmaw",
+    "author": "Jesper Ejsing"
+  }
+}

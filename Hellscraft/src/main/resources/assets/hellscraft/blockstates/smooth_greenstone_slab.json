@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/smooth_greenstone_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/smooth_greenstone_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/smooth_greenstone_slab_full"
+    }
+  }
+}

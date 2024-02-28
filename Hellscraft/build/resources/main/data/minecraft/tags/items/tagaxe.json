@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "hellscraft:cheesed_axe",
+    "hellscraft:fishmetal_axe",
+    "hellscraft:darksteel_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe",
+    "minecraft:wooden_axe",
+    "minecraft:stone_axe",
+    "minecraft:iron_axe",
+    "minecraft:golden_axe"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:stripped_piss_stem"
+    }
+  },
+  "result": {
+    "item": "hellscraft:piss_planks",
+    "count": 4
+  }
+}

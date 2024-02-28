@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "painting",
+  "definition": {
+    "texture": "funnycat.png",
+    "width": 32,
+    "height": 48,
+    "title": "Funny Cat",
+    "author": "Munke"
+  }
+}

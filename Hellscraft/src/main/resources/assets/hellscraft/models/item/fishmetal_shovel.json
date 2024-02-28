@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "hellscraft:item/ebb5a78d-5884-490e-9dad-fc74a467db4f"
+  }
+}
