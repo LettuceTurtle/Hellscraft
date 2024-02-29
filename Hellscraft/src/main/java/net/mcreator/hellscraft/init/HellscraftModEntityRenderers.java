@@ -24,5 +24,6 @@ public class HellscraftModEntityRenderers {
 		event.registerEntityRenderer(HellscraftModEntities.GOLD_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HellscraftModEntities.DIAMOND_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HellscraftModEntities.NETHERITE_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
+		event.registerEntityRenderer(HellscraftModEntities.LAVA_AXE_PROJECTILE.get(), ThrownItemRenderer::new);
 	}
 }
