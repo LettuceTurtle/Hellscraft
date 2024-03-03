@@ -28,6 +28,7 @@ import net.mcreator.hellscraft.item.PopcornItem;
 import net.mcreator.hellscraft.item.PinkSaltItem;
 import net.mcreator.hellscraft.item.NetherspiceItem;
 import net.mcreator.hellscraft.item.NetheriteJavelinItem;
+import net.mcreator.hellscraft.item.LavaAxeItem;
 import net.mcreator.hellscraft.item.IronJavelinItem;
 import net.mcreator.hellscraft.item.GoldJavelinItem;
 import net.mcreator.hellscraft.item.FishmetalSwordItem;
@@ -219,6 +220,7 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> BREAD_SLICE = REGISTRY.register("bread_slice", () -> new BreadSliceItem());
 	public static final RegistryObject<Item> BREAD_KNIFE = REGISTRY.register("bread_knife", () -> new BreadKnifeItem());
 	public static final RegistryObject<Item> FIREBALL_WAND = REGISTRY.register("fireball_wand", () -> new FireballWandItem());
+	public static final RegistryObject<Item> LAVA_AXE = REGISTRY.register("lava_axe", () -> new LavaAxeItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

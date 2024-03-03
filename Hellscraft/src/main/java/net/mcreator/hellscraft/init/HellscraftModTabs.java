@@ -187,6 +187,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.DARKSTEEL_HOE.get());
 			tabData.accept(HellscraftModItems.TOTEM_OF_DYING.get());
 			tabData.accept(HellscraftModItems.BREAD_KNIFE.get());
+			tabData.accept(HellscraftModItems.LAVA_AXE.get());
 		}
 	}
 }
