@@ -5994,6 +5994,19 @@
           "src/main/resources/assets/hellscraft/models/item/fireball_wand.json"
         ]
       }
+    },
+    {
+      "name": "FireballWandR",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireball_wand_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/fireball_wand_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -6006,14 +6019,14 @@
       "gui.cheese.press_ui.label_pressing": "Pressing",
       "painting.hellscraft.grunch.title": "Grunch",
       "block.cheese.block_of_corn": "Block Of Corn",
-      "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
       "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
+      "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
       "block.hellscraft.deeperslate": "Deeperslate",
       "block.cheese.block_of_villager": "Block Of Villager",
       "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
       "item.hellscraft.cheese": "Cheese",
-      "item.cheese.corn": "Corn",
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
+      "item.cheese.corn": "Corn",
       "block.hellscraft.darkwood_slab": "Darkwood Slab",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
@@ -6033,8 +6046,8 @@
       "block.hellscraft.piss_nylium": "Piss Nylium",
       "painting.hellscraft.colossal_dreadmaw.author": "Jesper Ejsing",
       "block.hellscraft.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
-      "block.cheese.press_a": "Press",
       "block.hellscraft.cheese_fence": "Cheese Fence",
+      "block.cheese.press_a": "Press",
       "item.hellscraft.darksteel_ingot": "Darksteel Ingot",
       "painting.hellscraft.funny_cat.title": "Funny Cat",
       "item.hellscraft.cheese_javelin": "Cheese Javelin",

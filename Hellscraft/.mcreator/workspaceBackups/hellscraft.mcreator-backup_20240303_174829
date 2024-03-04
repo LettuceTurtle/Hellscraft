@@ -5941,6 +5941,72 @@
           "src/main/resources/data/hellscraft/recipes/bundle_r.json"
         ]
       }
+    },
+    {
+      "name": "FireballWandEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireball_wand_entity_swings_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/FireballWandEntitySwingsItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireballWand",
+      "type": "tool",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireball_wand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/FireballWandItem.java",
+          "src/main/resources/assets/hellscraft/models/item/fireball_wand.json"
+        ]
+      }
+    },
+    {
+      "name": "FireballWandR",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireball_wand_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/fireball_wand_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -6103,6 +6169,7 @@
       "block.hellscraft.deeperslate_iron_ore": "Deeperslate Iron Ore",
       "block.hellscraft.darkwood_button": "Darkwood Button",
       "block.hellscraft.hardspice_brick_wall": "Hardspice Brick Wall",
+      "item.hellscraft.fireball_wand": "Fireball Wand",
       "item.cheese.stone_javelin": "Stone Javelin",
       "item.minecraft.splash_potion.effect.nausea": "Splash Potion of Nausea",
       "block.cheese.cheese_slab": "Cheese Slab",
