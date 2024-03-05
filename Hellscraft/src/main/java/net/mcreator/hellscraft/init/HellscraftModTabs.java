@@ -68,6 +68,21 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_BUTTER.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_PINK_SALT.get().asItem());
 			tabData.accept(HellscraftModBlocks.SALT_LAMP.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHISELED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_BRICK_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_BRICK_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_BRICK_WALL.get().asItem());
+			tabData.accept(HellscraftModBlocks.JEWELED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.JEWELED_DEEPERSLATE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHISELED_JEWELED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.GILDED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.GILDED_DEEPERSLATE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHISELED_GILDED_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.GALVANIC_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.GALVANIC_DEEPERSLATE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHISLED_GALVANIC_DEEPERSLATE.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -170,6 +185,17 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.DEEPSLATE_SPAWN_EGG_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.ROCK_SALT.get().asItem());
 			tabData.accept(HellscraftModBlocks.ROCK_BUTTER.get().asItem());
+			tabData.accept(HellscraftModBlocks.BISMUTH.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHUCKITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHUCKITE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHUCKITE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_CHUCKITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_CHUCKITE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_CHUCKITE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_KIDNEYSTONE.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CHISELED_KIDNEYSTONE.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
@@ -187,6 +213,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.DARKSTEEL_HOE.get());
 			tabData.accept(HellscraftModItems.TOTEM_OF_DYING.get());
 			tabData.accept(HellscraftModItems.BREAD_KNIFE.get());
+			tabData.accept(HellscraftModItems.LAVA_AXE.get());
 		}
 	}
 }

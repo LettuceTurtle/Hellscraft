@@ -16,6 +16,7 @@ import net.minecraft.world.entity.Entity;
 import net.mcreator.hellscraft.entity.WoodenJavelinProjectileEntity;
 import net.mcreator.hellscraft.entity.StoneJavelinProjectileEntity;
 import net.mcreator.hellscraft.entity.NetheriteJavelinProjectileEntity;
+import net.mcreator.hellscraft.entity.LavaAxeProjectileEntity;
 import net.mcreator.hellscraft.entity.IronJavelinProjectileEntity;
 import net.mcreator.hellscraft.entity.GoldJavelinProjectileEntity;
 import net.mcreator.hellscraft.entity.FishmetalJavelinProjectileEntity;
@@ -54,6 +55,8 @@ public class HellscraftModEntities {
 	public static final RegistryObject<EntityType<NetheriteJavelinProjectileEntity>> NETHERITE_JAVELIN_PROJECTILE = register("projectile_netherite_javelin_projectile",
 			EntityType.Builder.<NetheriteJavelinProjectileEntity>of(NetheriteJavelinProjectileEntity::new, MobCategory.MISC).setCustomClientFactory(NetheriteJavelinProjectileEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
 					.setUpdateInterval(1).sized(0.5f, 0.5f));
+	public static final RegistryObject<EntityType<LavaAxeProjectileEntity>> LAVA_AXE_PROJECTILE = register("projectile_lava_axe_projectile", EntityType.Builder.<LavaAxeProjectileEntity>of(LavaAxeProjectileEntity::new, MobCategory.MISC)
+			.setCustomClientFactory(LavaAxeProjectileEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 
 	private static <T extends Entity> RegistryObject<EntityType<T>> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
 		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(registryname));
