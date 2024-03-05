@@ -137,6 +137,15 @@
     "blocksToReplace": [
       {
         "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "CUSTOM:Endgranite"
+      },
+      {
+        "value": "CUSTOM:Endiorite"
+      },
+      {
+        "value": "CUSTOM:Endersite"
       }
     ],
     "generationShape": "UNIFORM",

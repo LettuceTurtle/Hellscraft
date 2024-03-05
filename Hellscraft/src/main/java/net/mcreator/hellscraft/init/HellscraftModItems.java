@@ -40,6 +40,7 @@ import net.mcreator.hellscraft.item.FishmetalHoeItem;
 import net.mcreator.hellscraft.item.FishmetalAxeItem;
 import net.mcreator.hellscraft.item.FishmetalArmorItem;
 import net.mcreator.hellscraft.item.FireballWandItem;
+import net.mcreator.hellscraft.item.EndFluidItem;
 import net.mcreator.hellscraft.item.DiamondJavelinItem;
 import net.mcreator.hellscraft.item.DarksteelSwordItem;
 import net.mcreator.hellscraft.item.DarksteelShovelItem;
@@ -247,6 +248,13 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> KIDNEYSTONE_BRICKS = block(HellscraftModBlocks.KIDNEYSTONE_BRICKS);
 	public static final RegistryObject<Item> CRACKED_KIDNEYSTONE_BRICKS = block(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICKS);
 	public static final RegistryObject<Item> CHISELED_KIDNEYSTONE = block(HellscraftModBlocks.CHISELED_KIDNEYSTONE);
+	public static final RegistryObject<Item> ENDGRANITE = block(HellscraftModBlocks.ENDGRANITE);
+	public static final RegistryObject<Item> ENDIORITE = block(HellscraftModBlocks.ENDIORITE);
+	public static final RegistryObject<Item> ENDERSITE = block(HellscraftModBlocks.ENDERSITE);
+	public static final RegistryObject<Item> END_FLUID_BUCKET = REGISTRY.register("end_fluid_bucket", () -> new EndFluidItem());
+	public static final RegistryObject<Item> POLISHED_ENDGRANITE = block(HellscraftModBlocks.POLISHED_ENDGRANITE);
+	public static final RegistryObject<Item> POLISHED_ENDIORITE = block(HellscraftModBlocks.POLISHED_ENDIORITE);
+	public static final RegistryObject<Item> POLISHED_ENDERSITE = block(HellscraftModBlocks.POLISHED_ENDERSITE);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

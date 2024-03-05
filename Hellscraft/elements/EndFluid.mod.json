@@ -1,0 +1,45 @@
+{
+  "_fv": 57,
+  "_type": "fluid",
+  "definition": {
+    "name": "End Fluid",
+    "bucketName": "End Fluid Bucket",
+    "textureStill": "c008396a-66ba-4fe4-9b67-aba0340ed7f0",
+    "textureFlowing": "endfluid_flowing",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 48,
+    "levelDecrease": 1,
+    "slopeFindDistance": 2,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 1.75,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1200,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MATERIALS"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty"
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
+  }
+}

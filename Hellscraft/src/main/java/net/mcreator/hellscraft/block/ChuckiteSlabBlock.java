@@ -21,7 +21,7 @@ import java.util.Collections;
 
 public class ChuckiteSlabBlock extends SlabBlock {
 	public ChuckiteSlabBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(1f, 0.25f).requiresCorrectToolForDrops().jumpFactor(3f).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true)
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(1f, 0.25f).requiresCorrectToolForDrops().jumpFactor(2f).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true)
 				.dynamicShape());
 	}
 

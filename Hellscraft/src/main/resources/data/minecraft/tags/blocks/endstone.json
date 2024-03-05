@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hellscraft:endgranite",
+    "hellscraft:endiorite",
+    "hellscraft:endersite",
+    "minecraft:end_stone"
+  ]
+}

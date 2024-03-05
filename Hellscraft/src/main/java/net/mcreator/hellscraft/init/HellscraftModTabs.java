@@ -124,6 +124,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.RAW_DARKSTEEL.get());
 			tabData.accept(HellscraftModItems.SALT.get());
 			tabData.accept(HellscraftModItems.PINK_SALT.get());
+			tabData.accept(HellscraftModItems.END_FLUID_BUCKET.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
@@ -196,6 +197,12 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICKS.get().asItem());
 			tabData.accept(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICKS.get().asItem());
 			tabData.accept(HellscraftModBlocks.CHISELED_KIDNEYSTONE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDGRANITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDIORITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDERSITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDGRANITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDIORITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDERSITE.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {

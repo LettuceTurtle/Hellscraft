@@ -1,0 +1,41 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:Endgranite"
+      },
+      {
+        "value": "CUSTOM:Endiorite"
+      },
+      {
+        "value": "CUSTOM:Endersite"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:Endgranite"
+      },
+      {
+        "value": "CUSTOM:Endiorite"
+      },
+      {
+        "value": "CUSTOM:Endersite"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "endstone",
+    "namespace": "minecraft"
+  }
+}

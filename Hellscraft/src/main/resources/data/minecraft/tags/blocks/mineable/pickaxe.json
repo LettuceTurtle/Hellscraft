@@ -60,6 +60,12 @@
     "hellscraft:polished_kidneystone",
     "hellscraft:kidneystone_bricks",
     "hellscraft:cracked_kidneystone_bricks",
-    "hellscraft:chiseled_kidneystone"
+    "hellscraft:chiseled_kidneystone",
+    "hellscraft:endgranite",
+    "hellscraft:endiorite",
+    "hellscraft:endersite",
+    "hellscraft:polished_endgranite",
+    "hellscraft:polished_endiorite",
+    "hellscraft:polished_endersite"
   ]
 }

@@ -35,6 +35,8 @@ import net.mcreator.hellscraft.init.HellscraftModPotions;
 import net.mcreator.hellscraft.init.HellscraftModPaintings;
 import net.mcreator.hellscraft.init.HellscraftModMenus;
 import net.mcreator.hellscraft.init.HellscraftModItems;
+import net.mcreator.hellscraft.init.HellscraftModFluids;
+import net.mcreator.hellscraft.init.HellscraftModFluidTypes;
 import net.mcreator.hellscraft.init.HellscraftModEntities;
 import net.mcreator.hellscraft.init.HellscraftModBlocks;
 import net.mcreator.hellscraft.init.HellscraftModBlockEntities;
@@ -69,6 +71,8 @@ public class HellscraftMod {
 
 		HellscraftModVillagerProfessions.PROFESSIONS.register(bus);
 		HellscraftModMenus.REGISTRY.register(bus);
+		HellscraftModFluids.REGISTRY.register(bus);
+		HellscraftModFluidTypes.REGISTRY.register(bus);
 	}
 
 	private static final String PROTOCOL_VERSION = "1";

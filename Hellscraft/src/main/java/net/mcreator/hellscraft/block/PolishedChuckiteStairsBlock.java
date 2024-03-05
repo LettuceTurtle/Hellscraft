@@ -21,7 +21,7 @@ import java.util.Collections;
 
 public class PolishedChuckiteStairsBlock extends StairBlock {
 	public PolishedChuckiteStairsBlock() {
-		super(() -> Blocks.AIR.defaultBlockState(), BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(2f, 0.5f).requiresCorrectToolForDrops().jumpFactor(3f).hasPostProcess((bs, br, bp) -> true)
+		super(() -> Blocks.AIR.defaultBlockState(), BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(2f, 0.5f).requiresCorrectToolForDrops().jumpFactor(2f).hasPostProcess((bs, br, bp) -> true)
 				.emissiveRendering((bs, br, bp) -> true).dynamicShape());
 	}
 
