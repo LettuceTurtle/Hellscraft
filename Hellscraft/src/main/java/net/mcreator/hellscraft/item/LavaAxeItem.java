@@ -28,6 +28,7 @@ import net.mcreator.hellscraft.init.HellscraftModEntities;
 
 
 import java.util.List;
+import org.joml.Vector3d;
 
 public class LavaAxeItem extends AxeItem {
 	//TODO:
@@ -86,6 +87,14 @@ public class LavaAxeItem extends AxeItem {
 		super.appendHoverText(itemstack, world, list, flag);
 	}
 
+	@Override
+	public boolean hurtEnemy(ItemStack itemstack, LivingEntity entity, LivingEntity sourceentity) {
+		boolean retval = super.hurtEnemy(itemstack, entity, sourceentity);
+		entity.setSecondsOnFire(5);
+		return retval;
+	}
+
+
 	private void throwAxe(LevelAccessor world, double x, double y, double z, ItemStack itemstack, Entity entity, int charge) {
 		if (entity == null || 1000 - charge <= 5)
 			return;
@@ -104,10 +113,13 @@ public class LavaAxeItem extends AxeItem {
 			if (world instanceof ServerLevel _level) {
 				Entity entityToSpawn = HellscraftModEntities.LAVA_AXE_PROJECTILE.get().spawn(_level, BlockPos.containing(x, y + 1, z), MobSpawnType.MOB_SUMMONED);
 				if (entityToSpawn != null) {
+					itemstack.setDamageValue(itemstack.getDamageValue() + 2);
 					entityToSpawn.setYRot((float) (Math.PI / 2));
 					entityToSpawn.setYBodyRot((float) (Math.PI / 2));
 					entityToSpawn.setYHeadRot((float) (Math.PI / 2));
-					entityToSpawn.setDeltaMovement((entity.getLookAngle().x * magnitude), (entity.getLookAngle().y + 0.2), (entity.getLookAngle().z * magnitude));
+					entityToSpawn.setDeltaMovement((entity.getLookAngle().x * magnitude) + (entity.xo - entity.xOld),
+					(entity.getLookAngle().y + 0.2) + (entity.yo - entity.yOld),
+					(entity.getLookAngle().z * magnitude) + (entity.zo - entity.zOld));
 				}
 			}
 		}

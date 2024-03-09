@@ -6020,7 +6020,8 @@
           "src/main/resources/assets/hellscraft/models/item/lava_axe.json",
           "src/main/java/net/mcreator/hellscraft/item/LavaAxeItem.java"
         ]
-      }
+      },
+      "path": "~/LavaAxe"
     },
     {
       "name": "LavaAxeProjectile",
@@ -6033,7 +6034,707 @@
         "files": [
           "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
         ]
+<<<<<<< Updated upstream
       }
+=======
+      },
+      "path": "~/LavaAxe"
+    },
+    {
+      "name": "Bismuth",
+      "type": "block",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/bismuth.json",
+          "src/main/resources/assets/hellscraft/models/item/bismuth.json",
+          "src/main/resources/assets/hellscraft/models/block/bismuth.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/bismuth.json",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/bismuth_biome_modifier.json",
+          "src/main/java/net/mcreator/hellscraft/block/BismuthBlock.java",
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/bismuth.json"
+        ]
+      }
+    },
+    {
+      "name": "Chuckite",
+      "type": "block",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/ChuckiteBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/chuckite.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite.json",
+          "src/main/resources/assets/hellscraft/models/item/chuckite.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteSlab",
+      "type": "block",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/ChuckiteSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/chuckite_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_slab.json",
+          "src/main/resources/assets/hellscraft/models/item/chuckite_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_slab_full.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteStairs",
+      "type": "block",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/chuckite_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_stairs_outer.json",
+          "src/main/java/net/mcreator/hellscraft/block/ChuckiteStairsBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/chuckite_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/chuckite_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckite",
+      "type": "block",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/polished_chuckite.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_chuckite.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedChuckiteBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteSlab",
+      "type": "block",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_slab_full.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedChuckiteSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/polished_chuckite_slab.json",
+          "src/main/resources/assets/hellscraft/models/item/polished_chuckite_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteStairs",
+      "type": "block",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_stairs_inner.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_chuckite_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_stairs_outer.json",
+          "src/main/resources/assets/hellscraft/models/item/polished_chuckite_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_chuckite_stairs.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedChuckiteStairsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteRockSmall",
+      "type": "structure",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_rock_small",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/template_pool/chuckite_rock_small.json",
+          "src/main/resources/data/hellscraft/worldgen/structure_set/chuckite_rock_small.json",
+          "src/main/resources/data/hellscraft/worldgen/structure/chuckite_rock_small.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteRockMedium",
+      "type": "structure",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_rock_medium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/structure_set/chuckite_rock_medium.json",
+          "src/main/resources/data/hellscraft/worldgen/template_pool/chuckite_rock_medium.json",
+          "src/main/resources/data/hellscraft/worldgen/structure/chuckite_rock_medium.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteRockLarge",
+      "type": "structure",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_rock_large",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/template_pool/chuckite_rock_large.json",
+          "src/main/resources/data/hellscraft/worldgen/structure_set/chuckite_rock_large.json",
+          "src/main/resources/data/hellscraft/worldgen/structure/chuckite_rock_large.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedDeeperslate",
+      "type": "block",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/PolishedDeeperslateBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/polished_deeperslate.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/item/polished_deeperslate.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBricks",
+      "type": "block",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_bricks.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateBricksBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledDeeperslate",
+      "type": "block",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/chiseled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/block/chiseled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/item/chiseled_deeperslate.json",
+          "src/main/java/net/mcreator/hellscraft/block/ChiseledDeeperslateBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickSlab",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_brick_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateBrickSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_brick_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_slab_full.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickStairs",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_brick_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_stairs.json",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_brick_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_stairs_outer.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateBrickStairsBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickWall",
+      "type": "block",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_brick_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_wall_side_tall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_wall_inventory.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateBrickWallBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_brick_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_brick_wall_post.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslate",
+      "type": "block",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/jeweled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/block/jeweled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/blockstates/jeweled_deeperslate.json",
+          "src/main/java/net/mcreator/hellscraft/block/JeweledDeeperslateBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateBricks",
+      "type": "block",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/jeweled_deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/models/item/jeweled_deeperslate_bricks.json",
+          "src/main/java/net/mcreator/hellscraft/block/JeweledDeeperslateBricksBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/jeweled_deeperslate_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledJeweledDeeperslate",
+      "type": "block",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_jeweled_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/chiseled_jeweled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/block/chiseled_jeweled_deeperslate.json",
+          "src/main/resources/assets/hellscraft/blockstates/chiseled_jeweled_deeperslate.json",
+          "src/main/java/net/mcreator/hellscraft/block/ChiseledJeweledDeeperslateBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslate",
+      "type": "block",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/GildedDeeperslateBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/gilded_deeperslate.json",
+          "src/main/resources/assets/hellscraft/blockstates/gilded_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/item/gilded_deeperslate.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateBricks",
+      "type": "block",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/GildedDeeperslateBricksBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/gilded_deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/models/item/gilded_deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/models/block/gilded_deeperslate_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledGildedDeeperslate",
+      "type": "block",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_gilded_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/chiseled_gilded_deeperslate.json",
+          "src/main/java/net/mcreator/hellscraft/block/ChiseledGildedDeeperslateBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/chiseled_gilded_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/item/chiseled_gilded_deeperslate.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslate",
+      "type": "block",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/galvanic_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/block/galvanic_deeperslate.json",
+          "src/main/java/net/mcreator/hellscraft/block/GalvanicDeeperslateBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/galvanic_deeperslate.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeepslateBricks",
+      "type": "block",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/GalvanicDeepslateBricksBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/galvanic_deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/blockstates/galvanic_deeperslate_bricks.json",
+          "src/main/resources/assets/hellscraft/models/block/galvanic_deeperslate_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ChisledGalvanicDeeperslate",
+      "type": "block",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chisled_galvanic_deeperslate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/ChisledGalvanicDeeperslateBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/chisled_galvanic_deeperslate.json",
+          "src/main/resources/assets/hellscraft/models/block/chisled_galvanic_deeperslate.json",
+          "src/main/resources/assets/hellscraft/blockstates/chisled_galvanic_deeperslate.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystone",
+      "type": "block",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/polished_kidneystone.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedKidneystoneBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/polished_kidneystone.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_kidneystone.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBricks",
+      "type": "block",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneBricksBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_bricks.json",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_bricks.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBricks",
+      "type": "block",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/CrackedKidneystoneBricksBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/cracked_kidneystone_bricks.json",
+          "src/main/resources/assets/hellscraft/models/item/cracked_kidneystone_bricks.json",
+          "src/main/resources/assets/hellscraft/blockstates/cracked_kidneystone_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledKidneystone",
+      "type": "block",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_kidneystone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/chiseled_kidneystone.json",
+          "src/main/resources/assets/hellscraft/models/item/chiseled_kidneystone.json",
+          "src/main/resources/assets/hellscraft/models/block/chiseled_kidneystone.json",
+          "src/main/java/net/mcreator/hellscraft/block/ChiseledKidneystoneBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Endgranite",
+      "type": "block",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/EndgraniteBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/endgranite.json",
+          "src/main/resources/assets/hellscraft/models/item/endgranite.json",
+          "src/main/resources/assets/hellscraft/blockstates/endgranite.json"
+        ]
+      }
+    },
+    {
+      "name": "Endiorite",
+      "type": "block",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/endiorite.json",
+          "src/main/resources/assets/hellscraft/models/block/endiorite.json",
+          "src/main/resources/assets/hellscraft/models/item/endiorite.json",
+          "src/main/java/net/mcreator/hellscraft/block/EndioriteBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Endersite",
+      "type": "block",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/endersite.json",
+          "src/main/resources/assets/hellscraft/models/item/endersite.json",
+          "src/main/resources/assets/hellscraft/models/block/endersite.json",
+          "src/main/java/net/mcreator/hellscraft/block/EndersiteBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteGeneration",
+      "type": "feature",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "endgranite_generation",
+      "metadata": {}
+    },
+    {
+      "name": "Endstone",
+      "type": "tag",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/blocks/endstone.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteGeneration",
+      "type": "feature",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_generation",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/forge/biome_modifier/endiorite_generation_biome_modifier.json",
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/endiorite_generation.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/endiorite_generation.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteGeneration",
+      "type": "feature",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_generation",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/forge/biome_modifier/endersite_generation_biome_modifier.json",
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/endersite_generation.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/endersite_generation.json"
+        ]
+      }
+    },
+    {
+      "name": "EndFluid",
+      "type": "fluid",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_fluid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/end_fluid.json",
+          "src/main/resources/assets/hellscraft/blockstates/end_fluid.json",
+          "src/main/java/net/mcreator/hellscraft/fluid/EndFluidFluid.java",
+          "src/main/java/net/mcreator/hellscraft/item/EndFluidItem.java",
+          "src/main/resources/assets/hellscraft/models/item/end_fluid_bucket.json",
+          "src/main/java/net/mcreator/hellscraft/block/EndFluidBlock.java",
+          "src/main/java/net/mcreator/hellscraft/fluid/types/EndFluidFluidType.java"
+        ]
+      }
+    },
+    {
+      "name": "EndfluidLakes",
+      "type": "feature",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endfluid_lakes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/endfluid_lakes.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/endfluid_lakes.json",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/endfluid_lakes_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgranite",
+      "type": "block",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/PolishedEndgraniteBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/polished_endgranite.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_endgranite.json",
+          "src/main/resources/assets/hellscraft/models/item/polished_endgranite.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndiorite",
+      "type": "block",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/polished_endiorite.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_endiorite.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedEndioriteBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/polished_endiorite.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersite",
+      "type": "block",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/polished_endersite.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_endersite.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedEndersiteBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/polished_endersite.json"
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/LavaAxe"
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
+        ]
+      },
+      "path": "~/LavaAxe"
+>>>>>>> Stashed changes
     }
   ],
   "variable_elements": [],
@@ -6046,8 +6747,12 @@
       "gui.cheese.press_ui.label_pressing": "Pressing",
       "painting.hellscraft.grunch.title": "Grunch",
       "block.cheese.block_of_corn": "Block Of Corn",
-      "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
       "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
+<<<<<<< Updated upstream
+=======
+      "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
+      "block.hellscraft.endersite": "Endersite",
+>>>>>>> Stashed changes
       "block.hellscraft.deeperslate": "Deeperslate",
       "block.cheese.block_of_villager": "Block Of Villager",
       "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
@@ -6358,7 +7063,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "LavaAxe",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "hellscraft",

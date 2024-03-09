@@ -5,8 +5,12 @@
   "gui.cheese.press_ui.label_pressing": "Pressing",
   "painting.hellscraft.grunch.title": "Grunch",
   "block.cheese.block_of_corn": "Block Of Corn",
-  "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
   "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
+<<<<<<< Updated upstream
+=======
+  "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
+  "block.hellscraft.endersite": "Endersite",
+>>>>>>> Stashed changes
   "block.hellscraft.deeperslate": "Deeperslate",
   "block.cheese.block_of_villager": "Block Of Villager",
   "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
