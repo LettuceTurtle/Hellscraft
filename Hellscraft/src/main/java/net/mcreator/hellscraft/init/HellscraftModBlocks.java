@@ -11,6 +11,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.hellscraft.block.WaxedBlockOfCornBlock;
+import net.mcreator.hellscraft.block.UraniumOreBlock;
 import net.mcreator.hellscraft.block.StrippedPissStemBlock;
 import net.mcreator.hellscraft.block.StrippedDarkwoodLogBlock;
 import net.mcreator.hellscraft.block.StoneBlockBlock;
@@ -75,6 +76,7 @@ import net.mcreator.hellscraft.block.GreenstoneBrickWallBlock;
 import net.mcreator.hellscraft.block.GreenstoneBrickStairsBlock;
 import net.mcreator.hellscraft.block.GreenstoneBrickSlabBlock;
 import net.mcreator.hellscraft.block.GreenstoneBlock;
+import net.mcreator.hellscraft.block.GreaseBlock;
 import net.mcreator.hellscraft.block.GildedDeeperslateBricksBlock;
 import net.mcreator.hellscraft.block.GildedDeeperslateBlock;
 import net.mcreator.hellscraft.block.GalvanicDeepslateBricksBlock;
@@ -84,6 +86,7 @@ import net.mcreator.hellscraft.block.EndioriteBlock;
 import net.mcreator.hellscraft.block.EndgraniteBlock;
 import net.mcreator.hellscraft.block.EndersiteBlock;
 import net.mcreator.hellscraft.block.EndFluidBlock;
+import net.mcreator.hellscraft.block.DeepslateUraniumOreBlock;
 import net.mcreator.hellscraft.block.DeepslateSpawnEggOreBlock;
 import net.mcreator.hellscraft.block.DeeperslateIronOreBlock;
 import net.mcreator.hellscraft.block.DeeperslateDiamondOreBlock;
@@ -254,4 +257,7 @@ public class HellscraftModBlocks {
 	public static final RegistryObject<Block> POLISHED_ENDGRANITE = REGISTRY.register("polished_endgranite", () -> new PolishedEndgraniteBlock());
 	public static final RegistryObject<Block> POLISHED_ENDIORITE = REGISTRY.register("polished_endiorite", () -> new PolishedEndioriteBlock());
 	public static final RegistryObject<Block> POLISHED_ENDERSITE = REGISTRY.register("polished_endersite", () -> new PolishedEndersiteBlock());
+	public static final RegistryObject<Block> GREASE = REGISTRY.register("grease", () -> new GreaseBlock());
+	public static final RegistryObject<Block> URANIUM_ORE = REGISTRY.register("uranium_ore", () -> new UraniumOreBlock());
+	public static final RegistryObject<Block> DEEPSLATE_URANIUM_ORE = REGISTRY.register("deepslate_uranium_ore", () -> new DeepslateUraniumOreBlock());
 }

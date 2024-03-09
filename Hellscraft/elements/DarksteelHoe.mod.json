@@ -19,7 +19,7 @@
     "efficiency": 8.0,
     "attackSpeed": 4.0,
     "enchantability": 22,
-    "damageVsEntity": 1.0,
+    "damageVsEntity": 4.0,
     "usageCount": 0,
     "blocksAffected": [],
     "glowCondition": {
@@ -30,7 +30,7 @@
         "value": "CUSTOM:DarksteelIngot"
       }
     ],
-    "immuneToFire": false,
+    "immuneToFire": true,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }
