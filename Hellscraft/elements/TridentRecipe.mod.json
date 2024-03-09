@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TridentShard"
+      },
+      {
+        "value": "CUSTOM:TridentShard"
+      },
+      {
+        "value": "CUSTOM:TridentShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FishmetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FishmetalIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.TRIDENT"
+    },
+    "name": "trident_recipe",
+    "namespace": "mod"
+  }
+}

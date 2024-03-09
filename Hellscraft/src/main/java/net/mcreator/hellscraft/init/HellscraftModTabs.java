@@ -116,6 +116,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.FISHMETAL_JAVELIN.get());
 			tabData.accept(HellscraftModItems.DARKSTEEL_JAVELIN.get());
 			tabData.accept(HellscraftModItems.FIREBALL_WAND.get());
+			tabData.accept(HellscraftModItems.DARKSTEEL_SHIELD.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
