@@ -275,7 +275,6 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> RAW_URANIUM = REGISTRY.register("raw_uranium", () -> new RawUraniumItem());
 	public static final RegistryObject<Item> URANIUM_ORE = block(HellscraftModBlocks.URANIUM_ORE);
 	public static final RegistryObject<Item> DEEPSLATE_URANIUM_ORE = block(HellscraftModBlocks.DEEPSLATE_URANIUM_ORE);
-<<<<<<< HEAD
 	public static final RegistryObject<Item> BLOCK_OF_CARROT = block(HellscraftModBlocks.BLOCK_OF_CARROT);
 	public static final RegistryObject<Item> CARROT_BRICKS = block(HellscraftModBlocks.CARROT_BRICKS);
 	public static final RegistryObject<Item> CARROT_BRICK_SLAB = block(HellscraftModBlocks.CARROT_BRICK_SLAB);
@@ -289,8 +288,6 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> BLOCK_OF_AZURE_BLUET = block(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET);
 	public static final RegistryObject<Item> MUSHRACK = block(HellscraftModBlocks.MUSHRACK);
 	public static final RegistryObject<Item> NETHERPULP = REGISTRY.register("netherpulp", () -> new NetherpulpItem());
-=======
->>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

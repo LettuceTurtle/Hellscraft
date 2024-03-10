@@ -6871,19 +6871,6 @@
       }
     },
     {
-      "name": "Elderguardian",
-      "type": "loottable",
-      "sortid": 462,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "elderguardian",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/minecraft/loot_tables/entities/elder_guardian.json"
-        ]
-      }
-    },
-    {
       "name": "DeepslateUraniumOreLoot",
       "type": "loottable",
       "sortid": 464,
@@ -7653,6 +7640,67 @@
           "src/main/resources/data/hellscraft/recipes/paper_r.json"
         ]
       }
+    },
+    {
+      "name": "ElderGuardianTag",
+      "type": "tag",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elder_guardian_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/entity_types/elder_guardian_tag.json"
+        ]
+      }
+    },
+    {
+      "name": "EntityAddedDrops",
+      "type": "procedure",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_added_drops",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/EntityAddedDropsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TridentR",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trident_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/trident_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -7671,8 +7719,8 @@
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
-      "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
       "block.cheese.piss_plank_stairs": "Piss Stairs",
+      "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
       "block.hellscraft.jeweled_deeperslate_bricks": "Jeweled Deeperslate Bricks",
       "block.hellscraft.press": "Press",
       "block.cheese.darksteel_block": "Darksteel Block",
@@ -7686,8 +7734,8 @@
       "block.hellscraft.grud": "Grud",
       "block.cheese.deeperslate_iron_ore": "Deeperslate Iron Ore",
       "block.hellscraft.block_of_popcorn": "Block of Popcorn",
-      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
+      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.chisled_galvanic_deeperslate": "Chisled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
       "block.hellscraft.block_of_poppy": "Block Of Poppy",
@@ -7695,19 +7743,19 @@
       "biome.cheese.piss_forest": "Piss Forest",
       "biome.hellscraft.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.cheese.darkwood_log": "Darkwood Log",
-      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.hellscraft.block_of_villager": "Block Of Villager",
+      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.cheese.deeperslate": "Deeperslate",
       "item.cheese.netherite_javelin": "Netherite Javelin",
       "item.cheese.fishmetal_armor_chestplate": "Fishmetal Chestplate",
-      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.hellscraft.block_of_carrot": "Block Of Carrot",
+      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
       "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
-      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
       "painting.hellscraft.urabrask_hit.title": "Urabrask Hit",
       "block.hellscraft.endgranite": "Endgranite",
@@ -7808,9 +7856,9 @@
       "item.cheese.darksteel_armor_leggings": "Darksteel Leggings",
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
-      "item.cheese.totem_of_dying": "Totem Of Dying",
-      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "block.hellscraft.polished_endersite": "Polished Endersite",
+      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
+      "item.cheese.totem_of_dying": "Totem Of Dying",
       "block.hellscraft.darksteel_block": "Darksteel Block",
       "item.cheese.fishmetal_sword": "Fishmetal Sword",
       "item.hellscraft.darksteel_armor_boots": "Darksteel Boots",
@@ -7844,9 +7892,9 @@
       "block.cheese.gunk": "Gunk",
       "item.hellscraft.netherspice": "Netherspice",
       "block.hellscraft.carrot_brick_stairs": "Carrot Brick Stairs",
-      "item.cheese.cheesed_armor_helmet": "Cheese Helmet",
-      "block.hellscraft.darksteel_ore": "Darksteel Ore",
       "fluid.hellscraft.end_fluid": "End Fluid",
+      "block.hellscraft.darksteel_ore": "Darksteel Ore",
+      "item.cheese.cheesed_armor_helmet": "Cheese Helmet",
       "item.hellscraft.fishmetal_armor_chestplate": "Fishmetal Chestplate",
       "painting.hellscraft.storm_crow.author": "John Matson",
       "block.cheese.cooler_greenstone": "Chiseled Greenstone Bricks",
@@ -7858,8 +7906,8 @@
       "block.hellscraft.piss_plank_fence_gate": "Piss Plank Fence Gate",
       "item.hellscraft.corn": "Corn",
       "block.hellscraft.kidneystone_bricks": "Kidneystone Bricks",
-      "block.cheese.darkwood_stairs": "Darkwood Stairs",
       "block.hellscraft.netherspice_block": "Netherspice Block",
+      "block.cheese.darkwood_stairs": "Darkwood Stairs",
       "item.hellscraft.diamond_javelin": "Diamond Javelin",
       "block.hellscraft.chuckite": "Chuckite",
       "block.hellscraft.block_of_cornflower": "Block Of Cornflower",
