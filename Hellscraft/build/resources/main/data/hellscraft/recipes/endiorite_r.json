@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:end_stone"
+    },
+    "b": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result": {
+    "item": "hellscraft:endiorite",
+    "count": 4
+  }
+}

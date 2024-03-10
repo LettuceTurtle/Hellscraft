@@ -83,6 +83,12 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.GALVANIC_DEEPERSLATE.get().asItem());
 			tabData.accept(HellscraftModBlocks.GALVANIC_DEEPERSLATE_BRICKS.get().asItem());
 			tabData.accept(HellscraftModBlocks.CHISLED_GALVANIC_DEEPERSLATE.get().asItem());
+			tabData.accept(HellscraftModBlocks.CARROT_BRICKS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CARROT_BRICK_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.CARROT_BRICK_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CARROT_BRICK_WALL.get().asItem());
+			tabData.accept(HellscraftModBlocks.GRUD.get().asItem());
+			tabData.accept(HellscraftModBlocks.VANTABLOCK.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -116,6 +122,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.FISHMETAL_JAVELIN.get());
 			tabData.accept(HellscraftModItems.DARKSTEEL_JAVELIN.get());
 			tabData.accept(HellscraftModItems.FIREBALL_WAND.get());
+			tabData.accept(HellscraftModItems.DARKSTEEL_SHIELD.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
@@ -150,6 +157,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.BEEF_JERKEY.get());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_BREAD.get().asItem());
 			tabData.accept(HellscraftModItems.BREAD_SLICE.get());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_CARROT.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
@@ -203,6 +211,11 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDGRANITE.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDIORITE.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDERSITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_DANDELION.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_POPPY.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_CORNFLOWER.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET.get().asItem());
+			tabData.accept(HellscraftModBlocks.MUSHRACK.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {

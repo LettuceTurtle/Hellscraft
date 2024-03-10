@@ -26,7 +26,7 @@ public class DarksteelHoeItem extends HoeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return -1f;
+				return 2f;
 			}
 
 			public int getLevel() {
@@ -40,7 +40,7 @@ public class DarksteelHoeItem extends HoeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(HellscraftModItems.DARKSTEEL_INGOT.get()));
 			}
-		}, 0, 0f, new Item.Properties());
+		}, 0, 0f, new Item.Properties().fireResistant());
 	}
 
 	@Override

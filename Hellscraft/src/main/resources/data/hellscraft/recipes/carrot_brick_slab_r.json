@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:carrot_bricks"
+    }
+  },
+  "result": {
+    "item": "hellscraft:carrot_brick_slab",
+    "count": 6
+  }
+}

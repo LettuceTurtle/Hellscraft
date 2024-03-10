@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CarrotBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CarrotBricks"
+      },
+      {
+        "value": "CUSTOM:CarrotBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CarrotBricks"
+      },
+      {
+        "value": "CUSTOM:CarrotBricks"
+      },
+      {
+        "value": "CUSTOM:CarrotBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CarrotBrickStairs"
+    },
+    "name": "carrot_brick_stairs_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hellscraft:block/acacia_door_bottom_1",
+    "up": "hellscraft:block/acacia_door_bottom_1",
+    "north": "hellscraft:block/acacia_door_bottom_1",
+    "east": "hellscraft:block/acacia_door_bottom_1",
+    "south": "hellscraft:block/acacia_door_bottom_1",
+    "west": "hellscraft:block/acacia_door_bottom_1",
+    "particle": "hellscraft:block/acacia_door_bottom_1"
+  },
+  "render_type": "solid"
+}

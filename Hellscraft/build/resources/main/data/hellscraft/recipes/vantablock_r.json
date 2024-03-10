@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "hellscraft:vantablock",
+    "count": 1
+  }
+}

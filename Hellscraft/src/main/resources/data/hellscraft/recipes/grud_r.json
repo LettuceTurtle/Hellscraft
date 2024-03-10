@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "hellscraft:greenstone"
+    }
+  ],
+  "result": {
+    "item": "hellscraft:grud",
+    "count": 2
+  }
+}

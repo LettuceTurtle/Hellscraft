@@ -7,14 +7,22 @@ package net.mcreator.hellscraft.init;
 import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.DoubleHighBlockItem;
 import net.minecraft.world.item.BlockItem;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.client.renderer.item.ItemProperties;
 
 import net.mcreator.hellscraft.item.WoodenJavelinItem;
 import net.mcreator.hellscraft.item.VillagerMeatItem;
+import net.mcreator.hellscraft.item.TridentShardItem;
 import net.mcreator.hellscraft.item.TotemOfDyingItem;
 import net.mcreator.hellscraft.item.StoneJavelinItem;
 import net.mcreator.hellscraft.item.StickOfButterItem;
@@ -22,11 +30,13 @@ import net.mcreator.hellscraft.item.SeasonedPorkchopItem;
 import net.mcreator.hellscraft.item.SaltedBucketOfPopcornItem;
 import net.mcreator.hellscraft.item.SaltedBeefItem;
 import net.mcreator.hellscraft.item.SaltItem;
+import net.mcreator.hellscraft.item.RawUraniumItem;
 import net.mcreator.hellscraft.item.RawDarksteelItem;
 import net.mcreator.hellscraft.item.PopcornWithButterAndSaltItem;
 import net.mcreator.hellscraft.item.PopcornItem;
 import net.mcreator.hellscraft.item.PinkSaltItem;
 import net.mcreator.hellscraft.item.NetherspiceItem;
+import net.mcreator.hellscraft.item.NetherpulpItem;
 import net.mcreator.hellscraft.item.NetheriteJavelinItem;
 import net.mcreator.hellscraft.item.LavaAxeItem;
 import net.mcreator.hellscraft.item.IronJavelinItem;
@@ -44,6 +54,7 @@ import net.mcreator.hellscraft.item.EndFluidItem;
 import net.mcreator.hellscraft.item.DiamondJavelinItem;
 import net.mcreator.hellscraft.item.DarksteelSwordItem;
 import net.mcreator.hellscraft.item.DarksteelShovelItem;
+import net.mcreator.hellscraft.item.DarksteelShieldItem;
 import net.mcreator.hellscraft.item.DarksteelPickaxeItem;
 import net.mcreator.hellscraft.item.DarksteelJavelinItem;
 import net.mcreator.hellscraft.item.DarksteelIngotItem;
@@ -67,9 +78,11 @@ import net.mcreator.hellscraft.item.BucketOfPilkItem;
 import net.mcreator.hellscraft.item.BreadSliceItem;
 import net.mcreator.hellscraft.item.BreadKnifeItem;
 import net.mcreator.hellscraft.item.BottleOfPepsiItem;
+import net.mcreator.hellscraft.item.BeefSandwhichItem;
 import net.mcreator.hellscraft.item.BeefJerkeyItem;
 import net.mcreator.hellscraft.HellscraftMod;
 
+@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 public class HellscraftModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, HellscraftMod.MODID);
 	public static final RegistryObject<Item> CHEESE = REGISTRY.register("cheese", () -> new CheeseItem());
@@ -255,6 +268,26 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> POLISHED_ENDGRANITE = block(HellscraftModBlocks.POLISHED_ENDGRANITE);
 	public static final RegistryObject<Item> POLISHED_ENDIORITE = block(HellscraftModBlocks.POLISHED_ENDIORITE);
 	public static final RegistryObject<Item> POLISHED_ENDERSITE = block(HellscraftModBlocks.POLISHED_ENDERSITE);
+	public static final RegistryObject<Item> DARKSTEEL_SHIELD = REGISTRY.register("darksteel_shield", () -> new DarksteelShieldItem());
+	public static final RegistryObject<Item> TRIDENT_SHARD = REGISTRY.register("trident_shard", () -> new TridentShardItem());
+	public static final RegistryObject<Item> GREASE = block(HellscraftModBlocks.GREASE);
+	public static final RegistryObject<Item> BEEF_SANDWHICH = REGISTRY.register("beef_sandwhich", () -> new BeefSandwhichItem());
+	public static final RegistryObject<Item> RAW_URANIUM = REGISTRY.register("raw_uranium", () -> new RawUraniumItem());
+	public static final RegistryObject<Item> URANIUM_ORE = block(HellscraftModBlocks.URANIUM_ORE);
+	public static final RegistryObject<Item> DEEPSLATE_URANIUM_ORE = block(HellscraftModBlocks.DEEPSLATE_URANIUM_ORE);
+	public static final RegistryObject<Item> BLOCK_OF_CARROT = block(HellscraftModBlocks.BLOCK_OF_CARROT);
+	public static final RegistryObject<Item> CARROT_BRICKS = block(HellscraftModBlocks.CARROT_BRICKS);
+	public static final RegistryObject<Item> CARROT_BRICK_SLAB = block(HellscraftModBlocks.CARROT_BRICK_SLAB);
+	public static final RegistryObject<Item> CARROT_BRICK_STAIRS = block(HellscraftModBlocks.CARROT_BRICK_STAIRS);
+	public static final RegistryObject<Item> CARROT_BRICK_WALL = block(HellscraftModBlocks.CARROT_BRICK_WALL);
+	public static final RegistryObject<Item> BLOCK_OF_DANDELION = block(HellscraftModBlocks.BLOCK_OF_DANDELION);
+	public static final RegistryObject<Item> GRUD = block(HellscraftModBlocks.GRUD);
+	public static final RegistryObject<Item> VANTABLOCK = block(HellscraftModBlocks.VANTABLOCK);
+	public static final RegistryObject<Item> BLOCK_OF_POPPY = block(HellscraftModBlocks.BLOCK_OF_POPPY);
+	public static final RegistryObject<Item> BLOCK_OF_CORNFLOWER = block(HellscraftModBlocks.BLOCK_OF_CORNFLOWER);
+	public static final RegistryObject<Item> BLOCK_OF_AZURE_BLUET = block(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET);
+	public static final RegistryObject<Item> MUSHRACK = block(HellscraftModBlocks.MUSHRACK);
+	public static final RegistryObject<Item> NETHERPULP = REGISTRY.register("netherpulp", () -> new NetherpulpItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
@@ -262,5 +295,12 @@ public class HellscraftModItems {
 
 	private static RegistryObject<Item> doubleBlock(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new DoubleHighBlockItem(block.get(), new Item.Properties()));
+	}
+
+	@SubscribeEvent
+	public static void clientLoad(FMLClientSetupEvent event) {
+		event.enqueueWork(() -> {
+			ItemProperties.register(DARKSTEEL_SHIELD.get(), new ResourceLocation("blocking"), ItemProperties.getProperty(Items.SHIELD, new ResourceLocation("blocking")));
+		});
 	}
 }

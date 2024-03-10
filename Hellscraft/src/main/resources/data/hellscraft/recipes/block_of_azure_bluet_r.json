@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:azure_bluet"
+    }
+  },
+  "result": {
+    "item": "hellscraft:block_of_azure_bluet",
+    "count": 1
+  }
+}

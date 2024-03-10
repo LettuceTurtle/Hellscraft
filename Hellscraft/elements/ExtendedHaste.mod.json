@@ -1,0 +1,21 @@
+{
+  "_fv": 57,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Extended Haste",
+    "splashName": "Splash Potion of Extended Haste",
+    "lingeringName": "Lingering Potion of Extended Haste",
+    "arrowName": "Arrow of Extended Haste",
+    "effects": [
+      {
+        "effect": {
+          "value": "HASTE"
+        },
+        "duration": 7200,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

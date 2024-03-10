@@ -21,6 +21,15 @@
     "hellscraft:block_of_butter",
     "hellscraft:block_of_pink_salt",
     "hellscraft:salt_lamp",
-    "hellscraft:block_of_bread"
+    "hellscraft:block_of_bread",
+    "hellscraft:block_of_carrot",
+    "hellscraft:carrot_bricks",
+    "hellscraft:carrot_brick_slab",
+    "hellscraft:carrot_brick_stairs",
+    "hellscraft:carrot_brick_wall",
+    "hellscraft:block_of_dandelion",
+    "hellscraft:block_of_poppy",
+    "hellscraft:block_of_cornflower",
+    "hellscraft:block_of_azure_bluet"
   ]
 }

@@ -32,6 +32,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.hellscraft.init.HellscraftModVillagerProfessions;
 import net.mcreator.hellscraft.init.HellscraftModTabs;
 import net.mcreator.hellscraft.init.HellscraftModPotions;
+import net.mcreator.hellscraft.init.HellscraftModParticleTypes;
 import net.mcreator.hellscraft.init.HellscraftModPaintings;
 import net.mcreator.hellscraft.init.HellscraftModMenus;
 import net.mcreator.hellscraft.init.HellscraftModItems;
@@ -68,7 +69,7 @@ public class HellscraftMod {
 
 		HellscraftModPotions.REGISTRY.register(bus);
 		HellscraftModPaintings.REGISTRY.register(bus);
-
+		HellscraftModParticleTypes.REGISTRY.register(bus);
 		HellscraftModVillagerProfessions.PROFESSIONS.register(bus);
 		HellscraftModMenus.REGISTRY.register(bus);
 		HellscraftModFluids.REGISTRY.register(bus);

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hellscraft:block/uraniumore",
+    "up": "hellscraft:block/uraniumore",
+    "north": "hellscraft:block/uraniumore",
+    "east": "hellscraft:block/uraniumore",
+    "south": "hellscraft:block/uraniumore",
+    "west": "hellscraft:block/uraniumore",
+    "particle": "hellscraft:block/uraniumore"
+  },
+  "render_type": "solid"
+}

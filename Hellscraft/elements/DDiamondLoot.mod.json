@@ -5,7 +5,7 @@
     "type": "Block",
     "pools": [
       {
-        "minrolls": 2,
+        "minrolls": 1,
         "maxrolls": 3,
         "minbonusrolls": 1,
         "maxbonusrolls": 1,
