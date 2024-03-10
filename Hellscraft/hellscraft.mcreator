@@ -6841,13 +6841,13 @@
       "registry_name": "uranium_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/block/uranium_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/uranium_ore.json",
           "src/main/java/net/mcreator/hellscraft/block/UraniumOreBlock.java",
           "src/main/resources/assets/hellscraft/blockstates/uranium_ore.json",
-          "src/main/resources/data/hellscraft/worldgen/placed_feature/uranium_ore.json",
+          "src/main/resources/assets/hellscraft/models/block/uranium_ore.json",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/uranium_ore_biome_modifier.json",
           "src/main/resources/data/hellscraft/worldgen/configured_feature/uranium_ore.json",
-          "src/main/resources/assets/hellscraft/models/item/uranium_ore.json",
-          "src/main/resources/data/hellscraft/forge/biome_modifier/uranium_ore_biome_modifier.json"
+          "src/main/resources/assets/hellscraft/models/item/uranium_ore.json"
         ]
       }
     },
@@ -6860,12 +6860,12 @@
       "registry_name": "deepslate_uranium_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/hellscraft/worldgen/placed_feature/deepslate_uranium_ore.json",
-          "src/main/java/net/mcreator/hellscraft/block/DeepslateUraniumOreBlock.java",
-          "src/main/resources/data/hellscraft/forge/biome_modifier/deepslate_uranium_ore_biome_modifier.json",
-          "src/main/resources/assets/hellscraft/blockstates/deepslate_uranium_ore.json",
           "src/main/resources/assets/hellscraft/models/item/deepslate_uranium_ore.json",
           "src/main/resources/assets/hellscraft/models/block/deepslate_uranium_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/deepslate_uranium_ore.json",
+          "src/main/resources/assets/hellscraft/blockstates/deepslate_uranium_ore.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeepslateUraniumOreBlock.java",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/deepslate_uranium_ore_biome_modifier.json",
           "src/main/resources/data/hellscraft/worldgen/configured_feature/deepslate_uranium_ore.json"
         ]
       }
@@ -7701,6 +7701,106 @@
           "src/main/resources/data/hellscraft/recipes/trident_r.json"
         ]
       }
+    },
+    {
+      "name": "LeadPipe",
+      "type": "block",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_pipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/lead_pipe.json",
+          "src/main/java/net/mcreator/hellscraft/block/LeadPipeBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/lead_pipe.json",
+          "src/main/resources/assets/hellscraft/models/block/lead_pipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LeadOre",
+      "type": "block",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/lead_ore.json",
+          "src/main/resources/assets/hellscraft/models/item/lead_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/lead_ore.json",
+          "src/main/resources/assets/hellscraft/blockstates/lead_ore.json",
+          "src/main/resources/assets/hellscraft/models/block/lead_ore.json",
+          "src/main/java/net/mcreator/hellscraft/block/LeadOreBlock.java",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/lead_ore_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateLeadOre",
+      "type": "block",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_lead_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/DeepslateLeadOreBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/deepslate_lead_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/deepslate_lead_ore.json",
+          "src/main/resources/assets/hellscraft/blockstates/deepslate_lead_ore.json",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/deepslate_lead_ore_biome_modifier.json",
+          "src/main/resources/assets/hellscraft/models/item/deepslate_lead_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/deepslate_lead_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateLeadOre",
+      "type": "block",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_lead_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/worldgen/configured_feature/deeperslate_lead_ore.json",
+          "src/main/resources/data/hellscraft/worldgen/placed_feature/deeperslate_lead_ore.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateLeadOreBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_lead_ore.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_lead_ore.json",
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_lead_ore.json",
+          "src/main/resources/data/hellscraft/forge/biome_modifier/deeperslate_lead_ore_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "RawLead",
+      "type": "item",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/RawLeadItem.java",
+          "src/main/resources/assets/hellscraft/models/item/raw_lead.json"
+        ]
+      }
+    },
+    {
+      "name": "LeadOreLoot",
+      "type": "loottable",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_loot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/loot_tables/blocks/lead_ore.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -7845,6 +7945,7 @@
       "item.cheese.darksteel_armor_boots": "Darksteel Boots",
       "block.hellscraft.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.hellscraft.piss_plank_door": "Piss Door",
+      "block.hellscraft.deepslate_lead_ore": "Deepslate Lead Ore",
       "item.hellscraft.fishmetal_armor_helmet": "Fishmetal Helmet",
       "item.minecraft.potion.effect.enhanced_levitation": "Potion of Enhanced Levitation",
       "block.cheese.press": "Press",
@@ -7965,6 +8066,7 @@
       "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
       "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
       "entity.minecraft.villager.cheese.necromancer": "Necromancer",
+      "block.hellscraft.deeperslate_lead_ore": "Deeperslate Lead Ore",
       "block.hellscraft.piss_planks": "Piss Planks",
       "painting.hellscraft.one_with_nothing.title": "One With Nothing",
       "block.cheese.piss_button": "Piss Button",
@@ -8001,13 +8103,14 @@
       "item.cheese.iron_javelin": "Iron Javelin",
       "block.hellscraft.polished_chuckite_slab": "Polished Chuckite Slab",
       "block.hellscraft.cheese_slab": "Cheese Slab",
-      "block.hellscraft.deepslate_uranium_ore": "Uranium Ore",
+      "block.hellscraft.deepslate_uranium_ore": "Deepslate Uranium Ore",
       "painting.hellscraft.pawper.title": "Pawper",
       "block.hellscraft.corn_ore": "Corn Ore",
       "item.hellscraft.fishmetal_javelin": "Fishmetal Javelin",
       "block.hellscraft.darkwood_button": "Darkwood Button",
       "block.hellscraft.chuckite_stairs": "Chuckite Stairs",
       "block.hellscraft.grease": "Grease",
+      "block.hellscraft.lead_ore": "Lead Ore",
       "item.cheese.raw_darksteel": "Raw Darksteel",
       "item.hellscraft.cheesed_armor_chestplate": "Cheese Chestplate",
       "item.hellscraft.fishmetal_armor_leggings": "Fishmetal Leggings",
@@ -8058,6 +8161,7 @@
       "block.hellscraft.uranium_ore": "Uranium Ore",
       "block.hellscraft.deeperslate_brick_slab": "Deeperslate Brick Slab",
       "block.cheese.smooth_hardspice": "Smooth Hardspice",
+      "item.hellscraft.raw_lead": "Raw Lead",
       "block.hellscraft.polished_block_of_corn": "Polished Block Of Corn",
       "block.hellscraft.smooth_greenstone": "Smooth Greenstone",
       "painting.hellscraft.urabrask_hit.author": "Lurtle",
@@ -8088,6 +8192,7 @@
       "biome.cheese.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.hellscraft.block_of_dandelion": "Block Of Dandelion",
       "painting.hellscraft.smoking.author": "Smoking",
+      "block.hellscraft.lead_pipe": "Lead Pipe",
       "item.hellscraft.darksteel_armor_chestplate": "Darksteel Chestplate",
       "block.hellscraft.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
       "block.cheese.kidneystone": "Kidneystone",

@@ -31,6 +31,7 @@ import net.mcreator.hellscraft.item.SaltedBucketOfPopcornItem;
 import net.mcreator.hellscraft.item.SaltedBeefItem;
 import net.mcreator.hellscraft.item.SaltItem;
 import net.mcreator.hellscraft.item.RawUraniumItem;
+import net.mcreator.hellscraft.item.RawLeadItem;
 import net.mcreator.hellscraft.item.RawDarksteelItem;
 import net.mcreator.hellscraft.item.PopcornWithButterAndSaltItem;
 import net.mcreator.hellscraft.item.PopcornItem;
@@ -288,6 +289,11 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> BLOCK_OF_AZURE_BLUET = block(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET);
 	public static final RegistryObject<Item> MUSHRACK = block(HellscraftModBlocks.MUSHRACK);
 	public static final RegistryObject<Item> NETHERPULP = REGISTRY.register("netherpulp", () -> new NetherpulpItem());
+	public static final RegistryObject<Item> LEAD_PIPE = block(HellscraftModBlocks.LEAD_PIPE);
+	public static final RegistryObject<Item> LEAD_ORE = block(HellscraftModBlocks.LEAD_ORE);
+	public static final RegistryObject<Item> DEEPSLATE_LEAD_ORE = block(HellscraftModBlocks.DEEPSLATE_LEAD_ORE);
+	public static final RegistryObject<Item> DEEPERSLATE_LEAD_ORE = block(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE);
+	public static final RegistryObject<Item> RAW_LEAD = REGISTRY.register("raw_lead", () -> new RawLeadItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

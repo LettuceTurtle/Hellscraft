@@ -59,6 +59,8 @@ import net.mcreator.hellscraft.block.PissMushroomBlock;
 import net.mcreator.hellscraft.block.PissButtonBlock;
 import net.mcreator.hellscraft.block.NetherspiceBlockBlock;
 import net.mcreator.hellscraft.block.MushrackBlock;
+import net.mcreator.hellscraft.block.LeadPipeBlock;
+import net.mcreator.hellscraft.block.LeadOreBlock;
 import net.mcreator.hellscraft.block.KidneystoneBricksBlock;
 import net.mcreator.hellscraft.block.KidneystoneBlock;
 import net.mcreator.hellscraft.block.JeweledDeeperslateBricksBlock;
@@ -91,6 +93,8 @@ import net.mcreator.hellscraft.block.EndersiteBlock;
 import net.mcreator.hellscraft.block.EndFluidBlock;
 import net.mcreator.hellscraft.block.DeepslateUraniumOreBlock;
 import net.mcreator.hellscraft.block.DeepslateSpawnEggOreBlock;
+import net.mcreator.hellscraft.block.DeepslateLeadOreBlock;
+import net.mcreator.hellscraft.block.DeeperslateLeadOreBlock;
 import net.mcreator.hellscraft.block.DeeperslateIronOreBlock;
 import net.mcreator.hellscraft.block.DeeperslateDiamondOreBlock;
 import net.mcreator.hellscraft.block.DeeperslateBricksBlock;
@@ -284,4 +288,8 @@ public class HellscraftModBlocks {
 	public static final RegistryObject<Block> BLOCK_OF_CORNFLOWER = REGISTRY.register("block_of_cornflower", () -> new BlockOfCornflowerBlock());
 	public static final RegistryObject<Block> BLOCK_OF_AZURE_BLUET = REGISTRY.register("block_of_azure_bluet", () -> new BlockOfAzureBluetBlock());
 	public static final RegistryObject<Block> MUSHRACK = REGISTRY.register("mushrack", () -> new MushrackBlock());
+	public static final RegistryObject<Block> LEAD_PIPE = REGISTRY.register("lead_pipe", () -> new LeadPipeBlock());
+	public static final RegistryObject<Block> LEAD_ORE = REGISTRY.register("lead_ore", () -> new LeadOreBlock());
+	public static final RegistryObject<Block> DEEPSLATE_LEAD_ORE = REGISTRY.register("deepslate_lead_ore", () -> new DeepslateLeadOreBlock());
+	public static final RegistryObject<Block> DEEPERSLATE_LEAD_ORE = REGISTRY.register("deeperslate_lead_ore", () -> new DeeperslateLeadOreBlock());
 }

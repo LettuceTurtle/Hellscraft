@@ -8,8 +8,8 @@
     "textureFront": "uraniumoredeepslate",
     "textureRight": "uraniumoredeepslate",
     "textureBack": "uraniumoredeepslate",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": true,
@@ -33,16 +33,16 @@
         "subtract": false
       }
     ],
-    "name": "Uranium Ore",
+    "name": "Deepslate Uranium Ore",
     "specialInformation": {
       "fixedValue": []
     },
-    "hardness": 2.5,
-    "resistance": 18.0,
+    "hardness": 4.5,
+    "resistance": 3.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "DECORATIONS"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -127,7 +127,7 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 10,
+    "frequencyPerChunks": 2,
     "frequencyOnChunk": 16,
     "minGenerateHeight": -64,
     "maxGenerateHeight": 64

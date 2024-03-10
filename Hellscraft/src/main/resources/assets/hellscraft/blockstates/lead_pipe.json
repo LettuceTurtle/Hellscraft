@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hellscraft:block/lead_pipe",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hellscraft:block/lead_pipe"
+    },
+    "axis=z": {
+      "model": "hellscraft:block/lead_pipe",
+      "x": 90
+    }
+  }
+}

@@ -70,6 +70,10 @@
     "hellscraft:uranium_ore",
     "hellscraft:deepslate_uranium_ore",
     "hellscraft:grud",
-    "hellscraft:mushrack"
+    "hellscraft:mushrack",
+    "hellscraft:lead_pipe",
+    "hellscraft:lead_ore",
+    "hellscraft:deepslate_lead_ore",
+    "hellscraft:deeperslate_lead_ore"
   ]
 }

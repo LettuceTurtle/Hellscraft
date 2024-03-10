@@ -1,0 +1,12 @@
+{
+  "parent": "hellscraft:custom/leadpipe",
+  "textures": {
+    "all": "hellscraft:block/8c8db58e-5c9e-4ce8-a7e4-c77c77cf607c",
+    "particle": "hellscraft:block/8c8db58e-5c9e-4ce8-a7e4-c77c77cf607c",
+    "2": "hellscraft:block/0b6fff75-58f8-485a-9777-b49f3e364a37",
+    "5": "hellscraft:block/8c8db58e-5c9e-4ce8-a7e4-c77c77cf607c",
+    "7": "hellscraft:block/a1011e5a-26f7-4500-83a5-88f6d7eaafe3",
+    "missing": "hellscraft:block/"
+  },
+  "render_type": "solid"
+}

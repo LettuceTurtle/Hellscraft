@@ -89,6 +89,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.CARROT_BRICK_WALL.get().asItem());
 			tabData.accept(HellscraftModBlocks.GRUD.get().asItem());
 			tabData.accept(HellscraftModBlocks.VANTABLOCK.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_PIPE.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -211,11 +212,15 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDGRANITE.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDIORITE.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDERSITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPSLATE_URANIUM_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_DANDELION.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_POPPY.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_CORNFLOWER.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET.get().asItem());
 			tabData.accept(HellscraftModBlocks.MUSHRACK.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPSLATE_LEAD_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
