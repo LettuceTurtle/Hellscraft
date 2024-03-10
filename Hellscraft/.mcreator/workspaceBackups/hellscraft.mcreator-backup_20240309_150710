@@ -6844,10 +6844,7 @@
           "src/main/resources/assets/hellscraft/models/block/uranium_ore.json",
           "src/main/java/net/mcreator/hellscraft/block/UraniumOreBlock.java",
           "src/main/resources/assets/hellscraft/blockstates/uranium_ore.json",
-          "src/main/resources/data/hellscraft/worldgen/placed_feature/uranium_ore.json",
-          "src/main/resources/data/hellscraft/worldgen/configured_feature/uranium_ore.json",
-          "src/main/resources/assets/hellscraft/models/item/uranium_ore.json",
-          "src/main/resources/data/hellscraft/forge/biome_modifier/uranium_ore_biome_modifier.json"
+          "src/main/resources/assets/hellscraft/models/item/uranium_ore.json"
         ]
       }
     },
@@ -6860,13 +6857,10 @@
       "registry_name": "deepslate_uranium_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/hellscraft/worldgen/placed_feature/deepslate_uranium_ore.json",
           "src/main/java/net/mcreator/hellscraft/block/DeepslateUraniumOreBlock.java",
-          "src/main/resources/data/hellscraft/forge/biome_modifier/deepslate_uranium_ore_biome_modifier.json",
           "src/main/resources/assets/hellscraft/blockstates/deepslate_uranium_ore.json",
           "src/main/resources/assets/hellscraft/models/item/deepslate_uranium_ore.json",
-          "src/main/resources/assets/hellscraft/models/block/deepslate_uranium_ore.json",
-          "src/main/resources/data/hellscraft/worldgen/configured_feature/deepslate_uranium_ore.json"
+          "src/main/resources/assets/hellscraft/models/block/deepslate_uranium_ore.json"
         ]
       }
     },
@@ -7065,594 +7059,6 @@
           "src/main/java/net/mcreator/hellscraft/recipes/brewing/EnhancedHasteRecipeBrewingRecipe.java"
         ]
       }
-    },
-    {
-      "name": "BlockOfCarrot",
-      "type": "block",
-      "sortid": 479,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_carrot",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/block/BlockOfCarrotBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/block_of_carrot.json",
-          "src/main/resources/assets/hellscraft/blockstates/block_of_carrot.json",
-          "src/main/resources/assets/hellscraft/models/item/block_of_carrot.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBricks",
-      "type": "block",
-      "sortid": 480,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_bricks",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/blockstates/carrot_bricks.json",
-          "src/main/resources/assets/hellscraft/models/item/carrot_bricks.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_bricks.json",
-          "src/main/java/net/mcreator/hellscraft/block/CarrotBricksBlock.java"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickSlab",
-      "type": "block",
-      "sortid": 481,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_slab",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/block/CarrotBrickSlabBlock.java",
-          "src/main/resources/assets/hellscraft/blockstates/carrot_brick_slab.json",
-          "src/main/resources/assets/hellscraft/models/item/carrot_brick_slab.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_slab_top.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_slab.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_slab_full.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickStairs",
-      "type": "block",
-      "sortid": 482,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_stairs",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/block/CarrotBrickStairsBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_stairs.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_stairs_inner.json",
-          "src/main/resources/assets/hellscraft/models/item/carrot_brick_stairs.json",
-          "src/main/resources/assets/hellscraft/blockstates/carrot_brick_stairs.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_stairs_outer.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickWall",
-      "type": "block",
-      "sortid": 483,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_wall",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_wall_side_tall.json",
-          "src/main/resources/assets/hellscraft/blockstates/carrot_brick_wall.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_wall.json",
-          "src/main/java/net/mcreator/hellscraft/block/CarrotBrickWallBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_wall_post.json",
-          "src/main/resources/assets/hellscraft/models/item/carrot_brick_wall.json",
-          "src/main/resources/assets/hellscraft/models/block/carrot_brick_wall_inventory.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBricksR",
-      "type": "recipe",
-      "sortid": 484,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_bricks_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/carrot_bricks_r.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickSlabR",
-      "type": "recipe",
-      "sortid": 485,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_slab_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/carrot_brick_slab_r.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickStairsR",
-      "type": "recipe",
-      "sortid": 486,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_stairs_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/carrot_brick_stairs_r.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotBrickWallR",
-      "type": "recipe",
-      "sortid": 487,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_brick_wall_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/carrot_brick_wall_r.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfCarrotR",
-      "type": "recipe",
-      "sortid": 488,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_carrot_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/block_of_carrot_r.json"
-        ]
-      }
-    },
-    {
-      "name": "CarrotR",
-      "type": "recipe",
-      "sortid": 489,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "carrot_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/carrot_r.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfDandelion",
-      "type": "block",
-      "sortid": 490,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_dandelion",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/item/block_of_dandelion.json",
-          "src/main/resources/assets/hellscraft/models/block/block_of_dandelion.json",
-          "src/main/resources/assets/hellscraft/blockstates/block_of_dandelion.json",
-          "src/main/java/net/mcreator/hellscraft/block/BlockOfDandelionBlock.java"
-        ]
-      }
-    },
-    {
-      "name": "Grud",
-      "type": "block",
-      "sortid": 491,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "grud",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/block/grud.json",
-          "src/main/resources/assets/hellscraft/models/item/grud.json",
-          "src/main/java/net/mcreator/hellscraft/block/GrudBlock.java",
-          "src/main/resources/assets/hellscraft/blockstates/grud.json"
-        ]
-      }
-    },
-    {
-      "name": "GrudR",
-      "type": "recipe",
-      "sortid": 492,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "grud_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/grud_r.json"
-        ]
-      }
-    },
-    {
-      "name": "Vantablock",
-      "type": "block",
-      "sortid": 493,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "vantablock",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/item/vantablock.json",
-          "src/main/resources/assets/hellscraft/blockstates/vantablock.json",
-          "src/main/java/net/mcreator/hellscraft/block/VantablockBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/vantablock.json"
-        ]
-      }
-    },
-    {
-      "name": "VantablockR",
-      "type": "recipe",
-      "sortid": 494,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "vantablock_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/vantablock_r.json"
-        ]
-      }
-    },
-    {
-      "name": "DandelionPetals",
-      "type": "particle",
-      "sortid": 496,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dandelion_petals",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/particles/dandelion_petals.json",
-          "src/main/java/net/mcreator/hellscraft/client/particle/DandelionPetalsParticle.java"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfDandelionUpdateTick",
-      "type": "procedure",
-      "sortid": 497,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_dandelion_update_tick",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/procedures/BlockOfDandelionUpdateTickProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "PoppyPetals",
-      "type": "particle",
-      "sortid": 498,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "poppy_petals",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/client/particle/PoppyPetalsParticle.java",
-          "src/main/resources/assets/hellscraft/particles/poppy_petals.json"
-        ]
-      }
-    },
-    {
-      "name": "CornflowerPetals",
-      "type": "particle",
-      "sortid": 499,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cornflower_petals",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/client/particle/CornflowerPetalsParticle.java",
-          "src/main/resources/assets/hellscraft/particles/cornflower_petals.json"
-        ]
-      }
-    },
-    {
-      "name": "AzurePetals",
-      "type": "particle",
-      "sortid": 500,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "azure_petals",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/particles/azure_petals.json",
-          "src/main/java/net/mcreator/hellscraft/client/particle/AzurePetalsParticle.java"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfPoppy",
-      "type": "block",
-      "sortid": 501,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_poppy",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/block/BlockOfPoppyBlock.java",
-          "src/main/resources/assets/hellscraft/models/item/block_of_poppy.json",
-          "src/main/resources/assets/hellscraft/blockstates/block_of_poppy.json",
-          "src/main/resources/assets/hellscraft/models/block/block_of_poppy.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfPoppyUpdateTick",
-      "type": "procedure",
-      "sortid": 502,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_poppy_update_tick",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/procedures/BlockOfPoppyUpdateTickProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "BlockOfCornflowerUpdateTick",
-      "type": "procedure",
-      "sortid": 503,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_cornflower_update_tick",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/procedures/BlockOfCornflowerUpdateTickProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "BlockOfAzureUpdateTick",
-      "type": "procedure",
-      "sortid": 504,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_azure_update_tick",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/procedures/BlockOfAzureUpdateTickProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "BlockOfCornflower",
-      "type": "block",
-      "sortid": 505,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_cornflower",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/item/block_of_cornflower.json",
-          "src/main/resources/assets/hellscraft/models/block/block_of_cornflower.json",
-          "src/main/java/net/mcreator/hellscraft/block/BlockOfCornflowerBlock.java",
-          "src/main/resources/assets/hellscraft/blockstates/block_of_cornflower.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfAzureBluet",
-      "type": "block",
-      "sortid": 506,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_azure_bluet",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/item/block_of_azure_bluet.json",
-          "src/main/resources/assets/hellscraft/blockstates/block_of_azure_bluet.json",
-          "src/main/java/net/mcreator/hellscraft/block/BlockOfAzureBluetBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/block_of_azure_bluet.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfPoppyR",
-      "type": "recipe",
-      "sortid": 507,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_poppy_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/block_of_poppy_r.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfCornflowerR",
-      "type": "recipe",
-      "sortid": 508,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_cornflower_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/block_of_cornflower_r.json"
-        ]
-      }
-    },
-    {
-      "name": "BlockOfAzureBluetR",
-      "type": "recipe",
-      "sortid": 509,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "block_of_azure_bluet_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/block_of_azure_bluet_r.json"
-        ]
-      }
-    },
-    {
-      "name": "EndgraniteR",
-      "type": "recipe",
-      "sortid": 510,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "endgranite_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/endgranite_r.json"
-        ]
-      }
-    },
-    {
-      "name": "EndioriteR",
-      "type": "recipe",
-      "sortid": 511,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "endiorite_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/endiorite_r.json"
-        ]
-      }
-    },
-    {
-      "name": "EndersiteR",
-      "type": "recipe",
-      "sortid": 512,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "endersite_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/endersite_r.json"
-        ]
-      }
-    },
-    {
-      "name": "Mushrack",
-      "type": "block",
-      "sortid": 513,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "mushrack",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/hellscraft/models/item/mushrack.json",
-          "src/main/java/net/mcreator/hellscraft/block/MushrackBlock.java",
-          "src/main/resources/assets/hellscraft/blockstates/mushrack.json",
-          "src/main/resources/assets/hellscraft/models/block/mushrack.json"
-        ]
-      }
-    },
-    {
-      "name": "Netherpulp",
-      "type": "item",
-      "sortid": 514,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "netherpulp",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/hellscraft/item/NetherpulpItem.java",
-          "src/main/resources/assets/hellscraft/models/item/netherpulp.json"
-        ]
-      }
-    },
-    {
-      "name": "PaperR",
-      "type": "recipe",
-      "sortid": 515,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "paper_r",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/hellscraft/recipes/paper_r.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -7660,101 +7066,184 @@
   "language_map": {
     "en_us": {
       "block.hellscraft.stripped_darkwood_log": "Stripped Darkwood Log",
-      "block.hellscraft.block_of_azure_bluet": "Block Of Azure Bluet",
+      "block.cheese.smooth_greenstone": "Smooth Greenstone",
       "block.cheese.hardspice_slab": "Hardspice Slab",
       "gui.cheese.press_ui.label_pressing": "Pressing",
+      "painting.hellscraft.grunch.title": "Grunch",
+      "item.minecraft.potion.effect.levitation": "Potion of Levitation",
       "block.cheese.block_of_corn": "Block Of Corn",
+      "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
       "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
+      "block.hellscraft.endersite": "Endersite",
       "block.hellscraft.deeperslate": "Deeperslate",
-      "block.hellscraft.carrot_brick_slab": "Carrot Brick Slab",
+      "block.cheese.block_of_villager": "Block Of Villager",
+      "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
+      "item.hellscraft.cheese": "Cheese",
       "item.cheese.corn": "Corn",
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
+      "block.hellscraft.darkwood_slab": "Darkwood Slab",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
       "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
       "block.cheese.piss_plank_stairs": "Piss Stairs",
       "block.hellscraft.jeweled_deeperslate_bricks": "Jeweled Deeperslate Bricks",
       "block.hellscraft.press": "Press",
+      "block.hellscraft.stripped_piss_stem": "Stripped Piss Stem",
       "block.cheese.darksteel_block": "Darksteel Block",
       "item.hellscraft.stone_javelin": "Stone Javelin",
+      "item.hellscraft.cheesed_axe": "Cheese Axe",
+      "block.hellscraft.piss_plank_fence": "Piss Fence",
       "block.cheese.darkwood_fence": "Darkwood Fence",
+      "block.cheese.piss_plank_trapdoor": "Piss Trap Door",
       "block.hellscraft.polished_popcorn_slab": "Polished Popcorn Slab",
       "block.hellscraft.polished_popcorn_stairs": "Polished Popcorn Stairs",
+      "block.hellscraft.block_of_bread": "Block Of Bread",
       "block.hellscraft.piss_nylium": "Piss Nylium",
+      "item.minecraft.lingering_potion.effect.haste": "Lingering Potion of Haste",
+      "painting.hellscraft.colossal_dreadmaw.author": "Jesper Ejsing",
+      "block.hellscraft.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
+      "block.cheese.press_a": "Press",
+      "block.hellscraft.cheese_fence": "Cheese Fence",
       "item.hellscraft.darksteel_ingot": "Darksteel Ingot",
       "painting.hellscraft.funny_cat.title": "Funny Cat",
-      "block.hellscraft.grud": "Grud",
+      "item.hellscraft.cheese_javelin": "Cheese Javelin",
       "block.cheese.deeperslate_iron_ore": "Deeperslate Iron Ore",
+      "block.hellscraft.polished_endiorite": "Polished Endiorite",
       "block.hellscraft.block_of_popcorn": "Block of Popcorn",
+      "item.hellscraft.raw_darksteel": "Raw Darksteel",
+      "item.hellscraft.darksteel_axe": "Darksteel Axe",
       "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
+      "block.cheese.smooth_greenstone_slab": "Smooth Greenstone",
       "block.hellscraft.chisled_galvanic_deeperslate": "Chisled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
-      "block.hellscraft.block_of_poppy": "Block Of Poppy",
+      "item.cheese.cheesed_axe": "Cheese Axe",
       "item.cheese.cheese": "Cheese",
+      "block.hellscraft.piss_mushroom": "Piss Mushroom",
+      "item.hellscraft.darksteel_armor_helmet": "Darksteel Helmet",
       "biome.cheese.piss_forest": "Piss Forest",
+      "painting.hellscraft.seige_rhino.author": "Volkan Baga",
       "biome.hellscraft.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.cheese.darkwood_log": "Darkwood Log",
-      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
+      "block.cheese.piss_wart_block": "Piss Wart Block",
+      "block.cheese.darkwood_leaves": "Darkwood Leaves",
       "block.hellscraft.block_of_villager": "Block Of Villager",
+      "block.hellscraft.darkwood_leaves": "Darkwood Leaves",
+      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
+      "block.hellscraft.chiseled_kidneystone": "Chiseled Kidneystone",
       "block.cheese.deeperslate": "Deeperslate",
+      "block.cheese.cheese_stairs": "Cheese Stairs",
       "item.cheese.netherite_javelin": "Netherite Javelin",
       "item.cheese.fishmetal_armor_chestplate": "Fishmetal Chestplate",
+      "biome.hellscraft.piss_forest": "Piss Forest",
+      "item.cheese.fishmetal_armor_helmet": "Fishmetal Helmet",
       "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
-      "block.hellscraft.block_of_carrot": "Block Of Carrot",
+      "death.attack.totem_damage.item": "%1$s bid farewell, cruel world!",
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
+      "block.cheese.greenstone_stairs": "Greenstone Stairs",
+      "block.hellscraft.aging_barrel": "Aging Barrel",
+      "item.cheese.diamond_javelin": "Diamond Javelin",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
+      "block.hellscraft.greenstone_brick_wall": "Greenstone Brick Wall",
       "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
       "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.block_of_pink_salt": "Block Of Pink Salt",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
       "painting.hellscraft.urabrask_hit.title": "Urabrask Hit",
       "block.hellscraft.endgranite": "Endgranite",
       "item.hellscraft.fishmetal_shovel": "Fishmetal Shovel",
       "block.hellscraft.jeweled_deeperslate": "Jeweled Deeperslate",
       "block.hellscraft.piss_plank_trapdoor": "Piss Trap Door",
+      "block.cheese.aging_barrel": "Aging Barrel",
+      "item.hellscraft.cheesed_pickaxe": "Cheese Pickaxe",
       "block.hellscraft.fishmetal_block": "Fishmetal Block",
+      "block.hellscraft.block_of_salt": "Block Of Salt",
       "item.hellscraft.fishmetal_sword": "Fishmetal Sword",
+      "block.hellscraft.darkwood_fence": "Darkwood Fence",
       "item.cheese.fishmetal_ingot": "Fishmetal Ingot",
-      "block.hellscraft.mushrack": "Mushrack",
+      "block.hellscraft.hardspice_brick_slab": "Hardspice Brick Slab",
+      "item.cheese.cheesed_armor_leggings": "Cheese Leggings",
       "painting.hellscraft.colossal_dreadmaw.title": "Colossal Dreadmaw",
       "gui.cheese.aging_barrel_gui.label_aging": "Aging",
+      "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
+      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
+      "entity.minecraft.villager.cheese.necromancer": "Necromancer",
       "painting.hellscraft.goku.author": "Ough",
+      "block.hellscraft.piss_planks": "Piss Planks",
       "block.hellscraft.hardspice_stairs": "Hardspice Stairs",
       "block.hellscraft.greenstone_stairs": "Greenstone Stairs",
+      "painting.hellscraft.one_with_nothing.title": "One With Nothing",
       "item.hellscraft.buttered_bucket_of_popcorn": "Buttered Bucket Of Popcorn",
       "block.hellscraft.polished_corn_stairs": "Polished Corn Stairs",
+      "block.cheese.piss_button": "Piss Button",
+      "item.hellscraft.iron_javelin": "Iron Javelin",
+      "item.cheese.darksteel_javelin": "Darksteel Javelin",
+      "painting.hellscraft.birb.author": "Bird",
       "painting.hellscraft.one_with_nothing.author": "Jim Nelson",
+      "block.hellscraft.rock_butter": "Rock Butter",
+      "block.hellscraft.press_a": "Press",
+      "item.hellscraft.stick_of_butter": "Stick Of Butter",
+      "block.cheese.piss_plank_door": "Piss Door",
       "block.hellscraft.greenstone": "Greenstone",
       "item.hellscraft.salted_bucket_of_popcorn": "Salted Bucket Of Popcorn",
       "block.cheese.piss_roots": "Piss Roots",
+      "block.hellscraft.stone_block": "stone block",
       "block.hellscraft.block_of_rotten_flesh": "Block Of Rotten Flesh",
       "item.hellscraft.fishmetal_axe": "Fishmetal Axe",
+      "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
+      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
+      "painting.hellscraft.birb.title": "Birb",
+      "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
+      "block.cheese.hardspice_brick_wall": "Hardspice Brick Wall",
       "block.hellscraft.bismuth": "Bismuth",
       "block.cheese.piss_nylium": "Piss Nylium",
+      "block.hellscraft.polished_deeperslate": "Polished Deeperslate",
+      "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Extended Levitation",
+      "item.cheese.darksteel_armor_helmet": "Darksteel Helmet",
       "biome.hellscraft.cavern_of_souls": "Cavern Of Souls",
       "item.cheese.cheese_javelin": "Cheese Javelin",
+      "block.cheese.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
       "block.cheese.piss_stem": "Piss Stem",
+      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Enhanced Haste",
       "item.hellscraft.wooden_javelin": "Wooden Javelin",
-      "block.hellscraft.carrot_bricks": "Carrot Bricks",
+      "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Extended Levitation",
+      "item.cheese.fishmetal_pickaxe": "Fishmetal Pickaxe",
       "item.cheese.fishmetal_axe": "Fishmetal Axe",
+      "block.hellscraft.piss_stem": "Piss Stem",
       "block.hellscraft.spawn_egg_ore": "Spawn Egg Ore",
+      "item.cheese.seasoned_porkchop": "Seasoned Porkchop",
+      "painting.hellscraft.smoking.title": "Smoking Is Badass",
       "block.hellscraft.greenstone_slab": "Greenstone Slab",
       "item.minecraft.splash_potion.effect.haste": "Splash Potion of Haste",
+      "block.cheese.piss_planks": "Piss Planks",
       "block.hellscraft.darkwood_stairs": "Darkwood Stairs",
       "painting.hellscraft.goku.title": "Goku",
       "item.hellscraft.gold_javelin": "Gold Javelin",
       "block.cheese.block_of_rotten_flesh": "Block Of Rotten Flesh",
       "block.hellscraft.polished_corn_slab": "Polished Corn Slab",
+      "block.hellscraft.gilded_deeperslate_bricks": "Gilded Deeperslate Bricks",
+      "block.hellscraft.hardspice_slab": "Hardspice Slab",
       "item.hellscraft.bottle_of_pepsi": "Bottle Of Pepsi",
       "block.hellscraft.piss_roots": "Piss Roots",
+      "item.hellscraft.lava_axe": "Lava Axe",
+      "item.cheese.netherspice": "Netherspice",
+      "painting.hellscraft.grunch.author": "Shark",
+      "item.cheese.iron_javelin": "Iron Javelin",
+      "block.hellscraft.polished_chuckite_slab": "Polished Chuckite Slab",
+      "block.hellscraft.cheese_slab": "Cheese Slab",
+      "block.hellscraft.deepslate_uranium_ore": "Uranium Ore",
       "item.minecraft.tipped_arrow.effect.nausea": "Arrow of Nausea",
+      "painting.hellscraft.pawper.title": "Pawper",
       "death.attack.totem_damage.player": "%1$s bid farewell, cruel world!",
       "item.cheese.gold_javelin": "Gold Javelin",
       "item.cheese.darksteel_axe": "Darksteel Axe",
+      "block.hellscraft.corn_ore": "Corn Ore",
+      "item.hellscraft.fishmetal_javelin": "Fishmetal Javelin",
       "item.hellscraft.totem_of_dying": "Totem Of Dying",
       "block.hellscraft.deeperslate_iron_ore": "Deeperslate Iron Ore",
+      "block.hellscraft.darkwood_button": "Darkwood Button",
       "item.minecraft.tipped_arrow.effect.haste": "Arrow of Haste",
       "block.hellscraft.hardspice_brick_wall": "Hardspice Brick Wall",
       "item.hellscraft.fireball_wand": "Fireball Wand",
@@ -7765,6 +7254,8 @@
       "block.cheese.quicksand": "Quicksand",
       "item.minecraft.potion.effect.enhanced_haste": "Potion of Enhanced Haste",
       "block.hellscraft.salt_lamp": "Salt Lamp",
+      "block.hellscraft.chuckite_stairs": "Chuckite Stairs",
+      "block.hellscraft.grease": "Grease",
       "block.cheese.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.cheese.piss_plank_fence": "Piss Fence",
       "block.hellscraft.piss_pressure_plate": "Piss Pressure Plate",
@@ -7774,284 +7265,186 @@
       "block.cheese.piss_mushroom": "Piss Mushroom",
       "block.cheese.hardspice_brick_stairs": "Hardspice Brick Stairs",
       "block.cheese.corn_ore": "Corn Ore",
+      "item.cheese.raw_darksteel": "Raw Darksteel",
+      "item.hellscraft.cheesed_armor_chestplate": "Cheese Chestplate",
+      "item.hellscraft.fishmetal_armor_leggings": "Fishmetal Leggings",
       "block.cheese.hardspice_brick_slab": "Hardspice Brick Slab",
+      "item.hellscraft.seasoned_porkchop": "Seasoned Porkchop",
+      "block.cheese.greenstone": "Greenstone",
       "block.hellscraft.block_of_cheese": "Block Of Cheese",
+      "block.cheese.fishmetal_block": "Fishmetal Block",
       "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
+      "item.hellscraft.popcorn": "Popcorn",
+      "item.hellscraft.bread_knife": "Bread Knife",
+      "painting.hellscraft.badass_skeleton.author": "Munke",
+      "block.cheese.stripped_piss_stem": "Stripped Piss Stem",
       "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
+      "painting.hellscraft.badass_skeleton.title": "Badass Skeleton",
       "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+      "block.hellscraft.quicksand": "Quicksand",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
+      "block.cheese.greenstone_brick_slab": "Greenstone Brick Slab",
       "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
       "block.hellscraft.rock_salt": "Rock Salt",
+      "block.cheese.hardspice_stairs": "Hardspice Stairs",
       "block.cheese.darkwood_slab": "Darkwood Slab",
       "block.cheese.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
       "block.hellscraft.block_of_butter": "Block Of Butter",
+      "block.cheese.greenstone_bricks": "Greenstone Bricks",
+      "block.hellscraft.darkwood_log": "Darkwood Log",
       "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Extended Haste",
       "block.cheese.greenstone_brick_wall": "Greenstone Brick Wall",
+      "block.hellscraft.darkwood_planks": "Darkwood Planks",
       "block.hellscraft.piss_wart_block": "Piss Wart Block",
       "block.hellscraft.polished_corn_wall": "Polished Corn Wall",
+      "item.hellscraft.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.piss_button": "Piss Button",
       "block.cheese.greenstone_slab": "Greenstone Slab",
       "item.minecraft.potion.effect.extended_haste": "Potion of Extended Haste",
+      "item.cheese.popcorn": "Popcorn",
       "block.hellscraft.block_of_corn": "Block Of Corn",
+      "item.cheese.cheesed_armor_chestplate": "Cheese Chestplate",
       "item.cheese.darksteel_armor_boots": "Darksteel Boots",
       "block.hellscraft.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.hellscraft.piss_plank_door": "Piss Door",
       "item.hellscraft.fishmetal_armor_helmet": "Fishmetal Helmet",
+      "block.cheese.piss_plank_slab": "Piss Slab",
       "item.minecraft.potion.effect.enhanced_levitation": "Potion of Enhanced Levitation",
+      "item.hellscraft.chocolate_milk": "Chocolate Milk",
+      "item.hellscraft.darksteel_armor_leggings": "Darksteel Leggings",
       "block.cheese.press": "Press",
+      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Enhanced Haste",
+      "painting.hellscraft.storm_crow.title": "Storm Crow",
       "item.minecraft.splash_potion.effect.enhanced_levitation": "Splash Potion of Enhanced Levitation",
+      "block.hellscraft.waxed_block_of_corn": "Waxed Block Of Corn",
       "block.hellscraft.cooler_greenstone": "Chiseled Greenstone Bricks",
       "block.hellscraft.deeperslate_brick_wall": "Deeperslate Brick Wall",
       "item.cheese.darksteel_sword": "Darksteel Sword",
       "block.hellscraft.chiseled_gilded_deeperslate": "Chiseled Gilded Deeperslate",
       "item.cheese.darksteel_armor_leggings": "Darksteel Leggings",
+      "block.cheese.stripped_darkwood_log": "Stripped Darkwood Log",
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
+      "item.hellscraft.cheesed_hoe": "Cheese Hoe",
+      "item.cheese.darksteel_pickaxe": "Darksteel Pickaxe",
+      "item.cheese.cheesed_armor_boots": "Cheese Boots",
       "item.cheese.totem_of_dying": "Totem Of Dying",
+      "item.hellscraft.cheesed_armor_helmet": "Cheese Helmet",
       "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "block.hellscraft.polished_endersite": "Polished Endersite",
+      "block.cheese.darkwood_pressure_plate": "Darkwood Pressure Plate",
       "block.hellscraft.darksteel_block": "Darksteel Block",
+      "block.hellscraft.polished_block_of_popcorn": "Polished Block of Popcorn",
       "item.cheese.fishmetal_sword": "Fishmetal Sword",
       "item.hellscraft.darksteel_armor_boots": "Darksteel Boots",
       "item.hellscraft.salted_beef": "Salted Beef",
       "block.cheese.piss_pressure_plate": "Piss Pressure Plate",
       "block.hellscraft.gilded_deeperslate": "Gilded Deeperslate",
       "item.minecraft.tipped_arrow.effect.levitation": "Arrow of Levitation",
-      "block.cheese.block_of_cheese": "Block Of Cheese",
-      "item.hellscraft.villager_meat": "Villager Meat",
-      "block.cheese.darksteel_ore": "Darksteel Ore",
-      "block.hellscraft.smooth_hardspice": "Smooth Hardspice",
-      "item.hellscraft.netherite_javelin": "Netherite Javelin",
-      "item.hellscraft.darksteel_shield": "Darksteel Shield",
-      "item.cheese.fishmetal_armor_boots": "Fishmetal Boots",
-      "item.cheese.wooden_javelin": "Wooden Javelin",
-      "block.cheese.smooth_hardspice_slab": "Smooth Hardspice Slab",
-      "block.hellscraft.polished_chuckite_stairs": "Polished Chuckite Stairs",
-      "item.cheese.villager_meat": "Villager Meat",
-      "block.hellscraft.gunk": "Gunk",
-      "block.cheese.cheese_fence": "Cheese Fence",
-      "painting.hellscraft.seige_rhino.title": "Seige Rhino",
-      "item.hellscraft.raw_uranium": "Raw Uranium",
-      "item.minecraft.tipped_arrow.effect.extended_levitation": "Arrow of Extended Levitation",
-      "block.hellscraft.darkwood_pressure_plate": "Darkwood Pressure Plate",
-      "item.minecraft.potion.effect.extended_levitation": "Potion of Extended Levitation",
-      "item.hellscraft.beef_sandwhich": "Beef Sandwhich",
-      "block.hellscraft.piss_plank_slab": "Piss Slab",
-      "item.hellscraft.pink_salt": "Pink Salt",
-      "item.minecraft.tipped_arrow.effect.enhanced_levitation": "Arrow of Enhanced Levitation",
-      "item.cheese.cheesed_sword": "Cheese Sword",
-      "block.cheese.gunk": "Gunk",
-      "item.hellscraft.netherspice": "Netherspice",
-      "block.hellscraft.carrot_brick_stairs": "Carrot Brick Stairs",
-      "item.cheese.cheesed_armor_helmet": "Cheese Helmet",
-      "block.hellscraft.darksteel_ore": "Darksteel Ore",
-      "fluid.hellscraft.end_fluid": "End Fluid",
-      "item.hellscraft.fishmetal_armor_chestplate": "Fishmetal Chestplate",
-      "painting.hellscraft.storm_crow.author": "John Matson",
-      "block.cheese.cooler_greenstone": "Chiseled Greenstone Bricks",
-      "item.hellscraft.darksteel_pickaxe": "Darksteel Pickaxe",
-      "block.hellscraft.chiseled_deeperslate": "Chiseled Deeperslate",
-      "block.hellscraft.smooth_hardspice_slab": "Smooth Hardspice Slab",
-      "block.cheese.darkwood_button": "Darkwood Button",
-      "block.hellscraft.kidneystone": "Kidneystone",
-      "block.hellscraft.piss_plank_fence_gate": "Piss Plank Fence Gate",
-      "item.hellscraft.corn": "Corn",
-      "block.hellscraft.kidneystone_bricks": "Kidneystone Bricks",
-      "block.cheese.darkwood_stairs": "Darkwood Stairs",
-      "block.hellscraft.netherspice_block": "Netherspice Block",
-      "item.hellscraft.diamond_javelin": "Diamond Javelin",
-      "block.hellscraft.chuckite": "Chuckite",
-      "block.hellscraft.block_of_cornflower": "Block Of Cornflower",
-      "block.cheese.piss_plank_fence_gate": "Piss Plank Fence Gate",
-      "block.cheese.hardspice": "Hardspice",
-      "gui.hellscraft.press_ui.label_pressing": "Pressing",
-      "item.hellscraft.netherpulp": "Netherpulp",
-      "block.cheese.smooth_greenstone": "Smooth Greenstone",
-      "painting.hellscraft.grunch.title": "Grunch",
-      "item.minecraft.potion.effect.levitation": "Potion of Levitation",
-      "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
-      "block.hellscraft.endersite": "Endersite",
-      "block.cheese.block_of_villager": "Block Of Villager",
-      "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
-      "item.hellscraft.cheese": "Cheese",
-      "block.hellscraft.darkwood_slab": "Darkwood Slab",
-      "block.hellscraft.stripped_piss_stem": "Stripped Piss Stem",
-      "item.hellscraft.cheesed_axe": "Cheese Axe",
-      "block.hellscraft.piss_plank_fence": "Piss Fence",
-      "block.cheese.piss_plank_trapdoor": "Piss Trap Door",
-      "block.hellscraft.block_of_bread": "Block Of Bread",
-      "item.minecraft.lingering_potion.effect.haste": "Lingering Potion of Haste",
-      "painting.hellscraft.colossal_dreadmaw.author": "Jesper Ejsing",
-      "block.hellscraft.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
-      "block.cheese.press_a": "Press",
-      "block.hellscraft.cheese_fence": "Cheese Fence",
-      "item.hellscraft.cheese_javelin": "Cheese Javelin",
-      "block.hellscraft.polished_endiorite": "Polished Endiorite",
-      "item.hellscraft.darksteel_axe": "Darksteel Axe",
-      "item.hellscraft.raw_darksteel": "Raw Darksteel",
-      "block.cheese.smooth_greenstone_slab": "Smooth Greenstone",
-      "item.cheese.cheesed_axe": "Cheese Axe",
-      "block.hellscraft.piss_mushroom": "Piss Mushroom",
-      "item.hellscraft.darksteel_armor_helmet": "Darksteel Helmet",
-      "painting.hellscraft.seige_rhino.author": "Volkan Baga",
-      "block.cheese.piss_wart_block": "Piss Wart Block",
-      "block.cheese.darkwood_leaves": "Darkwood Leaves",
-      "block.hellscraft.darkwood_leaves": "Darkwood Leaves",
-      "block.hellscraft.chiseled_kidneystone": "Chiseled Kidneystone",
-      "block.cheese.cheese_stairs": "Cheese Stairs",
-      "biome.hellscraft.piss_forest": "Piss Forest",
-      "item.cheese.fishmetal_armor_helmet": "Fishmetal Helmet",
-      "death.attack.totem_damage.item": "%1$s bid farewell, cruel world!",
-      "block.cheese.greenstone_stairs": "Greenstone Stairs",
-      "block.hellscraft.aging_barrel": "Aging Barrel",
-      "item.cheese.diamond_javelin": "Diamond Javelin",
-      "block.hellscraft.greenstone_brick_wall": "Greenstone Brick Wall",
-      "block.hellscraft.block_of_pink_salt": "Block Of Pink Salt",
-      "item.hellscraft.cheesed_pickaxe": "Cheese Pickaxe",
-      "block.cheese.aging_barrel": "Aging Barrel",
-      "block.hellscraft.block_of_salt": "Block Of Salt",
-      "block.hellscraft.darkwood_fence": "Darkwood Fence",
-      "block.hellscraft.hardspice_brick_slab": "Hardspice Brick Slab",
-      "item.cheese.cheesed_armor_leggings": "Cheese Leggings",
-      "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
-      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
-      "entity.minecraft.villager.cheese.necromancer": "Necromancer",
-      "block.hellscraft.piss_planks": "Piss Planks",
-      "painting.hellscraft.one_with_nothing.title": "One With Nothing",
-      "block.cheese.piss_button": "Piss Button",
-      "item.hellscraft.iron_javelin": "Iron Javelin",
-      "item.cheese.darksteel_javelin": "Darksteel Javelin",
-      "painting.hellscraft.birb.author": "Bird",
-      "block.hellscraft.rock_butter": "Rock Butter",
-      "block.hellscraft.press_a": "Press",
-      "item.hellscraft.stick_of_butter": "Stick Of Butter",
-      "block.cheese.piss_plank_door": "Piss Door",
-      "block.hellscraft.carrot_brick_wall": "Carrot Brick Wall",
-      "block.hellscraft.stone_block": "stone block",
-      "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
-      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
-      "painting.hellscraft.birb.title": "Birb",
-      "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
-      "block.cheese.hardspice_brick_wall": "Hardspice Brick Wall",
-      "block.hellscraft.polished_deeperslate": "Polished Deeperslate",
-      "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Extended Levitation",
-      "item.cheese.darksteel_armor_helmet": "Darksteel Helmet",
-      "block.cheese.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
-      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Enhanced Haste",
-      "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Extended Levitation",
-      "item.cheese.fishmetal_pickaxe": "Fishmetal Pickaxe",
-      "block.hellscraft.piss_stem": "Piss Stem",
-      "item.cheese.seasoned_porkchop": "Seasoned Porkchop",
-      "painting.hellscraft.smoking.title": "Smoking Is Badass",
-      "block.cheese.piss_planks": "Piss Planks",
-      "block.hellscraft.gilded_deeperslate_bricks": "Gilded Deeperslate Bricks",
-      "block.hellscraft.hardspice_slab": "Hardspice Slab",
-      "item.hellscraft.lava_axe": "Lava Axe",
-      "item.cheese.netherspice": "Netherspice",
-      "painting.hellscraft.grunch.author": "Shark",
-      "item.cheese.iron_javelin": "Iron Javelin",
-      "block.hellscraft.polished_chuckite_slab": "Polished Chuckite Slab",
-      "block.hellscraft.cheese_slab": "Cheese Slab",
-      "block.hellscraft.deepslate_uranium_ore": "Uranium Ore",
-      "painting.hellscraft.pawper.title": "Pawper",
-      "block.hellscraft.corn_ore": "Corn Ore",
-      "item.hellscraft.fishmetal_javelin": "Fishmetal Javelin",
-      "block.hellscraft.darkwood_button": "Darkwood Button",
-      "block.hellscraft.chuckite_stairs": "Chuckite Stairs",
-      "block.hellscraft.grease": "Grease",
-      "item.cheese.raw_darksteel": "Raw Darksteel",
-      "item.hellscraft.cheesed_armor_chestplate": "Cheese Chestplate",
-      "item.hellscraft.fishmetal_armor_leggings": "Fishmetal Leggings",
-      "item.hellscraft.seasoned_porkchop": "Seasoned Porkchop",
-      "block.cheese.greenstone": "Greenstone",
-      "block.cheese.fishmetal_block": "Fishmetal Block",
-      "item.hellscraft.popcorn": "Popcorn",
-      "item.hellscraft.bread_knife": "Bread Knife",
-      "block.hellscraft.vantablock": "Vantablock",
-      "painting.hellscraft.badass_skeleton.author": "Munke",
-      "block.cheese.stripped_piss_stem": "Stripped Piss Stem",
-      "painting.hellscraft.badass_skeleton.title": "Badass Skeleton",
-      "block.hellscraft.quicksand": "Quicksand",
-      "block.cheese.greenstone_brick_slab": "Greenstone Brick Slab",
-      "block.cheese.hardspice_stairs": "Hardspice Stairs",
-      "block.cheese.greenstone_bricks": "Greenstone Bricks",
-      "block.hellscraft.darkwood_log": "Darkwood Log",
-      "block.hellscraft.darkwood_planks": "Darkwood Planks",
-      "item.hellscraft.darksteel_shovel": "Darksteel Shovel",
-      "block.hellscraft.piss_button": "Piss Button",
-      "item.cheese.popcorn": "Popcorn",
-      "item.cheese.cheesed_armor_chestplate": "Cheese Chestplate",
-      "block.cheese.piss_plank_slab": "Piss Slab",
-      "item.hellscraft.chocolate_milk": "Chocolate Milk",
-      "item.hellscraft.darksteel_armor_leggings": "Darksteel Leggings",
-      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Enhanced Haste",
-      "painting.hellscraft.storm_crow.title": "Storm Crow",
-      "block.hellscraft.waxed_block_of_corn": "Waxed Block Of Corn",
-      "block.cheese.stripped_darkwood_log": "Stripped Darkwood Log",
-      "item.hellscraft.cheesed_hoe": "Cheese Hoe",
-      "item.cheese.darksteel_pickaxe": "Darksteel Pickaxe",
-      "item.cheese.cheesed_armor_boots": "Cheese Boots",
-      "item.hellscraft.cheesed_armor_helmet": "Cheese Helmet",
-      "block.cheese.darkwood_pressure_plate": "Darkwood Pressure Plate",
-      "block.hellscraft.polished_block_of_popcorn": "Polished Block of Popcorn",
       "item.cheese.fishmetal_shovel": "Fishmetal Shovel",
       "block.hellscraft.darkwood_fence_gate": "Darkwood Fence Gate",
       "item.cheese.cheesed_shovel": "Cheese Shovel",
       "painting.hellscraft.doctor_who.author": "GuyMcPerson",
+      "block.cheese.block_of_cheese": "Block Of Cheese",
       "block.hellscraft.galvanic_deeperslate_bricks": "Galvanic Deeperslate Bricks",
       "item.minecraft.lingering_potion.effect.nausea": "Lingering Potion of Nausea",
       "block.hellscraft.cheese_stairs": "Cheese Stairs",
+      "item.hellscraft.villager_meat": "Villager Meat",
       "item.hellscraft.darksteel_hoe": "Darksteel Hoe",
       "block.hellscraft.hardspice_bricks": "Hardspice Bricks",
       "painting.hellscraft.funny_cat.author": "Munke",
       "death.attack.totem_damage": "%1$s bid farewell, cruel world!",
       "block.hellscraft.polished_endgranite": "Polished Endgranite",
       "block.hellscraft.uranium_ore": "Uranium Ore",
+      "block.cheese.darksteel_ore": "Darksteel Ore",
       "block.hellscraft.deeperslate_brick_slab": "Deeperslate Brick Slab",
+      "block.hellscraft.smooth_hardspice": "Smooth Hardspice",
+      "item.hellscraft.netherite_javelin": "Netherite Javelin",
+      "item.hellscraft.darksteel_shield": "Darksteel Shield",
       "block.cheese.smooth_hardspice": "Smooth Hardspice",
+      "item.cheese.fishmetal_armor_boots": "Fishmetal Boots",
+      "item.cheese.wooden_javelin": "Wooden Javelin",
       "block.hellscraft.polished_block_of_corn": "Polished Block Of Corn",
       "block.hellscraft.smooth_greenstone": "Smooth Greenstone",
+      "block.cheese.smooth_hardspice_slab": "Smooth Hardspice Slab",
+      "block.hellscraft.polished_chuckite_stairs": "Polished Chuckite Stairs",
+      "item.cheese.villager_meat": "Villager Meat",
+      "block.hellscraft.gunk": "Gunk",
       "painting.hellscraft.urabrask_hit.author": "Lurtle",
       "block.hellscraft.chuckite_slab": "Chuckite Slab",
       "item.hellscraft.bucket_of_pilk": "Bucket Of Pilk",
       "item.hellscraft.bread_slice": "Bread Slice",
+      "block.cheese.cheese_fence": "Cheese Fence",
       "block.hellscraft.piss_plank_stairs": "Piss Stairs",
       "item.hellscraft.popcorn_with_butter_and_salt": "Popcorn With Butter And Salt",
       "block.hellscraft.deeperslate_bricks": "Deeperslate Bricks",
       "item.cheese.darksteel_ingot": "Darksteel Ingot",
+      "painting.hellscraft.seige_rhino.title": "Seige Rhino",
       "painting.hellscraft.you_cannot_be_eepy.title": "You Cannot Be Eepy",
-      "block.hellscraft.smooth_greenstone_slab": "Smooth Greenstone",
+      "item.hellscraft.raw_uranium": "Raw Uranium",
+      "item.minecraft.tipped_arrow.effect.extended_levitation": "Arrow of Extended Levitation",
       "item.cheese.cheesed_hoe": "Cheese Hoe",
+      "block.hellscraft.smooth_greenstone_slab": "Smooth Greenstone",
+      "block.hellscraft.darkwood_pressure_plate": "Darkwood Pressure Plate",
       "item.cheese.fishmetal_hoe": "Fishmetal Hoe",
       "item.hellscraft.fishmetal_ingot": "Fishmetal Ingot",
       "painting.hellscraft.doctor_who.title": "Doctor Who",
       "block.hellscraft.polished_popcorn_wall": "Polished Popcorn Wall",
+      "item.minecraft.potion.effect.extended_levitation": "Potion of Extended Levitation",
       "block.hellscraft.end_fluid": "End Fluid",
+      "item.hellscraft.beef_sandwhich": "Beef Sandwhich",
+      "block.hellscraft.piss_plank_slab": "Piss Slab",
       "item.cheese.chocolate_milk": "Chocolate Milk",
+      "item.hellscraft.pink_salt": "Pink Salt",
+      "item.minecraft.tipped_arrow.effect.enhanced_levitation": "Arrow of Enhanced Levitation",
+      "item.cheese.cheesed_sword": "Cheese Sword",
+      "block.cheese.gunk": "Gunk",
+      "item.hellscraft.netherspice": "Netherspice",
       "item.cheese.darksteel_hoe": "Darksteel Hoe",
       "item.minecraft.potion.effect.nausea": "Potion of Nausea",
       "item.hellscraft.cheesed_armor_boots": "Cheese Boots",
+      "item.cheese.cheesed_armor_helmet": "Cheese Helmet",
       "item.cheese.cheesed_pickaxe": "Cheese Pickaxe",
+      "block.hellscraft.darksteel_ore": "Darksteel Ore",
+      "fluid.hellscraft.end_fluid": "End Fluid",
+      "item.hellscraft.fishmetal_armor_chestplate": "Fishmetal Chestplate",
+      "painting.hellscraft.storm_crow.author": "John Matson",
       "block.hellscraft.hardspice": "Hardspice",
       "painting.hellscraft.true_painting.title": "True",
       "item.hellscraft.cheesed_shovel": "Cheese Shovel",
+      "block.cheese.cooler_greenstone": "Chiseled Greenstone Bricks",
+      "item.hellscraft.darksteel_pickaxe": "Darksteel Pickaxe",
+      "block.hellscraft.chiseled_deeperslate": "Chiseled Deeperslate",
       "block.hellscraft.hardspice_brick_stairs": "Hardspice Brick Stairs",
+      "block.hellscraft.smooth_hardspice_slab": "Smooth Hardspice Slab",
       "biome.cheese.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
-      "block.hellscraft.block_of_dandelion": "Block Of Dandelion",
       "painting.hellscraft.smoking.author": "Smoking",
+      "block.cheese.darkwood_button": "Darkwood Button",
+      "block.hellscraft.kidneystone": "Kidneystone",
       "item.hellscraft.darksteel_armor_chestplate": "Darksteel Chestplate",
+      "block.hellscraft.piss_plank_fence_gate": "Piss Plank Fence Gate",
+      "item.hellscraft.corn": "Corn",
+      "block.hellscraft.kidneystone_bricks": "Kidneystone Bricks",
+      "block.cheese.darkwood_stairs": "Darkwood Stairs",
       "block.hellscraft.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
+      "block.hellscraft.netherspice_block": "Netherspice Block",
+      "item.hellscraft.diamond_javelin": "Diamond Javelin",
+      "block.hellscraft.chuckite": "Chuckite",
       "block.cheese.kidneystone": "Kidneystone",
       "painting.hellscraft.true_painting.author": "True",
       "item.hellscraft.darksteel_sword": "Darksteel Sword",
       "item.minecraft.potion.effect.haste": "Potion of Haste",
+      "block.cheese.piss_plank_fence_gate": "Piss Plank Fence Gate",
       "item.minecraft.splash_potion.effect.levitation": "Splash Potion of Levitation",
       "item.hellscraft.trident_shard": "Trident Shard",
       "item.hellscraft.cheesed_armor_leggings": "Cheese Leggings",
       "block.hellscraft.greenstone_bricks": "Greenstone Bricks",
       "item.cheese.fishmetal_armor_leggings": "Fishmetal Leggings",
-      "item.hellscraft.fishmetal_hoe": "Fishmetal Hoe"
+      "item.hellscraft.fishmetal_hoe": "Fishmetal Hoe",
+      "block.cheese.hardspice": "Hardspice",
+      "gui.hellscraft.press_ui.label_pressing": "Pressing"
     }
   },
   "foldersRoot": {

@@ -3,10 +3,23 @@
   "block.hellscraft.block_of_azure_bluet": "Block Of Azure Bluet",
   "block.cheese.hardspice_slab": "Hardspice Slab",
   "gui.cheese.press_ui.label_pressing": "Pressing",
+<<<<<<< HEAD
   "block.cheese.block_of_corn": "Block Of Corn",
   "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
   "block.hellscraft.deeperslate": "Deeperslate",
   "block.hellscraft.carrot_brick_slab": "Carrot Brick Slab",
+=======
+  "painting.hellscraft.grunch.title": "Grunch",
+  "item.minecraft.potion.effect.levitation": "Potion of Levitation",
+  "block.cheese.block_of_corn": "Block Of Corn",
+  "item.hellscraft.fishmetal_armor_boots": "Fishmetal Boots",
+  "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
+  "block.hellscraft.endersite": "Endersite",
+  "block.hellscraft.deeperslate": "Deeperslate",
+  "block.cheese.block_of_villager": "Block Of Villager",
+  "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
+  "item.hellscraft.cheese": "Cheese",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.cheese.corn": "Corn",
   "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
   "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
@@ -21,6 +34,14 @@
   "block.hellscraft.polished_popcorn_slab": "Polished Popcorn Slab",
   "block.hellscraft.polished_popcorn_stairs": "Polished Popcorn Stairs",
   "block.hellscraft.piss_nylium": "Piss Nylium",
+<<<<<<< HEAD
+=======
+  "item.minecraft.lingering_potion.effect.haste": "Lingering Potion of Haste",
+  "painting.hellscraft.colossal_dreadmaw.author": "Jesper Ejsing",
+  "block.hellscraft.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
+  "block.cheese.press_a": "Press",
+  "block.hellscraft.cheese_fence": "Cheese Fence",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.hellscraft.darksteel_ingot": "Darksteel Ingot",
   "painting.hellscraft.funny_cat.title": "Funny Cat",
   "block.hellscraft.grud": "Grud",
@@ -45,7 +66,13 @@
   "block.cheese.hardspice_bricks": "Hardspice Bricks",
   "block.cheese.darkwood_planks": "Darkwood Planks",
   "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
+<<<<<<< HEAD
   "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
+=======
+  "block.hellscraft.greenstone_brick_wall": "Greenstone Brick Wall",
+  "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
+  "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.cheese.darksteel_shovel": "Darksteel Shovel",
   "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
   "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
@@ -60,6 +87,12 @@
   "block.hellscraft.mushrack": "Mushrack",
   "painting.hellscraft.colossal_dreadmaw.title": "Colossal Dreadmaw",
   "gui.cheese.aging_barrel_gui.label_aging": "Aging",
+<<<<<<< HEAD
+=======
+  "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
+  "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
+  "entity.minecraft.villager.cheese.necromancer": "Necromancer",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "painting.hellscraft.goku.author": "Ough",
   "block.hellscraft.hardspice_stairs": "Hardspice Stairs",
   "block.hellscraft.greenstone_stairs": "Greenstone Stairs",
@@ -71,17 +104,40 @@
   "block.cheese.piss_roots": "Piss Roots",
   "block.hellscraft.block_of_rotten_flesh": "Block Of Rotten Flesh",
   "item.hellscraft.fishmetal_axe": "Fishmetal Axe",
+<<<<<<< HEAD
   "block.hellscraft.bismuth": "Bismuth",
   "block.cheese.piss_nylium": "Piss Nylium",
+=======
+  "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
+  "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
+  "painting.hellscraft.birb.title": "Birb",
+  "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
+  "block.cheese.hardspice_brick_wall": "Hardspice Brick Wall",
+  "block.hellscraft.bismuth": "Bismuth",
+  "block.cheese.piss_nylium": "Piss Nylium",
+  "block.hellscraft.polished_deeperslate": "Polished Deeperslate",
+  "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Extended Levitation",
+  "item.cheese.darksteel_armor_helmet": "Darksteel Helmet",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "biome.hellscraft.cavern_of_souls": "Cavern Of Souls",
   "item.cheese.cheese_javelin": "Cheese Javelin",
   "block.cheese.piss_stem": "Piss Stem",
+  "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Enhanced Haste",
   "item.hellscraft.wooden_javelin": "Wooden Javelin",
+<<<<<<< HEAD
   "block.hellscraft.carrot_bricks": "Carrot Bricks",
+=======
+  "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Extended Levitation",
+  "item.cheese.fishmetal_pickaxe": "Fishmetal Pickaxe",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.cheese.fishmetal_axe": "Fishmetal Axe",
   "block.hellscraft.spawn_egg_ore": "Spawn Egg Ore",
   "block.hellscraft.greenstone_slab": "Greenstone Slab",
   "item.minecraft.splash_potion.effect.haste": "Splash Potion of Haste",
+<<<<<<< HEAD
+=======
+  "block.cheese.piss_planks": "Piss Planks",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.hellscraft.darkwood_stairs": "Darkwood Stairs",
   "painting.hellscraft.goku.title": "Goku",
   "item.hellscraft.gold_javelin": "Gold Javelin",
@@ -89,12 +145,26 @@
   "block.hellscraft.polished_corn_slab": "Polished Corn Slab",
   "item.hellscraft.bottle_of_pepsi": "Bottle Of Pepsi",
   "block.hellscraft.piss_roots": "Piss Roots",
+<<<<<<< HEAD
+=======
+  "item.hellscraft.lava_axe": "Lava Axe",
+  "item.cheese.netherspice": "Netherspice",
+  "painting.hellscraft.grunch.author": "Shark",
+  "item.cheese.iron_javelin": "Iron Javelin",
+  "block.hellscraft.polished_chuckite_slab": "Polished Chuckite Slab",
+  "block.hellscraft.cheese_slab": "Cheese Slab",
+  "block.hellscraft.deepslate_uranium_ore": "Uranium Ore",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.minecraft.tipped_arrow.effect.nausea": "Arrow of Nausea",
   "death.attack.totem_damage.player": "%1$s bid farewell, cruel world!",
   "item.cheese.gold_javelin": "Gold Javelin",
   "item.cheese.darksteel_axe": "Darksteel Axe",
   "item.hellscraft.totem_of_dying": "Totem Of Dying",
   "block.hellscraft.deeperslate_iron_ore": "Deeperslate Iron Ore",
+<<<<<<< HEAD
+=======
+  "block.hellscraft.darkwood_button": "Darkwood Button",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.minecraft.tipped_arrow.effect.haste": "Arrow of Haste",
   "block.hellscraft.hardspice_brick_wall": "Hardspice Brick Wall",
   "item.hellscraft.fireball_wand": "Fireball Wand",
@@ -105,6 +175,11 @@
   "block.cheese.quicksand": "Quicksand",
   "item.minecraft.potion.effect.enhanced_haste": "Potion of Enhanced Haste",
   "block.hellscraft.salt_lamp": "Salt Lamp",
+<<<<<<< HEAD
+=======
+  "block.hellscraft.chuckite_stairs": "Chuckite Stairs",
+  "block.hellscraft.grease": "Grease",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.cheese.darkwood_trapdoor": "Darkwood Trapdoor",
   "block.cheese.piss_plank_fence": "Piss Fence",
   "block.hellscraft.piss_pressure_plate": "Piss Pressure Plate",
@@ -117,9 +192,21 @@
   "block.cheese.hardspice_brick_slab": "Hardspice Brick Slab",
   "block.hellscraft.block_of_cheese": "Block Of Cheese",
   "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
+<<<<<<< HEAD
   "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
   "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
   "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+=======
+  "item.hellscraft.popcorn": "Popcorn",
+  "item.hellscraft.bread_knife": "Bread Knife",
+  "painting.hellscraft.badass_skeleton.author": "Munke",
+  "block.cheese.stripped_piss_stem": "Stripped Piss Stem",
+  "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
+  "painting.hellscraft.badass_skeleton.title": "Badass Skeleton",
+  "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
+  "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+  "block.hellscraft.quicksand": "Quicksand",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "painting.hellscraft.pawper.author": "Draner",
   "item.hellscraft.salt": "Salt",
   "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
@@ -127,20 +214,41 @@
   "block.cheese.darkwood_slab": "Darkwood Slab",
   "block.cheese.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
   "block.hellscraft.block_of_butter": "Block Of Butter",
+<<<<<<< HEAD
+=======
+  "block.cheese.greenstone_bricks": "Greenstone Bricks",
+  "block.hellscraft.darkwood_log": "Darkwood Log",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Extended Haste",
   "block.cheese.greenstone_brick_wall": "Greenstone Brick Wall",
   "block.hellscraft.piss_wart_block": "Piss Wart Block",
   "block.hellscraft.polished_corn_wall": "Polished Corn Wall",
   "block.cheese.greenstone_slab": "Greenstone Slab",
   "item.minecraft.potion.effect.extended_haste": "Potion of Extended Haste",
+<<<<<<< HEAD
+=======
+  "item.cheese.popcorn": "Popcorn",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.hellscraft.block_of_corn": "Block Of Corn",
   "item.cheese.darksteel_armor_boots": "Darksteel Boots",
   "block.hellscraft.darkwood_trapdoor": "Darkwood Trapdoor",
   "block.hellscraft.piss_plank_door": "Piss Door",
   "item.hellscraft.fishmetal_armor_helmet": "Fishmetal Helmet",
+<<<<<<< HEAD
   "item.minecraft.potion.effect.enhanced_levitation": "Potion of Enhanced Levitation",
   "block.cheese.press": "Press",
   "item.minecraft.splash_potion.effect.enhanced_levitation": "Splash Potion of Enhanced Levitation",
+=======
+  "block.cheese.piss_plank_slab": "Piss Slab",
+  "item.minecraft.potion.effect.enhanced_levitation": "Potion of Enhanced Levitation",
+  "item.hellscraft.chocolate_milk": "Chocolate Milk",
+  "item.hellscraft.darksteel_armor_leggings": "Darksteel Leggings",
+  "block.cheese.press": "Press",
+  "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Enhanced Haste",
+  "painting.hellscraft.storm_crow.title": "Storm Crow",
+  "item.minecraft.splash_potion.effect.enhanced_levitation": "Splash Potion of Enhanced Levitation",
+  "block.hellscraft.waxed_block_of_corn": "Waxed Block Of Corn",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.hellscraft.cooler_greenstone": "Chiseled Greenstone Bricks",
   "block.hellscraft.deeperslate_brick_wall": "Deeperslate Brick Wall",
   "item.cheese.darksteel_sword": "Darksteel Sword",
@@ -158,6 +266,7 @@
   "block.cheese.piss_pressure_plate": "Piss Pressure Plate",
   "block.hellscraft.gilded_deeperslate": "Gilded Deeperslate",
   "item.minecraft.tipped_arrow.effect.levitation": "Arrow of Levitation",
+<<<<<<< HEAD
   "block.cheese.block_of_cheese": "Block Of Cheese",
   "item.hellscraft.villager_meat": "Villager Meat",
   "block.cheese.darksteel_ore": "Darksteel Ore",
@@ -335,6 +444,8 @@
   "item.hellscraft.cheesed_armor_helmet": "Cheese Helmet",
   "block.cheese.darkwood_pressure_plate": "Darkwood Pressure Plate",
   "block.hellscraft.polished_block_of_popcorn": "Polished Block of Popcorn",
+=======
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.cheese.fishmetal_shovel": "Fishmetal Shovel",
   "block.hellscraft.darkwood_fence_gate": "Darkwood Fence Gate",
   "item.cheese.cheesed_shovel": "Cheese Shovel",
@@ -348,7 +459,15 @@
   "death.attack.totem_damage": "%1$s bid farewell, cruel world!",
   "block.hellscraft.polished_endgranite": "Polished Endgranite",
   "block.hellscraft.uranium_ore": "Uranium Ore",
+<<<<<<< HEAD
   "block.hellscraft.deeperslate_brick_slab": "Deeperslate Brick Slab",
+=======
+  "block.cheese.darksteel_ore": "Darksteel Ore",
+  "block.hellscraft.deeperslate_brick_slab": "Deeperslate Brick Slab",
+  "block.hellscraft.smooth_hardspice": "Smooth Hardspice",
+  "item.hellscraft.netherite_javelin": "Netherite Javelin",
+  "item.hellscraft.darksteel_shield": "Darksteel Shield",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.cheese.smooth_hardspice": "Smooth Hardspice",
   "block.hellscraft.polished_block_of_corn": "Polished Block Of Corn",
   "block.hellscraft.smooth_greenstone": "Smooth Greenstone",
@@ -361,14 +480,32 @@
   "block.hellscraft.deeperslate_bricks": "Deeperslate Bricks",
   "item.cheese.darksteel_ingot": "Darksteel Ingot",
   "painting.hellscraft.you_cannot_be_eepy.title": "You Cannot Be Eepy",
+<<<<<<< HEAD
+=======
+  "item.hellscraft.raw_uranium": "Raw Uranium",
+  "item.minecraft.tipped_arrow.effect.extended_levitation": "Arrow of Extended Levitation",
+  "item.cheese.cheesed_hoe": "Cheese Hoe",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "block.hellscraft.smooth_greenstone_slab": "Smooth Greenstone",
   "item.cheese.cheesed_hoe": "Cheese Hoe",
   "item.cheese.fishmetal_hoe": "Fishmetal Hoe",
   "item.hellscraft.fishmetal_ingot": "Fishmetal Ingot",
   "painting.hellscraft.doctor_who.title": "Doctor Who",
   "block.hellscraft.polished_popcorn_wall": "Polished Popcorn Wall",
+  "item.minecraft.potion.effect.extended_levitation": "Potion of Extended Levitation",
   "block.hellscraft.end_fluid": "End Fluid",
+<<<<<<< HEAD
   "item.cheese.chocolate_milk": "Chocolate Milk",
+=======
+  "item.hellscraft.beef_sandwhich": "Beef Sandwhich",
+  "block.hellscraft.piss_plank_slab": "Piss Slab",
+  "item.cheese.chocolate_milk": "Chocolate Milk",
+  "item.hellscraft.pink_salt": "Pink Salt",
+  "item.minecraft.tipped_arrow.effect.enhanced_levitation": "Arrow of Enhanced Levitation",
+  "item.cheese.cheesed_sword": "Cheese Sword",
+  "block.cheese.gunk": "Gunk",
+  "item.hellscraft.netherspice": "Netherspice",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.cheese.darksteel_hoe": "Darksteel Hoe",
   "item.minecraft.potion.effect.nausea": "Potion of Nausea",
   "item.hellscraft.cheesed_armor_boots": "Cheese Boots",
@@ -386,6 +523,10 @@
   "painting.hellscraft.true_painting.author": "True",
   "item.hellscraft.darksteel_sword": "Darksteel Sword",
   "item.minecraft.potion.effect.haste": "Potion of Haste",
+<<<<<<< HEAD
+=======
+  "block.cheese.piss_plank_fence_gate": "Piss Plank Fence Gate",
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
   "item.minecraft.splash_potion.effect.levitation": "Splash Potion of Levitation",
   "item.hellscraft.trident_shard": "Trident Shard",
   "item.hellscraft.cheesed_armor_leggings": "Cheese Leggings",

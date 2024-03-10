@@ -11,7 +11,10 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.hellscraft.block.WaxedBlockOfCornBlock;
+<<<<<<< HEAD
 import net.mcreator.hellscraft.block.VantablockBlock;
+=======
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
 import net.mcreator.hellscraft.block.UraniumOreBlock;
 import net.mcreator.hellscraft.block.StrippedPissStemBlock;
 import net.mcreator.hellscraft.block.StrippedDarkwoodLogBlock;
@@ -272,6 +275,7 @@ public class HellscraftModBlocks {
 	public static final RegistryObject<Block> GREASE = REGISTRY.register("grease", () -> new GreaseBlock());
 	public static final RegistryObject<Block> URANIUM_ORE = REGISTRY.register("uranium_ore", () -> new UraniumOreBlock());
 	public static final RegistryObject<Block> DEEPSLATE_URANIUM_ORE = REGISTRY.register("deepslate_uranium_ore", () -> new DeepslateUraniumOreBlock());
+<<<<<<< HEAD
 	public static final RegistryObject<Block> BLOCK_OF_CARROT = REGISTRY.register("block_of_carrot", () -> new BlockOfCarrotBlock());
 	public static final RegistryObject<Block> CARROT_BRICKS = REGISTRY.register("carrot_bricks", () -> new CarrotBricksBlock());
 	public static final RegistryObject<Block> CARROT_BRICK_SLAB = REGISTRY.register("carrot_brick_slab", () -> new CarrotBrickSlabBlock());
@@ -284,4 +288,6 @@ public class HellscraftModBlocks {
 	public static final RegistryObject<Block> BLOCK_OF_CORNFLOWER = REGISTRY.register("block_of_cornflower", () -> new BlockOfCornflowerBlock());
 	public static final RegistryObject<Block> BLOCK_OF_AZURE_BLUET = REGISTRY.register("block_of_azure_bluet", () -> new BlockOfAzureBluetBlock());
 	public static final RegistryObject<Block> MUSHRACK = REGISTRY.register("mushrack", () -> new MushrackBlock());
+=======
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
 }

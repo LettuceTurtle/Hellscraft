@@ -5,8 +5,13 @@
     "type": "Block",
     "pools": [
       {
+<<<<<<< HEAD
         "minrolls": 1,
         "maxrolls": 3,
+=======
+        "minrolls": 4,
+        "maxrolls": 9,
+>>>>>>> faed26da250d48ad7373a19ad2318d6eee44f10e
         "minbonusrolls": 1,
         "maxbonusrolls": 1,
         "hasbonusrolls": false,
