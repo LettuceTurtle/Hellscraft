@@ -39,6 +39,7 @@ import net.mcreator.hellscraft.item.PinkSaltItem;
 import net.mcreator.hellscraft.item.NetherspiceItem;
 import net.mcreator.hellscraft.item.NetherpulpItem;
 import net.mcreator.hellscraft.item.NetheriteJavelinItem;
+import net.mcreator.hellscraft.item.LeadIngotItem;
 import net.mcreator.hellscraft.item.LavaAxeItem;
 import net.mcreator.hellscraft.item.IronJavelinItem;
 import net.mcreator.hellscraft.item.GoldJavelinItem;
@@ -294,6 +295,14 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> DEEPSLATE_LEAD_ORE = block(HellscraftModBlocks.DEEPSLATE_LEAD_ORE);
 	public static final RegistryObject<Item> DEEPERSLATE_LEAD_ORE = block(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE);
 	public static final RegistryObject<Item> RAW_LEAD = REGISTRY.register("raw_lead", () -> new RawLeadItem());
+	public static final RegistryObject<Item> BLOCK_OF_LEAD = block(HellscraftModBlocks.BLOCK_OF_LEAD);
+	public static final RegistryObject<Item> CUT_LEAD = block(HellscraftModBlocks.CUT_LEAD);
+	public static final RegistryObject<Item> LEAD_INGOT = REGISTRY.register("lead_ingot", () -> new LeadIngotItem());
+	public static final RegistryObject<Item> LEAD_SLAB = block(HellscraftModBlocks.LEAD_SLAB);
+	public static final RegistryObject<Item> LEAD_STAIRS = block(HellscraftModBlocks.LEAD_STAIRS);
+	public static final RegistryObject<Item> CUT_LEAD_SLAB = block(HellscraftModBlocks.CUT_LEAD_SLAB);
+	public static final RegistryObject<Item> CUT_LEAD_STAIRS = block(HellscraftModBlocks.CUT_LEAD_STAIRS);
+	public static final RegistryObject<Item> ASBESTOS = block(HellscraftModBlocks.ASBESTOS);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/lead_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/lead_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/lead_slab_full"
+    }
+  }
+}

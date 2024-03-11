@@ -98,7 +98,7 @@
     "stepSound": {
       "value": ""
     },
-    "luminance": 5,
+    "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": 2,
     "isBonemealable": false,
@@ -130,7 +130,7 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 8,
+    "frequencyPerChunks": 10,
     "frequencyOnChunk": 6,
     "minGenerateHeight": -64,
     "maxGenerateHeight": 0

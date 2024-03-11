@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "hellscraft:block_of_lead"
+  },
+  "result": "hellscraft:cut_lead"
+}

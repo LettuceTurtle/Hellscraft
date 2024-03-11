@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hellscraft:item/6aa745b0-0ccf-465f-830a-fa494437485c"
+  }
+}

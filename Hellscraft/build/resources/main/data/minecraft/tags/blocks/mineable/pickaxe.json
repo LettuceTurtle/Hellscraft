@@ -74,6 +74,12 @@
     "hellscraft:lead_pipe",
     "hellscraft:lead_ore",
     "hellscraft:deepslate_lead_ore",
-    "hellscraft:deeperslate_lead_ore"
+    "hellscraft:deeperslate_lead_ore",
+    "hellscraft:block_of_lead",
+    "hellscraft:cut_lead",
+    "hellscraft:lead_slab",
+    "hellscraft:lead_stairs",
+    "hellscraft:cut_lead_slab",
+    "hellscraft:cut_lead_stairs"
   ]
 }

@@ -1,8 +1,6 @@
 
 package net.mcreator.hellscraft.block;
 
-import org.checkerframework.checker.units.qual.s;
-
 import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -20,8 +18,7 @@ import java.util.List;
 
 public class DeepslateLeadOreBlock extends Block {
 	public DeepslateLeadOreBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(4.5f, 3f).lightLevel(s -> 5).requiresCorrectToolForDrops().hasPostProcess((bs, br, bp) -> true)
-				.emissiveRendering((bs, br, bp) -> true));
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(4.5f, 3f).requiresCorrectToolForDrops().hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
 	}
 
 	@Override

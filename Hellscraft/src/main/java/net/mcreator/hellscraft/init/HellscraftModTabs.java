@@ -90,6 +90,12 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.GRUD.get().asItem());
 			tabData.accept(HellscraftModBlocks.VANTABLOCK.get().asItem());
 			tabData.accept(HellscraftModBlocks.LEAD_PIPE.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_LEAD.get().asItem());
+			tabData.accept(HellscraftModBlocks.CUT_LEAD.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.CUT_LEAD_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.CUT_LEAD_STAIRS.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -133,6 +139,8 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.SALT.get());
 			tabData.accept(HellscraftModItems.PINK_SALT.get());
 			tabData.accept(HellscraftModItems.END_FLUID_BUCKET.get());
+			tabData.accept(HellscraftModItems.RAW_LEAD.get());
+			tabData.accept(HellscraftModItems.LEAD_INGOT.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
@@ -221,6 +229,7 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.LEAD_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPSLATE_LEAD_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ASBESTOS.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
