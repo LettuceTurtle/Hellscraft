@@ -8185,6 +8185,66 @@
           "src/main/resources/assets/hellscraft/models/item/asbestos.json"
         ]
       }
+    },
+    {
+      "name": "LeadTrapdoor",
+      "type": "block",
+      "sortid": 552,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/lead_trapdoor_top.json",
+          "src/main/java/net/mcreator/hellscraft/block/LeadTrapdoorBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/lead_trapdoor.json",
+          "src/main/resources/assets/hellscraft/models/item/lead_trapdoor.json",
+          "src/main/resources/assets/hellscraft/models/block/lead_trapdoor.json",
+          "src/main/resources/assets/hellscraft/models/block/lead_trapdoor_open.json"
+        ]
+      }
+    },
+    {
+      "name": "LeadTrapdoorR",
+      "type": "recipe",
+      "sortid": 553,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_trapdoor_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lead_trapdoor_r.json"
+        ]
+      }
+    },
+    {
+      "name": "CuteCopper",
+      "type": "block",
+      "sortid": 554,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cute_copper",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/cute_copper.json",
+          "src/main/java/net/mcreator/hellscraft/block/CuteCopperBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/cute_copper.json",
+          "src/main/resources/assets/hellscraft/models/block/cute_copper.json"
+        ]
+      }
+    },
+    {
+      "name": "CuteCopperR",
+      "type": "recipe",
+      "sortid": 555,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cute_copper_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cute_copper_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -8203,8 +8263,8 @@
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
-      "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
       "block.cheese.piss_plank_stairs": "Piss Stairs",
+      "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
       "block.hellscraft.jeweled_deeperslate_bricks": "Jeweled Deeperslate Bricks",
       "block.hellscraft.press": "Press",
       "block.cheese.darksteel_block": "Darksteel Block",
@@ -8218,8 +8278,8 @@
       "block.hellscraft.grud": "Grud",
       "block.cheese.deeperslate_iron_ore": "Deeperslate Iron Ore",
       "block.hellscraft.block_of_popcorn": "Block of Popcorn",
-      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
+      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.chisled_galvanic_deeperslate": "Chisled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
       "block.hellscraft.block_of_poppy": "Block Of Poppy",
@@ -8228,19 +8288,19 @@
       "block.hellscraft.cut_lead_slab": "Cut Lead Slab",
       "biome.hellscraft.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.cheese.darkwood_log": "Darkwood Log",
-      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.hellscraft.block_of_villager": "Block Of Villager",
+      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.cheese.deeperslate": "Deeperslate",
       "item.cheese.netherite_javelin": "Netherite Javelin",
       "item.cheese.fishmetal_armor_chestplate": "Fishmetal Chestplate",
-      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.hellscraft.block_of_carrot": "Block Of Carrot",
+      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
       "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
-      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
       "painting.hellscraft.urabrask_hit.title": "Urabrask Hit",
       "block.hellscraft.endgranite": "Endgranite",
@@ -8312,8 +8372,8 @@
       "block.hellscraft.block_of_cheese": "Block Of Cheese",
       "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
       "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
-      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
       "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
@@ -8339,13 +8399,14 @@
       "block.hellscraft.cooler_greenstone": "Chiseled Greenstone Bricks",
       "block.hellscraft.deeperslate_brick_wall": "Deeperslate Brick Wall",
       "item.cheese.darksteel_sword": "Darksteel Sword",
+      "block.hellscraft.lead_trapdoor": "Lead Trapdoor",
       "block.hellscraft.chiseled_gilded_deeperslate": "Chiseled Gilded Deeperslate",
       "item.cheese.darksteel_armor_leggings": "Darksteel Leggings",
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
-      "item.cheese.totem_of_dying": "Totem Of Dying",
-      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "block.hellscraft.polished_endersite": "Polished Endersite",
+      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
+      "item.cheese.totem_of_dying": "Totem Of Dying",
       "block.hellscraft.darksteel_block": "Darksteel Block",
       "item.cheese.fishmetal_sword": "Fishmetal Sword",
       "item.hellscraft.darksteel_armor_boots": "Darksteel Boots",
@@ -8412,6 +8473,7 @@
       "item.hellscraft.carbonated_water_bottle": "Carbonated Water Bottle",
       "item.hellscraft.cheese": "Cheese",
       "block.hellscraft.darkwood_slab": "Darkwood Slab",
+      "block.hellscraft.cute_copper": "Cute Copper",
       "block.hellscraft.stripped_piss_stem": "Stripped Piss Stem",
       "item.hellscraft.cheesed_axe": "Cheese Axe",
       "block.hellscraft.piss_plank_fence": "Piss Fence",

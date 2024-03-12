@@ -303,6 +303,8 @@ public class HellscraftModItems {
 	public static final RegistryObject<Item> CUT_LEAD_SLAB = block(HellscraftModBlocks.CUT_LEAD_SLAB);
 	public static final RegistryObject<Item> CUT_LEAD_STAIRS = block(HellscraftModBlocks.CUT_LEAD_STAIRS);
 	public static final RegistryObject<Item> ASBESTOS = block(HellscraftModBlocks.ASBESTOS);
+	public static final RegistryObject<Item> LEAD_TRAPDOOR = block(HellscraftModBlocks.LEAD_TRAPDOOR);
+	public static final RegistryObject<Item> CUTE_COPPER = block(HellscraftModBlocks.CUTE_COPPER);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

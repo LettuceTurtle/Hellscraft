@@ -96,6 +96,8 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.LEAD_STAIRS.get().asItem());
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_TRAPDOOR.get().asItem());
+			tabData.accept(HellscraftModBlocks.CUTE_COPPER.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {

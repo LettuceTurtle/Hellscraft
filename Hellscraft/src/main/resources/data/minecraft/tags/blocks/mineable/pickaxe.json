@@ -80,6 +80,8 @@
     "hellscraft:lead_slab",
     "hellscraft:lead_stairs",
     "hellscraft:cut_lead_slab",
-    "hellscraft:cut_lead_stairs"
+    "hellscraft:cut_lead_stairs",
+    "hellscraft:lead_trapdoor",
+    "hellscraft:cute_copper"
   ]
 }

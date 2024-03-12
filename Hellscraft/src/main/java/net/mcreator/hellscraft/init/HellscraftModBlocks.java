@@ -59,6 +59,7 @@ import net.mcreator.hellscraft.block.PissMushroomBlock;
 import net.mcreator.hellscraft.block.PissButtonBlock;
 import net.mcreator.hellscraft.block.NetherspiceBlockBlock;
 import net.mcreator.hellscraft.block.MushrackBlock;
+import net.mcreator.hellscraft.block.LeadTrapdoorBlock;
 import net.mcreator.hellscraft.block.LeadStairsBlock;
 import net.mcreator.hellscraft.block.LeadSlabBlock;
 import net.mcreator.hellscraft.block.LeadPipeBlock;
@@ -116,6 +117,7 @@ import net.mcreator.hellscraft.block.DarkwoodFenceBlock;
 import net.mcreator.hellscraft.block.DarkwoodButtonBlock;
 import net.mcreator.hellscraft.block.DarksteelOreBlock;
 import net.mcreator.hellscraft.block.DarksteelBlockBlock;
+import net.mcreator.hellscraft.block.CuteCopperBlock;
 import net.mcreator.hellscraft.block.CutLeadStairsBlock;
 import net.mcreator.hellscraft.block.CutLeadSlabBlock;
 import net.mcreator.hellscraft.block.CutLeadBlock;
@@ -306,4 +308,6 @@ public class HellscraftModBlocks {
 	public static final RegistryObject<Block> CUT_LEAD_SLAB = REGISTRY.register("cut_lead_slab", () -> new CutLeadSlabBlock());
 	public static final RegistryObject<Block> CUT_LEAD_STAIRS = REGISTRY.register("cut_lead_stairs", () -> new CutLeadStairsBlock());
 	public static final RegistryObject<Block> ASBESTOS = REGISTRY.register("asbestos", () -> new AsbestosBlock());
+	public static final RegistryObject<Block> LEAD_TRAPDOOR = REGISTRY.register("lead_trapdoor", () -> new LeadTrapdoorBlock());
+	public static final RegistryObject<Block> CUTE_COPPER = REGISTRY.register("cute_copper", () -> new CuteCopperBlock());
 }
