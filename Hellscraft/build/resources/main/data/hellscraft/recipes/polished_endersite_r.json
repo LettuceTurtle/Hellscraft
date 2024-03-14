@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:endersite"
+    }
+  },
+  "result": {
+    "item": "hellscraft:polished_endersite",
+    "count": 4
+  }
+}

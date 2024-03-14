@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:polished_kidneystone"
+    }
+  },
+  "result": {
+    "item": "hellscraft:kidneystone_bricks",
+    "count": 4
+  }
+}

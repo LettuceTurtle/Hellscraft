@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Kidneystone"
+      },
+      {
+        "value": "CUSTOM:Kidneystone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Kidneystone"
+      },
+      {
+        "value": "CUSTOM:Kidneystone"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedKidneystone"
+    },
+    "name": "polished_kidneystone_r",
+    "namespace": "mod"
+  }
+}

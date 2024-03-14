@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/endgranite_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/endgranite_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/endgranite_slab_full"
+    }
+  }
+}

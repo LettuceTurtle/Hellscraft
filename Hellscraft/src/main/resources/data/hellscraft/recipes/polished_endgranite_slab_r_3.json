@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:polished_endgranite"
+  },
+  "result": "hellscraft:polished_endgranite_slab"
+}

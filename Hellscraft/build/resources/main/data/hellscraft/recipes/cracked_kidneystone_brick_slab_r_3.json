@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:kidneystone_bricks"
+  },
+  "result": "hellscraft:cracked_kidneystone_brick_slab"
+}

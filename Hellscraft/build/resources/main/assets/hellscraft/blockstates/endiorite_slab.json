@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/endiorite_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/endiorite_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/endiorite_slab_full"
+    }
+  }
+}

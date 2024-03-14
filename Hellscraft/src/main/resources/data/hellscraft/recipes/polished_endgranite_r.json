@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:endgranite"
+    }
+  },
+  "result": {
+    "item": "hellscraft:polished_endgranite",
+    "count": 4
+  }
+}

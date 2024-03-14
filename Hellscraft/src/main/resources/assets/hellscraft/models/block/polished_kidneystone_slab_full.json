@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "hellscraft:block/3d78d15f-d27f-40f9-b243-817e167f67df",
+    "top": "hellscraft:block/3d78d15f-d27f-40f9-b243-817e167f67df",
+    "side": "hellscraft:block/3d78d15f-d27f-40f9-b243-817e167f67df"
+  },
+  "render_type": "solid"
+}

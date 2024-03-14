@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/polished_endersite_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/polished_endersite_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/polished_endersite_slab_full"
+    }
+  }
+}

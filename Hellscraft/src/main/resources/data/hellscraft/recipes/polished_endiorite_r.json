@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:endiorite"
+    }
+  },
+  "result": {
+    "item": "hellscraft:polished_endiorite",
+    "count": 4
+  }
+}

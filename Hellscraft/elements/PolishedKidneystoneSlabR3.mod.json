@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:PolishedKidneystone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:PolishedKidneystoneSlab"
+    },
+    "name": "polished_kidneystone_slab_r_3",
+    "namespace": "mod"
+  }
+}

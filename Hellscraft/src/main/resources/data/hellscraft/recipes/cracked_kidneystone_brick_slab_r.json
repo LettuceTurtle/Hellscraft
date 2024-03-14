@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:cracked_kidneystone_bricks"
+    }
+  },
+  "result": {
+    "item": "hellscraft:cracked_kidneystone_brick_slab",
+    "count": 6
+  }
+}

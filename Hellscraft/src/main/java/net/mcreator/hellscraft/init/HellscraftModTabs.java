@@ -23,6 +23,7 @@ public class HellscraftModTabs {
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
 
 		if (tabData.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+			tabData.accept(HellscraftModBlocks.CUTE_COPPER.get().asItem());
 			tabData.accept(HellscraftModBlocks.FISHMETAL_BLOCK.get().asItem());
 			tabData.accept(HellscraftModBlocks.HARDSPICE.get().asItem());
 			tabData.accept(HellscraftModBlocks.HARDSPICE_SLAB.get().asItem());
@@ -97,7 +98,6 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_STAIRS.get().asItem());
 			tabData.accept(HellscraftModBlocks.LEAD_TRAPDOOR.get().asItem());
-			tabData.accept(HellscraftModBlocks.CUTE_COPPER.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -178,10 +178,14 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.NETHERSPICE_BLOCK.get().asItem());
 			tabData.accept(HellscraftModBlocks.GUNK.get().asItem());
 			tabData.accept(HellscraftModBlocks.CORN_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.LEAD_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPSLATE_LEAD_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPERSLATE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPERSLATE_DIAMOND_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPERSLATE_IRON_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.DARKSTEEL_ORE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ASBESTOS.get().asItem());
 			tabData.accept(HellscraftModBlocks.GREENSTONE.get().asItem());
 			tabData.accept(HellscraftModBlocks.GREENSTONE_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.GREENSTONE_STAIRS.get().asItem());
@@ -217,21 +221,37 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICKS.get().asItem());
 			tabData.accept(HellscraftModBlocks.CHISELED_KIDNEYSTONE.get().asItem());
 			tabData.accept(HellscraftModBlocks.ENDGRANITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDGRANITE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDGRANITE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDGRANITE_WALL.get().asItem());
 			tabData.accept(HellscraftModBlocks.ENDIORITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDIORITE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDIORITE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDIORITE_WALL.get().asItem());
 			tabData.accept(HellscraftModBlocks.ENDERSITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDERSITE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDERSITE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.ENDERSITE_WALL.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDGRANITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDGRANITE_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDIORITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDIORITE_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.POLISHED_ENDERSITE.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_ENDERSITE_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.DEEPSLATE_URANIUM_ORE.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_DANDELION.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_POPPY.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_CORNFLOWER.get().asItem());
 			tabData.accept(HellscraftModBlocks.BLOCK_OF_AZURE_BLUET.get().asItem());
 			tabData.accept(HellscraftModBlocks.MUSHRACK.get().asItem());
-			tabData.accept(HellscraftModBlocks.LEAD_ORE.get().asItem());
-			tabData.accept(HellscraftModBlocks.DEEPSLATE_LEAD_ORE.get().asItem());
-			tabData.accept(HellscraftModBlocks.DEEPERSLATE_LEAD_ORE.get().asItem());
-			tabData.accept(HellscraftModBlocks.ASBESTOS.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_WALL.get().asItem());
+			tabData.accept(HellscraftModBlocks.POLISHED_KIDNEYSTONE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICK_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICK_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICK_WALL.get().asItem());
+			tabData.accept(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICK_SLAB.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {

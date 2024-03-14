@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "hellscraft:block/af781b99-34b3-44a8-9bc4-c47524cfec57",
+    "top": "hellscraft:block/af781b99-34b3-44a8-9bc4-c47524cfec57",
+    "side": "hellscraft:block/af781b99-34b3-44a8-9bc4-c47524cfec57"
+  },
+  "render_type": "solid"
+}

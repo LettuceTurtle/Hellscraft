@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:endersite"
+    }
+  },
+  "result": {
+    "item": "hellscraft:endersite_slab",
+    "count": 6
+  }
+}

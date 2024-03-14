@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:polished_endiorite"
+  },
+  "result": "hellscraft:polished_endiorite_slab"
+}

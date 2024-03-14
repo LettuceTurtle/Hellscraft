@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "hellscraft:block/af781b99-34b3-44a8-9bc4-c47524cfec57",
+    "particle": "hellscraft:block/af781b99-34b3-44a8-9bc4-c47524cfec57"
+  },
+  "render_type": "solid"
+}
