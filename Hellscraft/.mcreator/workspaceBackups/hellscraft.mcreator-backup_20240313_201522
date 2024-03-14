@@ -33,7 +33,7 @@
     {
       "name": "BlockOfCheeseRecipie",
       "type": "recipe",
-      "sortid": 132,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_cheese_recipie",
@@ -46,7 +46,7 @@
     {
       "name": "CheeseRecipieB",
       "type": "recipe",
-      "sortid": 133,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheese_recipie_b",
@@ -113,7 +113,7 @@
     {
       "name": "PressUI",
       "type": "gui",
-      "sortid": 134,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press_ui",
@@ -127,7 +127,7 @@
     {
       "name": "Press",
       "type": "block",
-      "sortid": 19,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press",
@@ -144,7 +144,7 @@
     {
       "name": "PressProcedure",
       "type": "procedure",
-      "sortid": 135,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press_procedure",
@@ -175,7 +175,7 @@
     {
       "name": "PressCooldown",
       "type": "procedure",
-      "sortid": 136,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press_cooldown",
@@ -206,7 +206,7 @@
     {
       "name": "PressA",
       "type": "block",
-      "sortid": 137,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press_a",
@@ -223,7 +223,7 @@
     {
       "name": "PressR",
       "type": "recipe",
-      "sortid": 138,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "press_r",
@@ -236,7 +236,7 @@
     {
       "name": "BlockOfRottenFlesh",
       "type": "block",
-      "sortid": 21,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_rotten_flesh",
@@ -252,7 +252,7 @@
     {
       "name": "BlockOfRottenFleshR",
       "type": "recipe",
-      "sortid": 139,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_rotten_flesh_r",
@@ -265,7 +265,7 @@
     {
       "name": "RottenFleshR",
       "type": "recipe",
-      "sortid": 140,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rotten_flesh_r",
@@ -278,7 +278,7 @@
     {
       "name": "CheesedPickaxe",
       "type": "tool",
-      "sortid": 54,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_pickaxe",
@@ -292,7 +292,7 @@
     {
       "name": "CheesedAxe",
       "type": "tool",
-      "sortid": 55,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_axe",
@@ -306,7 +306,7 @@
     {
       "name": "CheesedSword",
       "type": "tool",
-      "sortid": 67,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_sword",
@@ -320,7 +320,7 @@
     {
       "name": "CheesedShovel",
       "type": "tool",
-      "sortid": 56,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_shovel",
@@ -334,7 +334,7 @@
     {
       "name": "CheesedHoe",
       "type": "tool",
-      "sortid": 57,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_hoe",
@@ -348,7 +348,7 @@
     {
       "name": "CheesedPickaxeRecipe",
       "type": "recipe",
-      "sortid": 141,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_pickaxe_recipe",
@@ -361,7 +361,7 @@
     {
       "name": "CheesedAxeRecipe",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_axe_recipe",
@@ -374,7 +374,7 @@
     {
       "name": "CheesedSwordRecipe",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_sword_recipe",
@@ -387,7 +387,7 @@
     {
       "name": "CheesedShovelRecipe",
       "type": "recipe",
-      "sortid": 144,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_shovel_recipe",
@@ -400,7 +400,7 @@
     {
       "name": "CheesedHoeRecipe",
       "type": "recipe",
-      "sortid": 145,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_hoe_recipe",
@@ -413,7 +413,7 @@
     {
       "name": "CheesedArmor",
       "type": "armor",
-      "sortid": 68,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_armor",
@@ -430,7 +430,7 @@
     {
       "name": "CheesedArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_armor_helmet_recipe",
@@ -443,7 +443,7 @@
     {
       "name": "CheesedArmorChestplateRecipe",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_armor_chestplate_recipe",
@@ -456,7 +456,7 @@
     {
       "name": "CheesedArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_armor_leggings_recipe",
@@ -469,7 +469,7 @@
     {
       "name": "CheesedArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 149,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheesed_armor_boots_recipe",
@@ -482,7 +482,7 @@
     {
       "name": "Quicksand",
       "type": "block",
-      "sortid": 23,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quicksand",
@@ -498,7 +498,7 @@
     {
       "name": "QuicksandR",
       "type": "recipe",
-      "sortid": 150,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quicksand_r",
@@ -525,7 +525,7 @@
     {
       "name": "ChocolateMilkR",
       "type": "recipe",
-      "sortid": 151,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chocolate_milk_r",
@@ -538,7 +538,7 @@
     {
       "name": "FishmetalIngot",
       "type": "item",
-      "sortid": 82,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_ingot",
@@ -552,7 +552,7 @@
     {
       "name": "FishmetalPickaxe",
       "type": "tool",
-      "sortid": 58,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_pickaxe",
@@ -566,7 +566,7 @@
     {
       "name": "FishmetalAxe",
       "type": "tool",
-      "sortid": 59,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_axe",
@@ -580,7 +580,7 @@
     {
       "name": "FishmetalSword",
       "type": "tool",
-      "sortid": 69,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_sword",
@@ -594,7 +594,7 @@
     {
       "name": "FishmetalShovel",
       "type": "tool",
-      "sortid": 60,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_shovel",
@@ -608,7 +608,7 @@
     {
       "name": "FishmetalHoe",
       "type": "tool",
-      "sortid": 61,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_hoe",
@@ -622,7 +622,7 @@
     {
       "name": "FishmetalPickaxeRecipe",
       "type": "recipe",
-      "sortid": 152,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_pickaxe_recipe",
@@ -635,7 +635,7 @@
     {
       "name": "FishmetalAxeRecipe",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_axe_recipe",
@@ -648,7 +648,7 @@
     {
       "name": "FishmetalSwordRecipe",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_sword_recipe",
@@ -661,7 +661,7 @@
     {
       "name": "FishmetalShovelRecipe",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_shovel_recipe",
@@ -674,7 +674,7 @@
     {
       "name": "FishmetalHoeRecipe",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_hoe_recipe",
@@ -687,7 +687,7 @@
     {
       "name": "FishmetalArmor",
       "type": "armor",
-      "sortid": 70,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_armor",
@@ -704,7 +704,7 @@
     {
       "name": "FishmetalArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_armor_helmet_recipe",
@@ -717,7 +717,7 @@
     {
       "name": "FishmetalArmorChestplateRecipe",
       "type": "recipe",
-      "sortid": 158,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_armor_chestplate_recipe",
@@ -730,7 +730,7 @@
     {
       "name": "FishmetalArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 159,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_armor_leggings_recipe",
@@ -743,7 +743,7 @@
     {
       "name": "FishmetalArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 160,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_armor_boots_recipe",
@@ -756,7 +756,7 @@
     {
       "name": "FishmetalBlock",
       "type": "block",
-      "sortid": 87,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_block",
@@ -772,7 +772,7 @@
     {
       "name": "FishmetalR",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_r",
@@ -785,7 +785,7 @@
     {
       "name": "FishmetalR2",
       "type": "recipe",
-      "sortid": 162,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_r_2",
@@ -798,7 +798,7 @@
     {
       "name": "FishmetalR3",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_r_3",
@@ -811,7 +811,7 @@
     {
       "name": "FishmetalBlockR",
       "type": "recipe",
-      "sortid": 164,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_block_r",
@@ -824,7 +824,7 @@
     {
       "name": "FishmetalR4",
       "type": "recipe",
-      "sortid": 165,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_r_4",
@@ -837,7 +837,7 @@
     {
       "name": "BlockOfVillager",
       "type": "block",
-      "sortid": 22,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_villager",
@@ -867,7 +867,7 @@
     {
       "name": "Villager",
       "type": "loottable",
-      "sortid": 166,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "villager",
@@ -880,7 +880,7 @@
     {
       "name": "AgingBarrel",
       "type": "block",
-      "sortid": 20,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel",
@@ -897,7 +897,7 @@
     {
       "name": "AgingBarrelGui",
       "type": "gui",
-      "sortid": 167,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_gui",
@@ -912,7 +912,7 @@
     {
       "name": "AgingBarrelProcedure",
       "type": "procedure",
-      "sortid": 168,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_procedure",
@@ -943,7 +943,7 @@
     {
       "name": "AgingBarrelUpdateProcedure",
       "type": "procedure",
-      "sortid": 169,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_update_procedure",
@@ -974,7 +974,7 @@
     {
       "name": "AgingBarrelR",
       "type": "recipe",
-      "sortid": 170,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_r",
@@ -987,7 +987,7 @@
     {
       "name": "AgingBarrelOpen",
       "type": "procedure",
-      "sortid": 171,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_open",
@@ -1022,7 +1022,7 @@
     {
       "name": "AgingBarrelClose",
       "type": "procedure",
-      "sortid": 172,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "aging_barrel_close",
@@ -1053,7 +1053,7 @@
     {
       "name": "TotemOfDying",
       "type": "item",
-      "sortid": 66,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "totem_of_dying",
@@ -1067,7 +1067,7 @@
     {
       "name": "TotemDamage",
       "type": "damagetype",
-      "sortid": 173,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "totem_damage",
@@ -1080,7 +1080,7 @@
     {
       "name": "TotemOfDyingProcedure",
       "type": "procedure",
-      "sortid": 174,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "totem_of_dying_procedure",
@@ -1103,7 +1103,7 @@
     {
       "name": "TotemOfDyingR",
       "type": "recipe",
-      "sortid": 175,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "totem_of_dying_r",
@@ -1116,7 +1116,7 @@
     {
       "name": "Greenstone",
       "type": "block",
-      "sortid": 31,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone",
@@ -1132,7 +1132,7 @@
     {
       "name": "Gunk",
       "type": "block",
-      "sortid": 25,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gunk",
@@ -1151,7 +1151,7 @@
     {
       "name": "Deeperslate",
       "type": "block",
-      "sortid": 27,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate",
@@ -1167,7 +1167,7 @@
     {
       "name": "CornOre",
       "type": "block",
-      "sortid": 26,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "corn_ore",
@@ -1200,7 +1200,7 @@
     {
       "name": "Cornloot",
       "type": "loottable",
-      "sortid": 176,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cornloot",
@@ -1213,7 +1213,7 @@
     {
       "name": "DeeperslateDiamondOre",
       "type": "block",
-      "sortid": 28,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_diamond_ore",
@@ -1232,7 +1232,7 @@
     {
       "name": "DeeperslateIronOre",
       "type": "block",
-      "sortid": 29,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_iron_ore",
@@ -1251,7 +1251,7 @@
     {
       "name": "DDiamondLoot",
       "type": "loottable",
-      "sortid": 177,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_diamond_loot",
@@ -1264,7 +1264,7 @@
     {
       "name": "DIronLoot",
       "type": "loottable",
-      "sortid": 178,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_iron_loot",
@@ -1277,7 +1277,7 @@
     {
       "name": "Hardspice",
       "type": "block",
-      "sortid": 88,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice",
@@ -1293,7 +1293,7 @@
     {
       "name": "HardspiceSlab",
       "type": "block",
-      "sortid": 89,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_slab",
@@ -1311,7 +1311,7 @@
     {
       "name": "HardspiceStairs",
       "type": "block",
-      "sortid": 90,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_stairs",
@@ -1329,7 +1329,7 @@
     {
       "name": "HardspiceBricks",
       "type": "block",
-      "sortid": 91,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_bricks",
@@ -1345,7 +1345,7 @@
     {
       "name": "HardspiceBrickSlab",
       "type": "block",
-      "sortid": 92,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_slab",
@@ -1363,7 +1363,7 @@
     {
       "name": "HardspiceBrickStairs",
       "type": "block",
-      "sortid": 93,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_stairs",
@@ -1381,7 +1381,7 @@
     {
       "name": "HardspiceBrickWall",
       "type": "block",
-      "sortid": 94,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_wall",
@@ -1400,7 +1400,7 @@
     {
       "name": "SmoothHardspice",
       "type": "block",
-      "sortid": 95,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_hardspice",
@@ -1416,7 +1416,7 @@
     {
       "name": "SmoothHardspiceSlab",
       "type": "block",
-      "sortid": 96,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_hardspice_slab",
@@ -1434,7 +1434,7 @@
     {
       "name": "NetherspiceBlock",
       "type": "block",
-      "sortid": 24,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherspice_block",
@@ -1453,7 +1453,7 @@
     {
       "name": "Netherspice",
       "type": "item",
-      "sortid": 179,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherspice",
@@ -1467,7 +1467,7 @@
     {
       "name": "NetherspiceLoot",
       "type": "loottable",
-      "sortid": 180,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherspice_loot",
@@ -1480,7 +1480,7 @@
     {
       "name": "NetherspiceBlockR",
       "type": "recipe",
-      "sortid": 181,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherspice_block_r",
@@ -1493,7 +1493,7 @@
     {
       "name": "HardspiceR",
       "type": "recipe",
-      "sortid": 182,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_r",
@@ -1506,7 +1506,7 @@
     {
       "name": "SmoothHardspiceR",
       "type": "recipe",
-      "sortid": 183,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_hardspice_r",
@@ -1519,7 +1519,7 @@
     {
       "name": "HardspiceSlabR",
       "type": "recipe",
-      "sortid": 184,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_slab_r",
@@ -1532,7 +1532,7 @@
     {
       "name": "NetherspiceR",
       "type": "recipe",
-      "sortid": 185,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherspice_r",
@@ -1545,7 +1545,7 @@
     {
       "name": "HardspiceStairsR",
       "type": "recipe",
-      "sortid": 186,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_stairs_r",
@@ -1558,7 +1558,7 @@
     {
       "name": "HardspiceBricksR",
       "type": "recipe",
-      "sortid": 187,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_bricks_r",
@@ -1571,7 +1571,7 @@
     {
       "name": "HardspiceBrickSlabR",
       "type": "recipe",
-      "sortid": 188,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_slab_r",
@@ -1584,7 +1584,7 @@
     {
       "name": "HardspiceBrickStairsR",
       "type": "recipe",
-      "sortid": 189,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_stairs_r",
@@ -1597,7 +1597,7 @@
     {
       "name": "HardspiceBrickWallR",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_wall_r",
@@ -1610,7 +1610,7 @@
     {
       "name": "SmoothHardspiceSlabR",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_hardspice_slab_r",
@@ -1623,7 +1623,7 @@
     {
       "name": "HardspiceSlabSR",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_slab_sr",
@@ -1636,7 +1636,7 @@
     {
       "name": "HardspiceStairsSR",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_stairs_sr",
@@ -1649,7 +1649,7 @@
     {
       "name": "HardspiceBricksSR",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_bricks_sr",
@@ -1662,7 +1662,7 @@
     {
       "name": "HardspiceBrickSlabSR",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_slab_sr",
@@ -1675,7 +1675,7 @@
     {
       "name": "HardspiceBrickStairsSR",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_stairs_sr",
@@ -1688,7 +1688,7 @@
     {
       "name": "HardspiceBrickWallSR",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_wall_sr",
@@ -1701,7 +1701,7 @@
     {
       "name": "HardspiceBrickSlabSR2",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_slab_sr_2",
@@ -1714,7 +1714,7 @@
     {
       "name": "HardspiceBrickStairsSR2",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_stairs_sr_2",
@@ -1727,7 +1727,7 @@
     {
       "name": "HardspiceBrickWallSR2",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardspice_brick_wall_sr_2",
@@ -1740,7 +1740,7 @@
     {
       "name": "SmoothHardspiceSlabSR",
       "type": "recipe",
-      "sortid": 201,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_hardspice_slab_sr",
@@ -1753,7 +1753,7 @@
     {
       "name": "GreenstoneGeneration",
       "type": "feature",
-      "sortid": 202,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_generation",
@@ -1768,7 +1768,7 @@
     {
       "name": "GunkEntityWalksOnTheBlock",
       "type": "procedure",
-      "sortid": 203,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gunk_entity_walks_on_the_block",
@@ -1787,7 +1787,7 @@
     {
       "name": "DeeperslateGeneration",
       "type": "feature",
-      "sortid": 204,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_generation",
@@ -1802,7 +1802,7 @@
     {
       "name": "BaseStoneOverworld",
       "type": "tag",
-      "sortid": 205,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "registry_name": "base_stone_overworld",
@@ -1829,7 +1829,7 @@
     {
       "name": "SeasonedPorkchopEat",
       "type": "procedure",
-      "sortid": 206,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "registry_name": "seasoned_porkchop_eat",
@@ -1848,7 +1848,7 @@
     {
       "name": "SeasonedPorkchopR",
       "type": "recipe",
-      "sortid": 207,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "registry_name": "seasoned_porkchop_r",
@@ -1861,7 +1861,7 @@
     {
       "name": "GreenstoneSlab",
       "type": "block",
-      "sortid": 32,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_slab",
@@ -1879,7 +1879,7 @@
     {
       "name": "GreenstoneStairs",
       "type": "block",
-      "sortid": 33,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_stairs",
@@ -1897,7 +1897,7 @@
     {
       "name": "GreenstoneBricks",
       "type": "block",
-      "sortid": 34,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_bricks",
@@ -1913,7 +1913,7 @@
     {
       "name": "GreenstoneBrickSlab",
       "type": "block",
-      "sortid": 35,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_slab",
@@ -1931,7 +1931,7 @@
     {
       "name": "GreenstoneBrickStairs",
       "type": "block",
-      "sortid": 36,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_stairs",
@@ -1949,7 +1949,7 @@
     {
       "name": "GreenstoneBrickWall",
       "type": "block",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_wall",
@@ -1968,7 +1968,7 @@
     {
       "name": "SmoothGreenstone",
       "type": "block",
-      "sortid": 38,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_greenstone",
@@ -1984,7 +1984,7 @@
     {
       "name": "SmoothGreenstoneSlab",
       "type": "block",
-      "sortid": 39,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_greenstone_slab",
@@ -2002,7 +2002,7 @@
     {
       "name": "GreenstoneSlabR",
       "type": "recipe",
-      "sortid": 208,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_slab_r",
@@ -2015,7 +2015,7 @@
     {
       "name": "GreenstoneStairsR",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_stairs_r",
@@ -2028,7 +2028,7 @@
     {
       "name": "GreenstoneBricksR",
       "type": "recipe",
-      "sortid": 210,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_bricks_r",
@@ -2041,7 +2041,7 @@
     {
       "name": "GreenstoneBrickSlabR",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_slab_r",
@@ -2054,7 +2054,7 @@
     {
       "name": "GreenstoneBrickStairsR",
       "type": "recipe",
-      "sortid": 212,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_stairs_r",
@@ -2067,7 +2067,7 @@
     {
       "name": "GreenstoneBrickWallR",
       "type": "recipe",
-      "sortid": 213,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_wall_r",
@@ -2080,7 +2080,7 @@
     {
       "name": "SmoothGreenstoneSlabR",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_greenstone_slab_r",
@@ -2093,7 +2093,7 @@
     {
       "name": "GreenstoneSlabSR",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_slab_sr",
@@ -2106,7 +2106,7 @@
     {
       "name": "GreenstoneStairsSR",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_stairs_sr",
@@ -2119,7 +2119,7 @@
     {
       "name": "GreenstoneBricksSR",
       "type": "recipe",
-      "sortid": 217,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_bricks_sr",
@@ -2132,7 +2132,7 @@
     {
       "name": "GreenstoneBrickSlabSR",
       "type": "recipe",
-      "sortid": 218,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_slab_sr",
@@ -2145,7 +2145,7 @@
     {
       "name": "GreenstoneBrickStairsSR",
       "type": "recipe",
-      "sortid": 219,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_stairs_sr",
@@ -2158,7 +2158,7 @@
     {
       "name": "GreenstoneBrickWallSR",
       "type": "recipe",
-      "sortid": 220,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_wall_sr",
@@ -2171,7 +2171,7 @@
     {
       "name": "GreenstoneBrickSlabSR2",
       "type": "recipe",
-      "sortid": 221,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_slab_sr_2",
@@ -2184,7 +2184,7 @@
     {
       "name": "GreenstoneBrickStairsSR2",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_stairs_sr_2",
@@ -2197,7 +2197,7 @@
     {
       "name": "GreenstoneBrickWallSR2",
       "type": "recipe",
-      "sortid": 223,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "registry_name": "greenstone_brick_wall_sr_2",
@@ -2210,7 +2210,7 @@
     {
       "name": "SmoothGreenstoneR",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_greenstone_r",
@@ -2223,7 +2223,7 @@
     {
       "name": "SmoothGreenstoneSlabSR",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_greenstone_slab_sr",
@@ -2236,7 +2236,7 @@
     {
       "name": "ChiseledGreenstoneBricks",
       "type": "block",
-      "sortid": 40,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_greenstone_bricks",
@@ -2252,7 +2252,7 @@
     {
       "name": "CoolerGreenstone",
       "type": "block",
-      "sortid": 41,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooler_greenstone",
@@ -2268,7 +2268,7 @@
     {
       "name": "ChiseledGreenstoneR",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_greenstone_r",
@@ -2281,7 +2281,7 @@
     {
       "name": "ChiseledGreenstoneSR",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_greenstone_sr",
@@ -2294,7 +2294,7 @@
     {
       "name": "ChiseledGreenstoneSR2",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_greenstone_sr_2",
@@ -2307,7 +2307,7 @@
     {
       "name": "CoolerGreenstoneR",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooler_greenstone_r",
@@ -2320,7 +2320,7 @@
     {
       "name": "DarksteelOre",
       "type": "block",
-      "sortid": 30,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ore",
@@ -2339,7 +2339,7 @@
     {
       "name": "DarksteelIngot",
       "type": "item",
-      "sortid": 83,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ingot",
@@ -2353,7 +2353,7 @@
     {
       "name": "RawDarksteel",
       "type": "item",
-      "sortid": 84,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_darksteel",
@@ -2367,7 +2367,7 @@
     {
       "name": "DarksteelIngotR",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ingot_r",
@@ -2380,7 +2380,7 @@
     {
       "name": "DarksteelBlock",
       "type": "block",
-      "sortid": 97,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_block",
@@ -2396,7 +2396,7 @@
     {
       "name": "DarksteelBlockR",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_block_r",
@@ -2409,7 +2409,7 @@
     {
       "name": "DarksteelIngotR2",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ingot_r_2",
@@ -2422,7 +2422,7 @@
     {
       "name": "DarksteelPickaxe",
       "type": "tool",
-      "sortid": 62,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_pickaxe",
@@ -2436,7 +2436,7 @@
     {
       "name": "DarksteelAxe",
       "type": "tool",
-      "sortid": 63,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_axe",
@@ -2450,7 +2450,7 @@
     {
       "name": "DarksteelSword",
       "type": "tool",
-      "sortid": 71,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_sword",
@@ -2464,7 +2464,7 @@
     {
       "name": "DarksteelShovel",
       "type": "tool",
-      "sortid": 64,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_shovel",
@@ -2478,7 +2478,7 @@
     {
       "name": "DarksteelHoe",
       "type": "tool",
-      "sortid": 65,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_hoe",
@@ -2492,7 +2492,7 @@
     {
       "name": "DarksteelOreLoot",
       "type": "loottable",
-      "sortid": 233,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ore_loot",
@@ -2505,24 +2505,24 @@
     {
       "name": "DarksteelArmor",
       "type": "armor",
-      "sortid": 72,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/item/darksteel_armor_leggings.json",
-          "src/main/java/net/mcreator/hellscraft/item/DarksteelArmorItem.java",
           "src/main/resources/assets/hellscraft/models/item/darksteel_armor_chestplate.json",
+          "src/main/resources/assets/hellscraft/models/item/darksteel_armor_leggings.json",
+          "src/main/resources/assets/hellscraft/models/item/darksteel_armor_boots.json",
           "src/main/resources/assets/hellscraft/models/item/darksteel_armor_helmet.json",
-          "src/main/resources/assets/hellscraft/models/item/darksteel_armor_boots.json"
+          "src/main/java/net/mcreator/hellscraft/item/DarksteelArmorItem.java"
         ]
       }
     },
     {
       "name": "PissNylium",
       "type": "block",
-      "sortid": 42,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_nylium",
@@ -2538,7 +2538,7 @@
     {
       "name": "PissStem",
       "type": "block",
-      "sortid": 43,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_stem",
@@ -2554,7 +2554,7 @@
     {
       "name": "PissWartBlock",
       "type": "block",
-      "sortid": 45,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_wart_block",
@@ -2570,7 +2570,7 @@
     {
       "name": "PissForest",
       "type": "biome",
-      "sortid": 234,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_forest",
@@ -2583,7 +2583,7 @@
     {
       "name": "PissTreeGeneration",
       "type": "feature",
-      "sortid": 235,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_tree_generation",
@@ -2598,7 +2598,7 @@
     {
       "name": "PissBlobs",
       "type": "feature",
-      "sortid": 236,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_blobs",
@@ -2613,7 +2613,7 @@
     {
       "name": "PissDebris",
       "type": "feature",
-      "sortid": 237,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_debris",
@@ -2628,7 +2628,7 @@
     {
       "name": "PissOre",
       "type": "feature",
-      "sortid": 238,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_ore",
@@ -2643,7 +2643,7 @@
     {
       "name": "PissRoots",
       "type": "plant",
-      "sortid": 46,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_roots",
@@ -2662,7 +2662,7 @@
     {
       "name": "PissMushroom",
       "type": "plant",
-      "sortid": 47,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_mushroom",
@@ -2681,7 +2681,7 @@
     {
       "name": "PissFire",
       "type": "feature",
-      "sortid": 239,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_fire",
@@ -2696,7 +2696,7 @@
     {
       "name": "PissCrimsonRoots",
       "type": "feature",
-      "sortid": 240,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_crimson_roots",
@@ -2711,7 +2711,7 @@
     {
       "name": "PissCrimsonMushrooms",
       "type": "feature",
-      "sortid": 241,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_crimson_mushrooms",
@@ -2726,7 +2726,7 @@
     {
       "name": "PissPlanks",
       "type": "block",
-      "sortid": 98,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_planks",
@@ -2742,7 +2742,7 @@
     {
       "name": "PissPlankSlab",
       "type": "block",
-      "sortid": 99,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_slab",
@@ -2760,7 +2760,7 @@
     {
       "name": "PissPlankStairs",
       "type": "block",
-      "sortid": 100,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_stairs",
@@ -2778,7 +2778,7 @@
     {
       "name": "PissPlankFence",
       "type": "block",
-      "sortid": 101,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_fence",
@@ -2796,7 +2796,7 @@
     {
       "name": "PissPlankTrapdoor",
       "type": "block",
-      "sortid": 102,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_trapdoor",
@@ -2814,7 +2814,7 @@
     {
       "name": "PissPlankDoor",
       "type": "block",
-      "sortid": 103,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_door",
@@ -2837,7 +2837,7 @@
     {
       "name": "PissButton",
       "type": "block",
-      "sortid": 104,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_button",
@@ -2855,7 +2855,7 @@
     {
       "name": "PissPressurePlate",
       "type": "block",
-      "sortid": 105,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_pressure_plate",
@@ -2872,7 +2872,7 @@
     {
       "name": "StrippedPissStem",
       "type": "block",
-      "sortid": 44,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stripped_piss_stem",
@@ -2888,7 +2888,7 @@
     {
       "name": "Tagaxe",
       "type": "tag",
-      "sortid": 242,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tagaxe",
@@ -2901,7 +2901,7 @@
     {
       "name": "PissStemStrip",
       "type": "procedure",
-      "sortid": 243,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_stem_strip",
@@ -2936,7 +2936,7 @@
     {
       "name": "PissPlanksR",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_planks_r",
@@ -2949,7 +2949,7 @@
     {
       "name": "PissPlanksR2",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_planks_r_2",
@@ -2962,7 +2962,7 @@
     {
       "name": "PissPlankSlabR",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_slab_r",
@@ -2975,7 +2975,7 @@
     {
       "name": "PissPlankStairsR",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_stairs_r",
@@ -2988,7 +2988,7 @@
     {
       "name": "PissPlankFenceR",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_fence_r",
@@ -3001,7 +3001,7 @@
     {
       "name": "PissPlankFenceGate",
       "type": "block",
-      "sortid": 106,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_fence_gate",
@@ -3020,7 +3020,7 @@
     {
       "name": "PissPlankFenceGateR",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_fence_gate_r",
@@ -3033,7 +3033,7 @@
     {
       "name": "PissPlankTrapDoorR",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_trap_door_r",
@@ -3046,7 +3046,7 @@
     {
       "name": "PissPlankDoorR",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_door_r",
@@ -3059,7 +3059,7 @@
     {
       "name": "PissPlankButtonR",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 333,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_button_r",
@@ -3072,7 +3072,7 @@
     {
       "name": "PissPlankPressurePlateR",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 334,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_plank_pressure_plate_r",
@@ -3085,7 +3085,7 @@
     {
       "name": "Kidneystone",
       "type": "block",
-      "sortid": 48,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kidneystone",
@@ -3101,7 +3101,7 @@
     {
       "name": "PissKidneystoneBlobs",
       "type": "feature",
-      "sortid": 254,
+      "sortid": 335,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_kidneystone_blobs",
@@ -3116,7 +3116,7 @@
     {
       "name": "PissGoldOre",
       "type": "feature",
-      "sortid": 255,
+      "sortid": 336,
       "compiles": true,
       "locked_code": false,
       "registry_name": "piss_gold_ore",
@@ -3131,7 +3131,7 @@
     {
       "name": "Nausea",
       "type": "potion",
-      "sortid": 256,
+      "sortid": 337,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nausea",
@@ -3142,7 +3142,7 @@
     {
       "name": "PotionOfNauseaR",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 338,
       "compiles": true,
       "locked_code": false,
       "registry_name": "potion_of_nausea_r",
@@ -3155,7 +3155,7 @@
     {
       "name": "DarkwoodLog",
       "type": "block",
-      "sortid": 49,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_log",
@@ -3171,7 +3171,7 @@
     {
       "name": "StrippedDarkwoodLog",
       "type": "block",
-      "sortid": 107,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stripped_darkwood_log",
@@ -3187,7 +3187,7 @@
     {
       "name": "DarkwoodLeaves",
       "type": "block",
-      "sortid": 108,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_leaves",
@@ -3203,7 +3203,7 @@
     {
       "name": "FieldOfHopesAndDreams",
       "type": "biome",
-      "sortid": 258,
+      "sortid": 339,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_of_hopes_and_dreams",
@@ -3216,7 +3216,7 @@
     {
       "name": "FieldTrees",
       "type": "feature",
-      "sortid": 259,
+      "sortid": 340,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_trees",
@@ -3231,7 +3231,7 @@
     {
       "name": "FieldBushes",
       "type": "feature",
-      "sortid": 260,
+      "sortid": 341,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_bushes",
@@ -3246,7 +3246,7 @@
     {
       "name": "FieldGrass",
       "type": "feature",
-      "sortid": 261,
+      "sortid": 342,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_grass",
@@ -3261,7 +3261,7 @@
     {
       "name": "FieldTallGrass",
       "type": "feature",
-      "sortid": 262,
+      "sortid": 343,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_tall_grass",
@@ -3276,7 +3276,7 @@
     {
       "name": "FieldLakes",
       "type": "feature",
-      "sortid": 263,
+      "sortid": 344,
       "compiles": true,
       "locked_code": false,
       "registry_name": "field_lakes",
@@ -3291,7 +3291,7 @@
     {
       "name": "DarkwoodPlanks",
       "type": "block",
-      "sortid": 109,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_planks",
@@ -3307,7 +3307,7 @@
     {
       "name": "DarkwoodSlab",
       "type": "block",
-      "sortid": 110,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_slab",
@@ -3325,7 +3325,7 @@
     {
       "name": "DarkwoodStairs",
       "type": "block",
-      "sortid": 111,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_stairs",
@@ -3343,7 +3343,7 @@
     {
       "name": "DarkwoodFence",
       "type": "block",
-      "sortid": 112,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_fence",
@@ -3361,7 +3361,7 @@
     {
       "name": "DarkwoodFenceGate",
       "type": "block",
-      "sortid": 113,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_fence_gate",
@@ -3380,7 +3380,7 @@
     {
       "name": "DarkwoodTrapdoor",
       "type": "block",
-      "sortid": 114,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_trapdoor",
@@ -3398,7 +3398,7 @@
     {
       "name": "DarkwoodButton",
       "type": "block",
-      "sortid": 115,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_button",
@@ -3416,7 +3416,7 @@
     {
       "name": "DarkwoodPressurePlate",
       "type": "block",
-      "sortid": 116,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_pressure_plate",
@@ -3433,7 +3433,7 @@
     {
       "name": "DarkwoodPlanksR",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 345,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_planks_r",
@@ -3446,7 +3446,7 @@
     {
       "name": "DarkwoodPlanksR2",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 346,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_planks_r_2",
@@ -3459,7 +3459,7 @@
     {
       "name": "DarkwoodSlabR",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 347,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_slab_r",
@@ -3472,7 +3472,7 @@
     {
       "name": "DarkwoodStairsR",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 348,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_stairs_r",
@@ -3485,7 +3485,7 @@
     {
       "name": "DarkwoodFenceR",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 349,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_fence_r",
@@ -3498,7 +3498,7 @@
     {
       "name": "DarkwoodFenceGateR",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 350,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_fence_gate_r",
@@ -3511,7 +3511,7 @@
     {
       "name": "DarkwoodTrapdoorR",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 351,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_trapdoor_r",
@@ -3524,7 +3524,7 @@
     {
       "name": "DarkwoodButtonR",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 352,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_button_r",
@@ -3537,7 +3537,7 @@
     {
       "name": "DarkwoodPressurePlateR",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 353,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darkwood_pressure_plate_r",
@@ -3550,7 +3550,7 @@
     {
       "name": "BlockOfCorn",
       "type": "block",
-      "sortid": 117,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_corn",
@@ -3580,7 +3580,7 @@
     {
       "name": "BlockOfCornUpdateTick",
       "type": "procedure",
-      "sortid": 273,
+      "sortid": 354,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_corn_update_tick",
@@ -3611,7 +3611,7 @@
     {
       "name": "BlockOfCornR",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 355,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_corn_r",
@@ -3624,7 +3624,7 @@
     {
       "name": "CornR",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 356,
       "compiles": true,
       "locked_code": false,
       "registry_name": "corn_r",
@@ -3637,7 +3637,7 @@
     {
       "name": "CheeseJavelin",
       "type": "item",
-      "sortid": 79,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheese_javelin",
@@ -3651,7 +3651,7 @@
     {
       "name": "CheeseJavelinProjectile",
       "type": "projectile",
-      "sortid": 276,
+      "sortid": 357,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheese_javelin_projectile",
@@ -3664,7 +3664,7 @@
     {
       "name": "CheeseJavelinHit",
       "type": "procedure",
-      "sortid": 277,
+      "sortid": 358,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheese_javelin_hit",
@@ -3695,7 +3695,7 @@
     {
       "name": "FishmetalJavelin",
       "type": "item",
-      "sortid": 80,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_javelin",
@@ -3709,7 +3709,7 @@
     {
       "name": "DarksteelJavelin",
       "type": "item",
-      "sortid": 81,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_javelin",
@@ -3723,7 +3723,7 @@
     {
       "name": "WoodenJavelin",
       "type": "item",
-      "sortid": 73,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wooden_javelin",
@@ -3737,7 +3737,7 @@
     {
       "name": "StoneJavelin",
       "type": "item",
-      "sortid": 74,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_javelin",
@@ -3751,7 +3751,7 @@
     {
       "name": "IronJavelin",
       "type": "item",
-      "sortid": 75,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_javelin",
@@ -3765,7 +3765,7 @@
     {
       "name": "GoldJavelin",
       "type": "item",
-      "sortid": 76,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_javelin",
@@ -3779,7 +3779,7 @@
     {
       "name": "DiamondJavelin",
       "type": "item",
-      "sortid": 77,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_javelin",
@@ -3793,7 +3793,7 @@
     {
       "name": "NetheriteJavelin",
       "type": "item",
-      "sortid": 78,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherite_javelin",
@@ -3807,7 +3807,7 @@
     {
       "name": "FishmetalJavelinProjectile",
       "type": "projectile",
-      "sortid": 278,
+      "sortid": 359,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_javelin_projectile",
@@ -3820,7 +3820,7 @@
     {
       "name": "DarksteelJavelinProjectile",
       "type": "projectile",
-      "sortid": 279,
+      "sortid": 360,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_javelin_projectile",
@@ -3833,7 +3833,7 @@
     {
       "name": "WoodenJavelinProjectile",
       "type": "projectile",
-      "sortid": 280,
+      "sortid": 361,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wooden_javelin_projectile",
@@ -3846,7 +3846,7 @@
     {
       "name": "StoneJavelinProjectile",
       "type": "projectile",
-      "sortid": 281,
+      "sortid": 362,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_javelin_projectile",
@@ -3859,7 +3859,7 @@
     {
       "name": "IronJavelinProjectile",
       "type": "projectile",
-      "sortid": 282,
+      "sortid": 363,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_javelin_projectile",
@@ -3872,7 +3872,7 @@
     {
       "name": "GoldJavelinProjectile",
       "type": "projectile",
-      "sortid": 283,
+      "sortid": 364,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_javelin_projectile",
@@ -3885,7 +3885,7 @@
     {
       "name": "DiamondJavelinProjectile",
       "type": "projectile",
-      "sortid": 284,
+      "sortid": 365,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_javelin_projectile",
@@ -3898,7 +3898,7 @@
     {
       "name": "NetheriteJavelinProjectile",
       "type": "projectile",
-      "sortid": 285,
+      "sortid": 366,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherite_javelin_projectile",
@@ -3911,7 +3911,7 @@
     {
       "name": "FishmetalJavelinHit",
       "type": "procedure",
-      "sortid": 286,
+      "sortid": 367,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_javelin_hit",
@@ -3942,7 +3942,7 @@
     {
       "name": "DarksteelJavelinHit",
       "type": "procedure",
-      "sortid": 287,
+      "sortid": 368,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_javelin_hit",
@@ -3973,7 +3973,7 @@
     {
       "name": "WoodenJavelinHit",
       "type": "procedure",
-      "sortid": 288,
+      "sortid": 369,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wooden_javelin_hit",
@@ -4004,7 +4004,7 @@
     {
       "name": "StoneJavelinHit",
       "type": "procedure",
-      "sortid": 289,
+      "sortid": 370,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_javelin_hit",
@@ -4035,7 +4035,7 @@
     {
       "name": "IronJavelinHit",
       "type": "procedure",
-      "sortid": 290,
+      "sortid": 371,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_javelin_hit",
@@ -4066,7 +4066,7 @@
     {
       "name": "GoldJavelinHit",
       "type": "procedure",
-      "sortid": 291,
+      "sortid": 372,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_javelin_hit",
@@ -4097,7 +4097,7 @@
     {
       "name": "DiamondJavelinHit",
       "type": "procedure",
-      "sortid": 292,
+      "sortid": 373,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_javelin_hit",
@@ -4128,7 +4128,7 @@
     {
       "name": "NetheriteJavelinHit",
       "type": "procedure",
-      "sortid": 293,
+      "sortid": 374,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherite_javelin_hit",
@@ -4159,7 +4159,7 @@
     {
       "name": "DarksteelPickaxeR",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 375,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_pickaxe_r",
@@ -4172,7 +4172,7 @@
     {
       "name": "DarksteelAxeR",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 376,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_axe_r",
@@ -4185,7 +4185,7 @@
     {
       "name": "DarksteelShovelR",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 377,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_shovel_r",
@@ -4198,7 +4198,7 @@
     {
       "name": "DarksteelHoeR",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 378,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_hoe_r",
@@ -4211,7 +4211,7 @@
     {
       "name": "DarksteelSwordR",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 379,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_sword_r",
@@ -4224,7 +4224,7 @@
     {
       "name": "DarksteelHelmetR",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 380,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_helmet_r",
@@ -4237,7 +4237,7 @@
     {
       "name": "DarksteelChestplateR",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 381,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_chestplate_r",
@@ -4250,7 +4250,7 @@
     {
       "name": "DarksteelPantsR",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 382,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_pants_r",
@@ -4263,7 +4263,7 @@
     {
       "name": "DarksteelBootsR",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 383,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_boots_r",
@@ -4276,7 +4276,7 @@
     {
       "name": "DarksteelJavelinR",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 384,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_javelin_r",
@@ -4289,7 +4289,7 @@
     {
       "name": "NetheriteJavelinR",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 385,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherite_javelin_r",
@@ -4302,7 +4302,7 @@
     {
       "name": "WoodenJavelinR",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 386,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wooden_javelin_r",
@@ -4315,7 +4315,7 @@
     {
       "name": "StoneJavelinR",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 387,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_javelin_r",
@@ -4328,7 +4328,7 @@
     {
       "name": "StoneJavelinR2",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 388,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_javelin_r_2",
@@ -4341,7 +4341,7 @@
     {
       "name": "IronJavelinR",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 389,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_javelin_r",
@@ -4354,7 +4354,7 @@
     {
       "name": "GoldJavelinR",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_javelin_r",
@@ -4367,7 +4367,7 @@
     {
       "name": "DiamondJavelinR",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_javelin_r",
@@ -4380,7 +4380,7 @@
     {
       "name": "FishmetalJavelinR",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 392,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fishmetal_javelin_r",
@@ -4393,7 +4393,7 @@
     {
       "name": "CheeseJavelinR",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 393,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cheese_javelin_r",
@@ -4406,7 +4406,7 @@
     {
       "name": "Necromancer",
       "type": "villagerprofession",
-      "sortid": 313,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "registry_name": "necromancer",
@@ -4417,7 +4417,7 @@
     {
       "name": "Necrotrade",
       "type": "villagertrade",
-      "sortid": 314,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "registry_name": "necrotrade",
@@ -4428,7 +4428,7 @@
     {
       "name": "PolishedBlockOfCorn",
       "type": "block",
-      "sortid": 119,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_block_of_corn",
@@ -4444,7 +4444,7 @@
     {
       "name": "PolishedCornSlab",
       "type": "block",
-      "sortid": 120,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_corn_slab",
@@ -4462,7 +4462,7 @@
     {
       "name": "PolishedCornStairs",
       "type": "block",
-      "sortid": 121,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_corn_stairs",
@@ -4480,7 +4480,7 @@
     {
       "name": "PolishedCornWall",
       "type": "block",
-      "sortid": 122,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_corn_wall",
@@ -4499,7 +4499,7 @@
     {
       "name": "PolishedCornR",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_corn_r",
@@ -4512,7 +4512,7 @@
     {
       "name": "PCornSlabR",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_slab_r",
@@ -4525,7 +4525,7 @@
     {
       "name": "PCornStairsR",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_stairs_r",
@@ -4538,7 +4538,7 @@
     {
       "name": "PCornWallR",
       "type": "recipe",
-      "sortid": 318,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_wall_r",
@@ -4551,7 +4551,7 @@
     {
       "name": "PCornR2",
       "type": "recipe",
-      "sortid": 319,
+      "sortid": 400,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_r_2",
@@ -4564,7 +4564,7 @@
     {
       "name": "PCornSlabR2",
       "type": "recipe",
-      "sortid": 320,
+      "sortid": 401,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_slab_r_2",
@@ -4577,7 +4577,7 @@
     {
       "name": "PCornStairsR2",
       "type": "recipe",
-      "sortid": 321,
+      "sortid": 402,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_stairs_r_2",
@@ -4590,7 +4590,7 @@
     {
       "name": "PCornWallR2",
       "type": "recipe",
-      "sortid": 322,
+      "sortid": 403,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_wall_r_2",
@@ -4603,7 +4603,7 @@
     {
       "name": "PCornSlabR3",
       "type": "recipe",
-      "sortid": 323,
+      "sortid": 404,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_slab_r_3",
@@ -4616,7 +4616,7 @@
     {
       "name": "PCornStairsR3",
       "type": "recipe",
-      "sortid": 324,
+      "sortid": 405,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_stairs_r_3",
@@ -4629,7 +4629,7 @@
     {
       "name": "PCornWallR3",
       "type": "recipe",
-      "sortid": 325,
+      "sortid": 406,
       "compiles": true,
       "locked_code": false,
       "registry_name": "p_corn_wall_r_3",
@@ -4642,7 +4642,7 @@
     {
       "name": "Grunch",
       "type": "painting",
-      "sortid": 326,
+      "sortid": 407,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grunch",
@@ -4653,7 +4653,7 @@
     {
       "name": "Smoking",
       "type": "painting",
-      "sortid": 327,
+      "sortid": 408,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smoking",
@@ -4664,7 +4664,7 @@
     {
       "name": "Pawper",
       "type": "painting",
-      "sortid": 328,
+      "sortid": 409,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pawper",
@@ -4675,7 +4675,7 @@
     {
       "name": "WaxedBlockOfCorn",
       "type": "block",
-      "sortid": 118,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waxed_block_of_corn",
@@ -4691,7 +4691,7 @@
     {
       "name": "BlockOfPopcorn",
       "type": "block",
-      "sortid": 123,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_popcorn",
@@ -4707,7 +4707,7 @@
     {
       "name": "PolishedBlockOfPopcorn",
       "type": "block",
-      "sortid": 124,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_block_of_popcorn",
@@ -4723,7 +4723,7 @@
     {
       "name": "PolishedPopcornSlab",
       "type": "block",
-      "sortid": 125,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_slab",
@@ -4741,7 +4741,7 @@
     {
       "name": "PolishedPopcornStairs",
       "type": "block",
-      "sortid": 126,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_stairs",
@@ -4759,7 +4759,7 @@
     {
       "name": "PolishedPopcornWall",
       "type": "block",
-      "sortid": 127,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_wall",
@@ -4778,7 +4778,7 @@
     {
       "name": "BlockOfPopcornR",
       "type": "recipe",
-      "sortid": 329,
+      "sortid": 410,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_popcorn_r",
@@ -4791,7 +4791,7 @@
     {
       "name": "PopcornR",
       "type": "recipe",
-      "sortid": 330,
+      "sortid": 411,
       "compiles": true,
       "locked_code": false,
       "registry_name": "popcorn_r",
@@ -4804,7 +4804,7 @@
     {
       "name": "PolishedPopcornR",
       "type": "recipe",
-      "sortid": 331,
+      "sortid": 412,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_r",
@@ -4817,7 +4817,7 @@
     {
       "name": "PolishedPopcornSlabR",
       "type": "recipe",
-      "sortid": 332,
+      "sortid": 413,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_slab_r",
@@ -4830,7 +4830,7 @@
     {
       "name": "PolishedPopcornStairsR",
       "type": "recipe",
-      "sortid": 333,
+      "sortid": 414,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_stairs_r",
@@ -4843,7 +4843,7 @@
     {
       "name": "PolishedPopcornWallR",
       "type": "recipe",
-      "sortid": 334,
+      "sortid": 415,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_wall_r",
@@ -4856,7 +4856,7 @@
     {
       "name": "PolishedPopcornSR",
       "type": "recipe",
-      "sortid": 335,
+      "sortid": 416,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_sr",
@@ -4869,7 +4869,7 @@
     {
       "name": "PolishedPopcornSlabSR",
       "type": "recipe",
-      "sortid": 336,
+      "sortid": 417,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_slab_sr",
@@ -4882,7 +4882,7 @@
     {
       "name": "PolishedPopcornStairsSR",
       "type": "recipe",
-      "sortid": 337,
+      "sortid": 418,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_stairs_sr",
@@ -4895,7 +4895,7 @@
     {
       "name": "PolishedPopcornWallSR",
       "type": "recipe",
-      "sortid": 338,
+      "sortid": 419,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_wall_sr",
@@ -4908,7 +4908,7 @@
     {
       "name": "PolishedPopcornSlabSR2",
       "type": "recipe",
-      "sortid": 339,
+      "sortid": 420,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_slab_sr_2",
@@ -4921,7 +4921,7 @@
     {
       "name": "PolishedPopcornStairsSR2",
       "type": "recipe",
-      "sortid": 340,
+      "sortid": 421,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_stairs_sr_2",
@@ -4934,7 +4934,7 @@
     {
       "name": "PolishedPopcornWallSR2",
       "type": "recipe",
-      "sortid": 341,
+      "sortid": 422,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_popcorn_wall_sr_2",
@@ -4947,7 +4947,7 @@
     {
       "name": "StormCrow",
       "type": "painting",
-      "sortid": 342,
+      "sortid": 423,
       "compiles": true,
       "locked_code": false,
       "registry_name": "storm_crow",
@@ -4958,7 +4958,7 @@
     {
       "name": "ColossalDreadmaw",
       "type": "painting",
-      "sortid": 343,
+      "sortid": 424,
       "compiles": true,
       "locked_code": false,
       "registry_name": "colossal_dreadmaw",
@@ -4969,7 +4969,7 @@
     {
       "name": "OneWithNothing",
       "type": "painting",
-      "sortid": 344,
+      "sortid": 425,
       "compiles": true,
       "locked_code": false,
       "registry_name": "one_with_nothing",
@@ -4980,7 +4980,7 @@
     {
       "name": "SeigeRhino",
       "type": "painting",
-      "sortid": 345,
+      "sortid": 426,
       "compiles": true,
       "locked_code": false,
       "registry_name": "seige_rhino",
@@ -4991,7 +4991,7 @@
     {
       "name": "UrabraskHit",
       "type": "painting",
-      "sortid": 346,
+      "sortid": 427,
       "compiles": true,
       "locked_code": false,
       "registry_name": "urabrask_hit",
@@ -5002,7 +5002,7 @@
     {
       "name": "TruePainting",
       "type": "painting",
-      "sortid": 347,
+      "sortid": 428,
       "compiles": true,
       "locked_code": false,
       "registry_name": "true_painting",
@@ -5013,7 +5013,7 @@
     {
       "name": "Goku",
       "type": "painting",
-      "sortid": 348,
+      "sortid": 429,
       "compiles": true,
       "locked_code": false,
       "registry_name": "goku",
@@ -5024,7 +5024,7 @@
     {
       "name": "Birb",
       "type": "painting",
-      "sortid": 349,
+      "sortid": 430,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birb",
@@ -5035,7 +5035,7 @@
     {
       "name": "DarksteelIngotAdvancement",
       "type": "achievement",
-      "sortid": 350,
+      "sortid": 431,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_ingot_advancement",
@@ -5090,7 +5090,7 @@
     {
       "name": "BucketOfPopcornR",
       "type": "recipe",
-      "sortid": 351,
+      "sortid": 432,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bucket_of_popcorn_r",
@@ -5103,7 +5103,7 @@
     {
       "name": "YouCannotBeEepy",
       "type": "painting",
-      "sortid": 352,
+      "sortid": 433,
       "compiles": true,
       "locked_code": false,
       "registry_name": "you_cannot_be_eepy",
@@ -5114,7 +5114,7 @@
     {
       "name": "DoctorWho",
       "type": "painting",
-      "sortid": 353,
+      "sortid": 434,
       "compiles": true,
       "locked_code": false,
       "registry_name": "doctor_who",
@@ -5125,7 +5125,7 @@
     {
       "name": "FunnyCat",
       "type": "painting",
-      "sortid": 354,
+      "sortid": 435,
       "compiles": true,
       "locked_code": false,
       "registry_name": "funny_cat",
@@ -5136,7 +5136,7 @@
     {
       "name": "SpawnEggOre",
       "type": "block",
-      "sortid": 50,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spawn_egg_ore",
@@ -5152,7 +5152,7 @@
     {
       "name": "DeepslateSpawnEggOre",
       "type": "block",
-      "sortid": 51,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_spawn_egg_ore",
@@ -5168,7 +5168,7 @@
     {
       "name": "CavernOfSouls",
       "type": "biome",
-      "sortid": 355,
+      "sortid": 436,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cavern_of_souls",
@@ -5181,7 +5181,7 @@
     {
       "name": "SpawnEggOreGeneration",
       "type": "feature",
-      "sortid": 356,
+      "sortid": 437,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spawn_egg_ore_generation",
@@ -5196,7 +5196,7 @@
     {
       "name": "CavernSoulSandGeneration",
       "type": "feature",
-      "sortid": 357,
+      "sortid": 438,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cavern_soul_sand_generation",
@@ -5211,7 +5211,7 @@
     {
       "name": "SpawnEggOreLoot",
       "type": "loottable",
-      "sortid": 358,
+      "sortid": 439,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spawn_egg_ore_loot",
@@ -5224,7 +5224,7 @@
     {
       "name": "CavernOfSoulsSpawnerGeneration",
       "type": "feature",
-      "sortid": 360,
+      "sortid": 440,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cavern_of_souls_spawner_generation",
@@ -5267,7 +5267,7 @@
     {
       "name": "Salt",
       "type": "item",
-      "sortid": 85,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salt",
@@ -5323,7 +5323,7 @@
     {
       "name": "CarbonatedWaterR",
       "type": "recipe",
-      "sortid": 361,
+      "sortid": 441,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carbonated_water_r",
@@ -5336,7 +5336,7 @@
     {
       "name": "PepsiR",
       "type": "recipe",
-      "sortid": 362,
+      "sortid": 442,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepsi_r",
@@ -5349,7 +5349,7 @@
     {
       "name": "PilkR",
       "type": "recipe",
-      "sortid": 363,
+      "sortid": 443,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pilk_r",
@@ -5362,7 +5362,7 @@
     {
       "name": "BadassSkeleton",
       "type": "painting",
-      "sortid": 364,
+      "sortid": 444,
       "compiles": true,
       "locked_code": false,
       "registry_name": "badass_skeleton",
@@ -5373,7 +5373,7 @@
     {
       "name": "StoneBlock",
       "type": "block",
-      "sortid": 365,
+      "sortid": 445,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_block",
@@ -5389,7 +5389,7 @@
     {
       "name": "StoneBlockGeneration",
       "type": "feature",
-      "sortid": 366,
+      "sortid": 446,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_block_generation",
@@ -5404,7 +5404,7 @@
     {
       "name": "PopcornR2",
       "type": "recipe",
-      "sortid": 367,
+      "sortid": 447,
       "compiles": true,
       "locked_code": false,
       "registry_name": "popcorn_r_2",
@@ -5417,7 +5417,7 @@
     {
       "name": "RockSalt",
       "type": "block",
-      "sortid": 52,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_salt",
@@ -5433,7 +5433,7 @@
     {
       "name": "RockButter",
       "type": "block",
-      "sortid": 53,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_butter",
@@ -5449,7 +5449,7 @@
     {
       "name": "ButterR",
       "type": "recipe",
-      "sortid": 368,
+      "sortid": 448,
       "compiles": true,
       "locked_code": false,
       "registry_name": "butter_r",
@@ -5462,7 +5462,7 @@
     {
       "name": "BPopR",
       "type": "recipe",
-      "sortid": 369,
+      "sortid": 449,
       "compiles": true,
       "locked_code": false,
       "registry_name": "b_pop_r",
@@ -5475,7 +5475,7 @@
     {
       "name": "SPopR",
       "type": "recipe",
-      "sortid": 370,
+      "sortid": 450,
       "compiles": true,
       "locked_code": false,
       "registry_name": "s_pop_r",
@@ -5488,7 +5488,7 @@
     {
       "name": "SBPopR",
       "type": "recipe",
-      "sortid": 371,
+      "sortid": 451,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sb_pop_r",
@@ -5501,7 +5501,7 @@
     {
       "name": "SBPopR2",
       "type": "recipe",
-      "sortid": 372,
+      "sortid": 452,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sb_pop_r_2",
@@ -5514,7 +5514,7 @@
     {
       "name": "BlockOfSalt",
       "type": "block",
-      "sortid": 128,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_salt",
@@ -5530,7 +5530,7 @@
     {
       "name": "BlockOfButter",
       "type": "block",
-      "sortid": 129,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_butter",
@@ -5546,7 +5546,7 @@
     {
       "name": "PinkSalt",
       "type": "item",
-      "sortid": 86,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_salt",
@@ -5560,7 +5560,7 @@
     {
       "name": "BlockOfPinkSalt",
       "type": "block",
-      "sortid": 130,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_pink_salt",
@@ -5576,7 +5576,7 @@
     {
       "name": "SaltLamp",
       "type": "block",
-      "sortid": 131,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salt_lamp",
@@ -5592,7 +5592,7 @@
     {
       "name": "BlockOfSaltR",
       "type": "recipe",
-      "sortid": 373,
+      "sortid": 453,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_salt_r",
@@ -5605,7 +5605,7 @@
     {
       "name": "BlockOfButterR",
       "type": "recipe",
-      "sortid": 374,
+      "sortid": 454,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_butter_r",
@@ -5618,7 +5618,7 @@
     {
       "name": "PinkSaltR",
       "type": "recipe",
-      "sortid": 375,
+      "sortid": 455,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_salt_r",
@@ -5631,7 +5631,7 @@
     {
       "name": "BlockOfPinkSaltR",
       "type": "recipe",
-      "sortid": 376,
+      "sortid": 456,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_pink_salt_r",
@@ -5644,7 +5644,7 @@
     {
       "name": "SaltR",
       "type": "recipe",
-      "sortid": 377,
+      "sortid": 457,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salt_r",
@@ -5657,7 +5657,7 @@
     {
       "name": "ButterR2",
       "type": "recipe",
-      "sortid": 378,
+      "sortid": 458,
       "compiles": true,
       "locked_code": false,
       "registry_name": "butter_r_2",
@@ -5670,7 +5670,7 @@
     {
       "name": "PinkSaltR2",
       "type": "recipe",
-      "sortid": 379,
+      "sortid": 459,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_salt_r_2",
@@ -5683,7 +5683,7 @@
     {
       "name": "SaltLampR",
       "type": "recipe",
-      "sortid": 380,
+      "sortid": 460,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salt_lamp_r",
@@ -5696,7 +5696,7 @@
     {
       "name": "RockSaltGeneration",
       "type": "feature",
-      "sortid": 381,
+      "sortid": 461,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_salt_generation",
@@ -5711,7 +5711,7 @@
     {
       "name": "RockButterGeneration",
       "type": "feature",
-      "sortid": 382,
+      "sortid": 462,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_butter_generation",
@@ -5726,7 +5726,7 @@
     {
       "name": "CavernOfSoulsSoilGeneration",
       "type": "feature",
-      "sortid": 383,
+      "sortid": 463,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cavern_of_souls_soil_generation",
@@ -5741,7 +5741,7 @@
     {
       "name": "CavernOfSoulsDirtGeneration",
       "type": "feature",
-      "sortid": 384,
+      "sortid": 464,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cavern_of_souls_dirt_generation",
@@ -5756,7 +5756,7 @@
     {
       "name": "SaltedBeef",
       "type": "item",
-      "sortid": 385,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salted_beef",
@@ -5770,7 +5770,7 @@
     {
       "name": "BeefJerkey",
       "type": "item",
-      "sortid": 386,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beef_jerkey",
@@ -5784,7 +5784,7 @@
     {
       "name": "SaltedBeefR",
       "type": "recipe",
-      "sortid": 387,
+      "sortid": 465,
       "compiles": true,
       "locked_code": false,
       "registry_name": "salted_beef_r",
@@ -5797,7 +5797,7 @@
     {
       "name": "BlockOfVillagerR",
       "type": "recipe",
-      "sortid": 388,
+      "sortid": 466,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_villager_r",
@@ -5810,7 +5810,7 @@
     {
       "name": "Fences",
       "type": "tag",
-      "sortid": 389,
+      "sortid": 467,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fences",
@@ -5823,7 +5823,7 @@
     {
       "name": "Walls",
       "type": "tag",
-      "sortid": 390,
+      "sortid": 468,
       "compiles": true,
       "locked_code": false,
       "registry_name": "walls",
@@ -5836,7 +5836,7 @@
     {
       "name": "BlockOfBread",
       "type": "block",
-      "sortid": 391,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_bread",
@@ -5852,7 +5852,7 @@
     {
       "name": "BlockOfBreadR",
       "type": "recipe",
-      "sortid": 392,
+      "sortid": 469,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_bread_r",
@@ -5865,7 +5865,7 @@
     {
       "name": "BreadR",
       "type": "recipe",
-      "sortid": 393,
+      "sortid": 470,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bread_r",
@@ -5878,7 +5878,7 @@
     {
       "name": "BreadSlice",
       "type": "item",
-      "sortid": 394,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bread_slice",
@@ -5892,7 +5892,7 @@
     {
       "name": "BreadKnife",
       "type": "tool",
-      "sortid": 398,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bread_knife",
@@ -5906,7 +5906,7 @@
     {
       "name": "BreadSliceR",
       "type": "recipe",
-      "sortid": 399,
+      "sortid": 471,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bread_slice_r",
@@ -5919,7 +5919,7 @@
     {
       "name": "BreadKnifeR",
       "type": "recipe",
-      "sortid": 400,
+      "sortid": 472,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bread_knife_r",
@@ -5932,7 +5932,7 @@
     {
       "name": "BundleR",
       "type": "recipe",
-      "sortid": 401,
+      "sortid": 473,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bundle_r",
@@ -5945,7 +5945,7 @@
     {
       "name": "FireballWandEntitySwingsItem",
       "type": "procedure",
-      "sortid": 402,
+      "sortid": 474,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fireball_wand_entity_swings_item",
@@ -5984,7 +5984,7 @@
     {
       "name": "FireballWand",
       "type": "tool",
-      "sortid": 403,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fireball_wand",
@@ -5998,7 +5998,7 @@
     {
       "name": "FireballWandR",
       "type": "recipe",
-      "sortid": 404,
+      "sortid": 475,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fireball_wand_r",
@@ -6011,7 +6011,7 @@
     {
       "name": "LavaAxe",
       "type": "tool",
-      "sortid": 405,
+      "sortid": 112,
       "compiles": true,
       "locked_code": true,
       "registry_name": "lava_axe",
@@ -6025,7 +6025,7 @@
     {
       "name": "LavaAxeProjectile",
       "type": "projectile",
-      "sortid": 406,
+      "sortid": 476,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lava_axe_projectile",
@@ -6038,7 +6038,7 @@
     {
       "name": "Bismuth",
       "type": "block",
-      "sortid": 407,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bismuth",
@@ -6057,7 +6057,7 @@
     {
       "name": "Chuckite",
       "type": "block",
-      "sortid": 408,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite",
@@ -6073,7 +6073,7 @@
     {
       "name": "ChuckiteSlab",
       "type": "block",
-      "sortid": 410,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite_slab",
@@ -6091,7 +6091,7 @@
     {
       "name": "ChuckiteStairs",
       "type": "block",
-      "sortid": 411,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite_stairs",
@@ -6109,7 +6109,7 @@
     {
       "name": "PolishedChuckite",
       "type": "block",
-      "sortid": 412,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_chuckite",
@@ -6125,7 +6125,7 @@
     {
       "name": "PolishedChuckiteSlab",
       "type": "block",
-      "sortid": 413,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_chuckite_slab",
@@ -6143,7 +6143,7 @@
     {
       "name": "PolishedChuckiteStairs",
       "type": "block",
-      "sortid": 414,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_chuckite_stairs",
@@ -6161,7 +6161,7 @@
     {
       "name": "ChuckiteRockSmall",
       "type": "structure",
-      "sortid": 415,
+      "sortid": 477,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite_rock_small",
@@ -6176,7 +6176,7 @@
     {
       "name": "ChuckiteRockMedium",
       "type": "structure",
-      "sortid": 416,
+      "sortid": 478,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite_rock_medium",
@@ -6191,7 +6191,7 @@
     {
       "name": "ChuckiteRockLarge",
       "type": "structure",
-      "sortid": 417,
+      "sortid": 479,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chuckite_rock_large",
@@ -6206,7 +6206,7 @@
     {
       "name": "PolishedDeeperslate",
       "type": "block",
-      "sortid": 418,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_deeperslate",
@@ -6222,7 +6222,7 @@
     {
       "name": "DeeperslateBricks",
       "type": "block",
-      "sortid": 419,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_bricks",
@@ -6238,7 +6238,7 @@
     {
       "name": "ChiseledDeeperslate",
       "type": "block",
-      "sortid": 420,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_deeperslate",
@@ -6254,7 +6254,7 @@
     {
       "name": "DeeperslateBrickSlab",
       "type": "block",
-      "sortid": 421,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_brick_slab",
@@ -6272,7 +6272,7 @@
     {
       "name": "DeeperslateBrickStairs",
       "type": "block",
-      "sortid": 422,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_brick_stairs",
@@ -6290,7 +6290,7 @@
     {
       "name": "DeeperslateBrickWall",
       "type": "block",
-      "sortid": 423,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_brick_wall",
@@ -6309,7 +6309,7 @@
     {
       "name": "JeweledDeeperslate",
       "type": "block",
-      "sortid": 424,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jeweled_deeperslate",
@@ -6325,7 +6325,7 @@
     {
       "name": "JeweledDeeperslateBricks",
       "type": "block",
-      "sortid": 425,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jeweled_deeperslate_bricks",
@@ -6341,7 +6341,7 @@
     {
       "name": "ChiseledJeweledDeeperslate",
       "type": "block",
-      "sortid": 426,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_jeweled_deeperslate",
@@ -6357,7 +6357,7 @@
     {
       "name": "GildedDeeperslate",
       "type": "block",
-      "sortid": 427,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gilded_deeperslate",
@@ -6373,7 +6373,7 @@
     {
       "name": "GildedDeeperslateBricks",
       "type": "block",
-      "sortid": 428,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gilded_deeperslate_bricks",
@@ -6389,7 +6389,7 @@
     {
       "name": "ChiseledGildedDeeperslate",
       "type": "block",
-      "sortid": 429,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_gilded_deeperslate",
@@ -6405,7 +6405,7 @@
     {
       "name": "GalvanicDeeperslate",
       "type": "block",
-      "sortid": 430,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galvanic_deeperslate",
@@ -6421,7 +6421,7 @@
     {
       "name": "GalvanicDeepslateBricks",
       "type": "block",
-      "sortid": 431,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galvanic_deeperslate_bricks",
@@ -6437,7 +6437,7 @@
     {
       "name": "ChisledGalvanicDeeperslate",
       "type": "block",
-      "sortid": 432,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chisled_galvanic_deeperslate",
@@ -6453,7 +6453,7 @@
     {
       "name": "PolishedKidneystone",
       "type": "block",
-      "sortid": 433,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_kidneystone",
@@ -6469,7 +6469,7 @@
     {
       "name": "KidneystoneBricks",
       "type": "block",
-      "sortid": 434,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kidneystone_bricks",
@@ -6485,7 +6485,7 @@
     {
       "name": "CrackedKidneystoneBricks",
       "type": "block",
-      "sortid": 435,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_kidneystone_bricks",
@@ -6501,7 +6501,7 @@
     {
       "name": "ChiseledKidneystone",
       "type": "block",
-      "sortid": 436,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_kidneystone",
@@ -6517,7 +6517,7 @@
     {
       "name": "Endgranite",
       "type": "block",
-      "sortid": 437,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite",
@@ -6533,7 +6533,7 @@
     {
       "name": "Endiorite",
       "type": "block",
-      "sortid": 438,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite",
@@ -6549,7 +6549,7 @@
     {
       "name": "Endersite",
       "type": "block",
-      "sortid": 439,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite",
@@ -6565,7 +6565,7 @@
     {
       "name": "EndgraniteGeneration",
       "type": "feature",
-      "sortid": 440,
+      "sortid": 480,
       "compiles": true,
       "locked_code": true,
       "registry_name": "endgranite_generation",
@@ -6574,7 +6574,7 @@
     {
       "name": "Endstone",
       "type": "tag",
-      "sortid": 441,
+      "sortid": 481,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endstone",
@@ -6587,7 +6587,7 @@
     {
       "name": "EndioriteGeneration",
       "type": "feature",
-      "sortid": 442,
+      "sortid": 482,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite_generation",
@@ -6602,7 +6602,7 @@
     {
       "name": "EndersiteGeneration",
       "type": "feature",
-      "sortid": 443,
+      "sortid": 483,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite_generation",
@@ -6617,7 +6617,7 @@
     {
       "name": "EndFluid",
       "type": "fluid",
-      "sortid": 444,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_fluid",
@@ -6636,7 +6636,7 @@
     {
       "name": "EndfluidLakes",
       "type": "feature",
-      "sortid": 445,
+      "sortid": 484,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endfluid_lakes",
@@ -6651,7 +6651,7 @@
     {
       "name": "PolishedEndgranite",
       "type": "block",
-      "sortid": 446,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endgranite",
@@ -6667,7 +6667,7 @@
     {
       "name": "PolishedEndiorite",
       "type": "block",
-      "sortid": 447,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endiorite",
@@ -6683,7 +6683,7 @@
     {
       "name": "PolishedEndersite",
       "type": "block",
-      "sortid": 448,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endersite",
@@ -6699,22 +6699,22 @@
     {
       "name": "DarksteelShield",
       "type": "tool",
-      "sortid": 449,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_shield",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/item/darksteel_shield.json",
+          "src/main/java/net/mcreator/hellscraft/item/DarksteelShieldItem.java",
           "src/main/resources/assets/hellscraft/models/item/darksteel_shield_0.json",
-          "src/main/java/net/mcreator/hellscraft/item/DarksteelShieldItem.java"
+          "src/main/resources/assets/hellscraft/models/item/darksteel_shield.json"
         ]
       }
     },
     {
       "name": "DarksteelShieldRecipe",
       "type": "recipe",
-      "sortid": 450,
+      "sortid": 485,
       "compiles": true,
       "locked_code": false,
       "registry_name": "darksteel_shield_recipe",
@@ -6727,7 +6727,7 @@
     {
       "name": "TridentShard",
       "type": "item",
-      "sortid": 451,
+      "sortid": 486,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trident_shard",
@@ -6741,7 +6741,7 @@
     {
       "name": "TridentRecipe",
       "type": "recipe",
-      "sortid": 452,
+      "sortid": 487,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trident_recipe",
@@ -6754,23 +6754,23 @@
     {
       "name": "Grease",
       "type": "block",
-      "sortid": 454,
+      "sortid": 488,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grease",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/item/grease.json",
-          "src/main/resources/assets/hellscraft/blockstates/grease.json",
           "src/main/java/net/mcreator/hellscraft/block/GreaseBlock.java",
-          "src/main/resources/assets/hellscraft/models/block/grease.json"
+          "src/main/resources/assets/hellscraft/models/block/grease.json",
+          "src/main/resources/assets/hellscraft/blockstates/grease.json",
+          "src/main/resources/assets/hellscraft/models/item/grease.json"
         ]
       }
     },
     {
       "name": "GreaseRecipe",
       "type": "recipe",
-      "sortid": 455,
+      "sortid": 489,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grease_recipe",
@@ -6783,21 +6783,21 @@
     {
       "name": "BeefSandwhich",
       "type": "item",
-      "sortid": 456,
+      "sortid": 490,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beef_sandwhich",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/item/beef_sandwhich.json",
-          "src/main/java/net/mcreator/hellscraft/item/BeefSandwhichItem.java"
+          "src/main/java/net/mcreator/hellscraft/item/BeefSandwhichItem.java",
+          "src/main/resources/assets/hellscraft/models/item/beef_sandwhich.json"
         ]
       }
     },
     {
       "name": "BeefSandwhichRecipep",
       "type": "recipe",
-      "sortid": 457,
+      "sortid": 491,
       "compiles": true,
       "locked_code": false,
       "registry_name": "beef_sandwhich_recipep",
@@ -6810,21 +6810,21 @@
     {
       "name": "RawUranium",
       "type": "item",
-      "sortid": 458,
+      "sortid": 492,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_uranium",
       "metadata": {
         "files": [
-          "src/main/resources/assets/hellscraft/models/item/raw_uranium.json",
-          "src/main/java/net/mcreator/hellscraft/item/RawUraniumItem.java"
+          "src/main/java/net/mcreator/hellscraft/item/RawUraniumItem.java",
+          "src/main/resources/assets/hellscraft/models/item/raw_uranium.json"
         ]
       }
     },
     {
       "name": "UraniumFuel",
       "type": "itemextension",
-      "sortid": 459,
+      "sortid": 493,
       "compiles": true,
       "locked_code": false,
       "registry_name": "uranium_fuel",
@@ -6835,7 +6835,7 @@
     {
       "name": "UraniumOre",
       "type": "block",
-      "sortid": 460,
+      "sortid": 494,
       "compiles": true,
       "locked_code": false,
       "registry_name": "uranium_ore",
@@ -6854,7 +6854,7 @@
     {
       "name": "DeepslateUraniumOre",
       "type": "block",
-      "sortid": 461,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_uranium_ore",
@@ -6873,7 +6873,7 @@
     {
       "name": "DeepslateUraniumOreLoot",
       "type": "loottable",
-      "sortid": 464,
+      "sortid": 495,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_uranium_ore_loot",
@@ -6886,7 +6886,7 @@
     {
       "name": "UraniumOreLoot",
       "type": "loottable",
-      "sortid": 465,
+      "sortid": 496,
       "compiles": true,
       "locked_code": false,
       "registry_name": "uranium_ore_loot",
@@ -6899,7 +6899,7 @@
     {
       "name": "DeepslateSpawnEggOreLoot",
       "type": "loottable",
-      "sortid": 466,
+      "sortid": 497,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_spawn_egg_ore_loot",
@@ -6912,7 +6912,7 @@
     {
       "name": "Levitation",
       "type": "potion",
-      "sortid": 467,
+      "sortid": 498,
       "compiles": true,
       "locked_code": false,
       "registry_name": "levitation",
@@ -6923,7 +6923,7 @@
     {
       "name": "EnhancedLevitation",
       "type": "potion",
-      "sortid": 468,
+      "sortid": 499,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enhanced_levitation",
@@ -6934,7 +6934,7 @@
     {
       "name": "ExtendedLevitation",
       "type": "potion",
-      "sortid": 469,
+      "sortid": 500,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extended_levitation",
@@ -6945,7 +6945,7 @@
     {
       "name": "Haste",
       "type": "potion",
-      "sortid": 470,
+      "sortid": 501,
       "compiles": true,
       "locked_code": false,
       "registry_name": "haste",
@@ -6956,7 +6956,7 @@
     {
       "name": "EnhancedHaste",
       "type": "potion",
-      "sortid": 471,
+      "sortid": 502,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enhanced_haste",
@@ -6967,7 +6967,7 @@
     {
       "name": "ExtendedHaste",
       "type": "potion",
-      "sortid": 472,
+      "sortid": 503,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extended_haste",
@@ -6978,7 +6978,7 @@
     {
       "name": "LevitationPotionRecipe",
       "type": "recipe",
-      "sortid": 473,
+      "sortid": 504,
       "compiles": true,
       "locked_code": false,
       "registry_name": "levitation_potion_recipe",
@@ -6991,7 +6991,7 @@
     {
       "name": "ExtendedLevitationPotionRecipe",
       "type": "recipe",
-      "sortid": 474,
+      "sortid": 505,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extended_levitation_potion_recipe",
@@ -7004,7 +7004,7 @@
     {
       "name": "EnhancedLevitationRecipe",
       "type": "recipe",
-      "sortid": 475,
+      "sortid": 506,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enhanced_levitation_recipe",
@@ -7017,7 +7017,7 @@
     {
       "name": "HastePotionRecipe",
       "type": "recipe",
-      "sortid": 476,
+      "sortid": 507,
       "compiles": true,
       "locked_code": false,
       "registry_name": "haste_potion_recipe",
@@ -7030,7 +7030,7 @@
     {
       "name": "ExtendedHasteRecipe",
       "type": "recipe",
-      "sortid": 477,
+      "sortid": 508,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extended_haste_recipe",
@@ -7043,7 +7043,7 @@
     {
       "name": "EnhancedHasteRecipe",
       "type": "recipe",
-      "sortid": 478,
+      "sortid": 509,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enhanced_haste_recipe",
@@ -7056,7 +7056,7 @@
     {
       "name": "BlockOfCarrot",
       "type": "block",
-      "sortid": 479,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_carrot",
@@ -7072,7 +7072,7 @@
     {
       "name": "CarrotBricks",
       "type": "block",
-      "sortid": 480,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_bricks",
@@ -7088,7 +7088,7 @@
     {
       "name": "CarrotBrickSlab",
       "type": "block",
-      "sortid": 481,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_slab",
@@ -7106,7 +7106,7 @@
     {
       "name": "CarrotBrickStairs",
       "type": "block",
-      "sortid": 482,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_stairs",
@@ -7124,7 +7124,7 @@
     {
       "name": "CarrotBrickWall",
       "type": "block",
-      "sortid": 483,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_wall",
@@ -7143,7 +7143,7 @@
     {
       "name": "CarrotBricksR",
       "type": "recipe",
-      "sortid": 484,
+      "sortid": 510,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_bricks_r",
@@ -7156,7 +7156,7 @@
     {
       "name": "CarrotBrickSlabR",
       "type": "recipe",
-      "sortid": 485,
+      "sortid": 511,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_slab_r",
@@ -7169,7 +7169,7 @@
     {
       "name": "CarrotBrickStairsR",
       "type": "recipe",
-      "sortid": 486,
+      "sortid": 512,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_stairs_r",
@@ -7182,7 +7182,7 @@
     {
       "name": "CarrotBrickWallR",
       "type": "recipe",
-      "sortid": 487,
+      "sortid": 513,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_brick_wall_r",
@@ -7195,7 +7195,7 @@
     {
       "name": "BlockOfCarrotR",
       "type": "recipe",
-      "sortid": 488,
+      "sortid": 514,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_carrot_r",
@@ -7208,7 +7208,7 @@
     {
       "name": "CarrotR",
       "type": "recipe",
-      "sortid": 489,
+      "sortid": 515,
       "compiles": true,
       "locked_code": false,
       "registry_name": "carrot_r",
@@ -7221,7 +7221,7 @@
     {
       "name": "BlockOfDandelion",
       "type": "block",
-      "sortid": 490,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_dandelion",
@@ -7237,7 +7237,7 @@
     {
       "name": "Grud",
       "type": "block",
-      "sortid": 491,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grud",
@@ -7253,7 +7253,7 @@
     {
       "name": "GrudR",
       "type": "recipe",
-      "sortid": 492,
+      "sortid": 516,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grud_r",
@@ -7266,7 +7266,7 @@
     {
       "name": "Vantablock",
       "type": "block",
-      "sortid": 493,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vantablock",
@@ -7282,7 +7282,7 @@
     {
       "name": "VantablockR",
       "type": "recipe",
-      "sortid": 494,
+      "sortid": 517,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vantablock_r",
@@ -7295,7 +7295,7 @@
     {
       "name": "DandelionPetals",
       "type": "particle",
-      "sortid": 496,
+      "sortid": 518,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dandelion_petals",
@@ -7309,7 +7309,7 @@
     {
       "name": "BlockOfDandelionUpdateTick",
       "type": "procedure",
-      "sortid": 497,
+      "sortid": 519,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_dandelion_update_tick",
@@ -7340,7 +7340,7 @@
     {
       "name": "PoppyPetals",
       "type": "particle",
-      "sortid": 498,
+      "sortid": 520,
       "compiles": true,
       "locked_code": false,
       "registry_name": "poppy_petals",
@@ -7354,7 +7354,7 @@
     {
       "name": "CornflowerPetals",
       "type": "particle",
-      "sortid": 499,
+      "sortid": 521,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cornflower_petals",
@@ -7368,7 +7368,7 @@
     {
       "name": "AzurePetals",
       "type": "particle",
-      "sortid": 500,
+      "sortid": 522,
       "compiles": true,
       "locked_code": false,
       "registry_name": "azure_petals",
@@ -7382,7 +7382,7 @@
     {
       "name": "BlockOfPoppy",
       "type": "block",
-      "sortid": 501,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_poppy",
@@ -7398,7 +7398,7 @@
     {
       "name": "BlockOfPoppyUpdateTick",
       "type": "procedure",
-      "sortid": 502,
+      "sortid": 523,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_poppy_update_tick",
@@ -7429,7 +7429,7 @@
     {
       "name": "BlockOfCornflowerUpdateTick",
       "type": "procedure",
-      "sortid": 503,
+      "sortid": 524,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_cornflower_update_tick",
@@ -7460,7 +7460,7 @@
     {
       "name": "BlockOfAzureUpdateTick",
       "type": "procedure",
-      "sortid": 504,
+      "sortid": 525,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_azure_update_tick",
@@ -7491,7 +7491,7 @@
     {
       "name": "BlockOfCornflower",
       "type": "block",
-      "sortid": 505,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_cornflower",
@@ -7507,7 +7507,7 @@
     {
       "name": "BlockOfAzureBluet",
       "type": "block",
-      "sortid": 506,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_azure_bluet",
@@ -7523,7 +7523,7 @@
     {
       "name": "BlockOfPoppyR",
       "type": "recipe",
-      "sortid": 507,
+      "sortid": 526,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_poppy_r",
@@ -7536,7 +7536,7 @@
     {
       "name": "BlockOfCornflowerR",
       "type": "recipe",
-      "sortid": 508,
+      "sortid": 527,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_cornflower_r",
@@ -7549,7 +7549,7 @@
     {
       "name": "BlockOfAzureBluetR",
       "type": "recipe",
-      "sortid": 509,
+      "sortid": 528,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_azure_bluet_r",
@@ -7562,7 +7562,7 @@
     {
       "name": "EndgraniteR",
       "type": "recipe",
-      "sortid": 510,
+      "sortid": 529,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite_r",
@@ -7575,7 +7575,7 @@
     {
       "name": "EndioriteR",
       "type": "recipe",
-      "sortid": 511,
+      "sortid": 530,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite_r",
@@ -7588,7 +7588,7 @@
     {
       "name": "EndersiteR",
       "type": "recipe",
-      "sortid": 512,
+      "sortid": 531,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite_r",
@@ -7601,7 +7601,7 @@
     {
       "name": "Mushrack",
       "type": "block",
-      "sortid": 513,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mushrack",
@@ -7617,7 +7617,7 @@
     {
       "name": "Netherpulp",
       "type": "item",
-      "sortid": 514,
+      "sortid": 532,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherpulp",
@@ -7631,7 +7631,7 @@
     {
       "name": "PaperR",
       "type": "recipe",
-      "sortid": 515,
+      "sortid": 533,
       "compiles": true,
       "locked_code": false,
       "registry_name": "paper_r",
@@ -7644,7 +7644,7 @@
     {
       "name": "ElderGuardianTag",
       "type": "tag",
-      "sortid": 516,
+      "sortid": 534,
       "compiles": true,
       "locked_code": false,
       "registry_name": "elder_guardian_tag",
@@ -7657,7 +7657,7 @@
     {
       "name": "EntityAddedDrops",
       "type": "procedure",
-      "sortid": 517,
+      "sortid": 535,
       "compiles": true,
       "locked_code": false,
       "registry_name": "entity_added_drops",
@@ -7692,7 +7692,7 @@
     {
       "name": "TridentR",
       "type": "recipe",
-      "sortid": 518,
+      "sortid": 536,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trident_r",
@@ -7705,7 +7705,7 @@
     {
       "name": "LeadPipe",
       "type": "block",
-      "sortid": 519,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_pipe",
@@ -7721,7 +7721,7 @@
     {
       "name": "LeadOre",
       "type": "block",
-      "sortid": 520,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ore",
@@ -7740,7 +7740,7 @@
     {
       "name": "DeepslateLeadOre",
       "type": "block",
-      "sortid": 521,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_lead_ore",
@@ -7759,7 +7759,7 @@
     {
       "name": "DeeperslateLeadOre",
       "type": "block",
-      "sortid": 522,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_lead_ore",
@@ -7778,7 +7778,7 @@
     {
       "name": "RawLead",
       "type": "item",
-      "sortid": 523,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_lead",
@@ -7792,7 +7792,7 @@
     {
       "name": "LeadOreLoot",
       "type": "loottable",
-      "sortid": 524,
+      "sortid": 537,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ore_loot",
@@ -7805,7 +7805,7 @@
     {
       "name": "DeepslateLeadOreLoot",
       "type": "loottable",
-      "sortid": 525,
+      "sortid": 538,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_lead_ore_loot",
@@ -7818,7 +7818,7 @@
     {
       "name": "DeeperslateLeadOreLoot",
       "type": "loottable",
-      "sortid": 526,
+      "sortid": 539,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deeperslate_lead_ore_loot",
@@ -7831,7 +7831,7 @@
     {
       "name": "BlockOfLead",
       "type": "block",
-      "sortid": 527,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_lead",
@@ -7847,7 +7847,7 @@
     {
       "name": "CutLead",
       "type": "block",
-      "sortid": 528,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead",
@@ -7863,7 +7863,7 @@
     {
       "name": "LeadIngot",
       "type": "item",
-      "sortid": 529,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ingot",
@@ -7877,7 +7877,7 @@
     {
       "name": "LeadIngotR",
       "type": "recipe",
-      "sortid": 530,
+      "sortid": 540,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ingot_r",
@@ -7890,7 +7890,7 @@
     {
       "name": "LeadIngotR2",
       "type": "recipe",
-      "sortid": 531,
+      "sortid": 541,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ingot_r_2",
@@ -7903,7 +7903,7 @@
     {
       "name": "LeadSlab",
       "type": "block",
-      "sortid": 532,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_slab",
@@ -7921,7 +7921,7 @@
     {
       "name": "LeadStairs",
       "type": "block",
-      "sortid": 533,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_stairs",
@@ -7939,7 +7939,7 @@
     {
       "name": "CutLeadSlab",
       "type": "block",
-      "sortid": 534,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_slab",
@@ -7957,7 +7957,7 @@
     {
       "name": "CutLeadStairs",
       "type": "block",
-      "sortid": 535,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_stairs",
@@ -7975,7 +7975,7 @@
     {
       "name": "BlockOfLeadR",
       "type": "recipe",
-      "sortid": 536,
+      "sortid": 542,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_lead_r",
@@ -7988,7 +7988,7 @@
     {
       "name": "LeadIngotR3",
       "type": "recipe",
-      "sortid": 537,
+      "sortid": 543,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_ingot_r_3",
@@ -8001,7 +8001,7 @@
     {
       "name": "LeadSlabR",
       "type": "recipe",
-      "sortid": 538,
+      "sortid": 544,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_slab_r",
@@ -8014,7 +8014,7 @@
     {
       "name": "LeadSlabR2",
       "type": "recipe",
-      "sortid": 539,
+      "sortid": 545,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_slab_r_2",
@@ -8027,7 +8027,7 @@
     {
       "name": "LeadStairsR",
       "type": "recipe",
-      "sortid": 540,
+      "sortid": 546,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_stairs_r",
@@ -8040,7 +8040,7 @@
     {
       "name": "LeadStairsR2",
       "type": "recipe",
-      "sortid": 541,
+      "sortid": 547,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_stairs_r_2",
@@ -8053,7 +8053,7 @@
     {
       "name": "CutLeadR",
       "type": "recipe",
-      "sortid": 542,
+      "sortid": 548,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_r",
@@ -8066,7 +8066,7 @@
     {
       "name": "CutLeadR2",
       "type": "recipe",
-      "sortid": 543,
+      "sortid": 549,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_r_2",
@@ -8079,7 +8079,7 @@
     {
       "name": "CutLeadSlabR",
       "type": "recipe",
-      "sortid": 544,
+      "sortid": 550,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_slab_r",
@@ -8092,7 +8092,7 @@
     {
       "name": "CutLeadSlabR2",
       "type": "recipe",
-      "sortid": 545,
+      "sortid": 551,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_slab_r_2",
@@ -8105,7 +8105,7 @@
     {
       "name": "CutLeadSlabR3",
       "type": "recipe",
-      "sortid": 546,
+      "sortid": 552,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_slab_r_3",
@@ -8118,7 +8118,7 @@
     {
       "name": "CutLeadStairsR",
       "type": "recipe",
-      "sortid": 547,
+      "sortid": 553,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_stairs_r",
@@ -8131,7 +8131,7 @@
     {
       "name": "CutLeadStairsR2",
       "type": "recipe",
-      "sortid": 548,
+      "sortid": 554,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_stairs_r_2",
@@ -8144,7 +8144,7 @@
     {
       "name": "CutLeadStairsR3",
       "type": "recipe",
-      "sortid": 549,
+      "sortid": 555,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_lead_stairs_r_3",
@@ -8157,7 +8157,7 @@
     {
       "name": "LeadPipeR",
       "type": "recipe",
-      "sortid": 550,
+      "sortid": 556,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_pipe_r",
@@ -8170,7 +8170,7 @@
     {
       "name": "Asbestos",
       "type": "block",
-      "sortid": 551,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "asbestos",
@@ -8189,7 +8189,7 @@
     {
       "name": "LeadTrapdoor",
       "type": "block",
-      "sortid": 552,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_trapdoor",
@@ -8207,7 +8207,7 @@
     {
       "name": "LeadTrapdoorR",
       "type": "recipe",
-      "sortid": 553,
+      "sortid": 557,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lead_trapdoor_r",
@@ -8220,7 +8220,7 @@
     {
       "name": "CuteCopper",
       "type": "block",
-      "sortid": 554,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cute_copper",
@@ -8236,7 +8236,7 @@
     {
       "name": "CuteCopperR",
       "type": "recipe",
-      "sortid": 555,
+      "sortid": 558,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cute_copper_r",
@@ -8249,7 +8249,7 @@
     {
       "name": "EndgraniteSlab",
       "type": "block",
-      "sortid": 556,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite_slab",
@@ -8267,7 +8267,7 @@
     {
       "name": "EndioriteSlab",
       "type": "block",
-      "sortid": 557,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite_slab",
@@ -8285,7 +8285,7 @@
     {
       "name": "EndersiteSlab",
       "type": "block",
-      "sortid": 558,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite_slab",
@@ -8303,7 +8303,7 @@
     {
       "name": "EndgraniteStairs",
       "type": "block",
-      "sortid": 559,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite_stairs",
@@ -8321,7 +8321,7 @@
     {
       "name": "EndioriteStairs",
       "type": "block",
-      "sortid": 560,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite_stairs",
@@ -8339,7 +8339,7 @@
     {
       "name": "EndersiteStairs",
       "type": "block",
-      "sortid": 561,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite_stairs",
@@ -8357,7 +8357,7 @@
     {
       "name": "EndgraniteWall",
       "type": "block",
-      "sortid": 562,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite_wall",
@@ -8376,7 +8376,7 @@
     {
       "name": "EndioriteWall",
       "type": "block",
-      "sortid": 563,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endiorite_wall",
@@ -8395,7 +8395,7 @@
     {
       "name": "EndersiteWall",
       "type": "block",
-      "sortid": 564,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersite_wall",
@@ -8414,7 +8414,7 @@
     {
       "name": "PolishedEndgraniteSlab",
       "type": "block",
-      "sortid": 565,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endgranite_slab",
@@ -8432,7 +8432,7 @@
     {
       "name": "PolishedEndioriteSlab",
       "type": "block",
-      "sortid": 566,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endiorite_slab",
@@ -8450,7 +8450,7 @@
     {
       "name": "PolishedEndersiteSlab",
       "type": "block",
-      "sortid": 567,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_endersite_slab",
@@ -8468,13 +8468,965 @@
     {
       "name": "EndgraniteSlabR",
       "type": "recipe",
-      "sortid": 568,
+      "sortid": 559,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endgranite_slab_r",
       "metadata": {
         "files": [
           "src/main/resources/data/hellscraft/recipes/endgranite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteSlabR2",
+      "type": "recipe",
+      "sortid": 560,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endgranite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteStairsR",
+      "type": "recipe",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endgranite_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteStairsR2",
+      "type": "recipe",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endgranite_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteWallR",
+      "type": "recipe",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endgranite_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndgraniteWallR2",
+      "type": "recipe",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgranite_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endgranite_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgraniteR",
+      "type": "recipe",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endgranite_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgraniteR2",
+      "type": "recipe",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endgranite_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgraniteSlabR",
+      "type": "recipe",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endgranite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgraniteSlabR2",
+      "type": "recipe",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endgranite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndgraniteSlabR3",
+      "type": "recipe",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endgranite_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endgranite_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteSlabR",
+      "type": "recipe",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteSlabR2",
+      "type": "recipe",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteStairsR",
+      "type": "recipe",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteStairsR2",
+      "type": "recipe",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteWallR",
+      "type": "recipe",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndioriteWallR2",
+      "type": "recipe",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endiorite_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endiorite_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndioriteR",
+      "type": "recipe",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endiorite_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndioriteR2",
+      "type": "recipe",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endiorite_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndioriteSlabR",
+      "type": "recipe",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endiorite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndioriteSlabR2",
+      "type": "recipe",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endiorite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndioriteSlabR3",
+      "type": "recipe",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endiorite_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endiorite_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteSlabR",
+      "type": "recipe",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteSlabR2",
+      "type": "recipe",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteStairsR",
+      "type": "recipe",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteStairsR2",
+      "type": "recipe",
+      "sortid": 584,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteWallR",
+      "type": "recipe",
+      "sortid": 585,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "EndersiteWallR2",
+      "type": "recipe",
+      "sortid": 586,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endersite_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/endersite_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersiteR",
+      "type": "recipe",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endersite_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersiteR2",
+      "type": "recipe",
+      "sortid": 588,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endersite_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersiteSlabR",
+      "type": "recipe",
+      "sortid": 589,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endersite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersiteSlabR2",
+      "type": "recipe",
+      "sortid": 590,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endersite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedEndersiteR3",
+      "type": "recipe",
+      "sortid": 591,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_endersite_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_endersite_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneR",
+      "type": "recipe",
+      "sortid": 592,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_kidneystone_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneR2",
+      "type": "recipe",
+      "sortid": 593,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_kidneystone_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneSlab",
+      "type": "block",
+      "sortid": 594,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_slab.json",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_slab_top.json",
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneSlabBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_slab_full.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneStairs",
+      "type": "block",
+      "sortid": 595,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneStairsBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_stairs_inner.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_stairs_outer.json",
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_stairs.json",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneWall",
+      "type": "block",
+      "sortid": 596,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_wall_side_tall.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_wall_post.json",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_wall.json",
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneWallBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_wall_inventory.json",
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_wall.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneSlab",
+      "type": "block",
+      "sortid": 597,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/polished_kidneystone_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_kidneystone_slab_full.json",
+          "src/main/resources/assets/hellscraft/blockstates/polished_kidneystone_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/polished_kidneystone_slab_top.json",
+          "src/main/java/net/mcreator/hellscraft/block/PolishedKidneystoneSlabBlock.java",
+          "src/main/resources/assets/hellscraft/models/item/polished_kidneystone_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickSlab",
+      "type": "block",
+      "sortid": 598,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_slab_full.json",
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_brick_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneBrickSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_brick_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickStairs",
+      "type": "block",
+      "sortid": 599,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_brick_stairs.json",
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_brick_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_stairs.json",
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneBrickStairsBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_stairs_outer.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickWall",
+      "type": "block",
+      "sortid": 600,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/blockstates/kidneystone_brick_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_wall_post.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_wall_inventory.json",
+          "src/main/java/net/mcreator/hellscraft/block/KidneystoneBrickWallBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/kidneystone_brick_wall_side_tall.json",
+          "src/main/resources/assets/hellscraft/models/item/kidneystone_brick_wall.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBrickSlab",
+      "type": "block",
+      "sortid": 601,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/cracked_kidneystone_brick_slab.json",
+          "src/main/resources/assets/hellscraft/models/item/cracked_kidneystone_brick_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/CrackedKidneystoneBrickSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/cracked_kidneystone_brick_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/cracked_kidneystone_brick_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/cracked_kidneystone_brick_slab_full.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneSlabR",
+      "type": "recipe",
+      "sortid": 602,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneStairsR",
+      "type": "recipe",
+      "sortid": 603,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneWallR",
+      "type": "recipe",
+      "sortid": 604,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneSlabR2",
+      "type": "recipe",
+      "sortid": 605,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneStairsR2",
+      "type": "recipe",
+      "sortid": 606,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneWallR2",
+      "type": "recipe",
+      "sortid": 607,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBricksR",
+      "type": "recipe",
+      "sortid": 608,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBricksR2",
+      "type": "recipe",
+      "sortid": 609,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBricksR",
+      "type": "recipe",
+      "sortid": 610,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBricksR2",
+      "type": "recipe",
+      "sortid": 611,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBricksR3",
+      "type": "recipe",
+      "sortid": 612,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_bricks_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_bricks_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledKidneystoneR",
+      "type": "recipe",
+      "sortid": 613,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_kidneystone_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_kidneystone_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledKidneystoneR2",
+      "type": "recipe",
+      "sortid": 614,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_kidneystone_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_kidneystone_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneSlabR",
+      "type": "recipe",
+      "sortid": 615,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_kidneystone_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneSlabR2",
+      "type": "recipe",
+      "sortid": 616,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_kidneystone_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedKidneystoneSlabR3",
+      "type": "recipe",
+      "sortid": 617,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_kidneystone_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_kidneystone_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickSlabR",
+      "type": "recipe",
+      "sortid": 618,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickSlabR2",
+      "type": "recipe",
+      "sortid": 619,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickStairsR",
+      "type": "recipe",
+      "sortid": 620,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickStairsR2",
+      "type": "recipe",
+      "sortid": 621,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickSlabR3",
+      "type": "recipe",
+      "sortid": 622,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickStairsR3",
+      "type": "recipe",
+      "sortid": 623,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_stairs_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_stairs_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickWallR",
+      "type": "recipe",
+      "sortid": 624,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickWallR2",
+      "type": "recipe",
+      "sortid": 625,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "KidneystoneBrickWallR3",
+      "type": "recipe",
+      "sortid": 626,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kidneystone_brick_wall_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/kidneystone_brick_wall_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBrickSlabR",
+      "type": "recipe",
+      "sortid": 627,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_brick_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_brick_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBrickSlabR2",
+      "type": "recipe",
+      "sortid": 628,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_brick_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_brick_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackedKidneystoneBrickSlabR3",
+      "type": "recipe",
+      "sortid": 629,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_kidneystone_brick_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_brick_slab_r_3.json"
         ]
       }
     }
@@ -8491,8 +9443,8 @@
       "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
       "block.hellscraft.deeperslate": "Deeperslate",
       "block.hellscraft.carrot_brick_slab": "Carrot Brick Slab",
-      "item.cheese.corn": "Corn",
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
+      "item.cheese.corn": "Corn",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
       "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
@@ -8505,14 +9457,16 @@
       "block.hellscraft.polished_popcorn_slab": "Polished Popcorn Slab",
       "block.hellscraft.polished_popcorn_stairs": "Polished Popcorn Stairs",
       "block.hellscraft.piss_nylium": "Piss Nylium",
+      "block.hellscraft.cracked_kidneystone_brick_slab": "Cracked Kidneystone Brick Slab",
+      "block.hellscraft.kidneystone_brick_slab": "Kidneystone Brick Slab",
       "item.hellscraft.darksteel_ingot": "Darksteel Ingot",
       "painting.hellscraft.funny_cat.title": "Funny Cat",
       "block.hellscraft.grud": "Grud",
       "block.cheese.deeperslate_iron_ore": "Deeperslate Iron Ore",
       "block.hellscraft.block_of_popcorn": "Block of Popcorn",
       "block.hellscraft.endersite_slab": "Endersite Slab",
-      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
+      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.chisled_galvanic_deeperslate": "Chisled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
       "block.hellscraft.block_of_poppy": "Block Of Poppy",
@@ -8521,19 +9475,19 @@
       "block.hellscraft.cut_lead_slab": "Cut Lead Slab",
       "biome.hellscraft.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.cheese.darkwood_log": "Darkwood Log",
-      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.hellscraft.block_of_villager": "Block Of Villager",
+      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.cheese.deeperslate": "Deeperslate",
       "item.cheese.netherite_javelin": "Netherite Javelin",
       "item.cheese.fishmetal_armor_chestplate": "Fishmetal Chestplate",
-      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.hellscraft.block_of_carrot": "Block Of Carrot",
+      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
       "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
-      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
       "painting.hellscraft.urabrask_hit.title": "Urabrask Hit",
       "block.hellscraft.endgranite": "Endgranite",
@@ -8542,6 +9496,7 @@
       "block.hellscraft.piss_plank_trapdoor": "Piss Trap Door",
       "block.hellscraft.fishmetal_block": "Fishmetal Block",
       "item.hellscraft.fishmetal_sword": "Fishmetal Sword",
+      "block.hellscraft.kidneystone_stairs": "Kidneystone Stairs",
       "item.cheese.fishmetal_ingot": "Fishmetal Ingot",
       "block.hellscraft.mushrack": "Mushrack",
       "painting.hellscraft.colossal_dreadmaw.title": "Colossal Dreadmaw",
@@ -8565,8 +9520,8 @@
       "block.cheese.piss_stem": "Piss Stem",
       "item.hellscraft.wooden_javelin": "Wooden Javelin",
       "block.hellscraft.carrot_bricks": "Carrot Bricks",
-      "item.cheese.fishmetal_axe": "Fishmetal Axe",
       "block.hellscraft.spawn_egg_ore": "Spawn Egg Ore",
+      "item.cheese.fishmetal_axe": "Fishmetal Axe",
       "block.hellscraft.greenstone_slab": "Greenstone Slab",
       "item.minecraft.splash_potion.effect.haste": "Splash Potion of Haste",
       "block.hellscraft.darkwood_stairs": "Darkwood Stairs",
@@ -8574,6 +9529,7 @@
       "item.hellscraft.gold_javelin": "Gold Javelin",
       "block.cheese.block_of_rotten_flesh": "Block Of Rotten Flesh",
       "block.hellscraft.polished_corn_slab": "Polished Corn Slab",
+      "block.hellscraft.kidneystone_slab": "Kidneystone Slab",
       "item.hellscraft.bottle_of_pepsi": "Bottle Of Pepsi",
       "block.hellscraft.piss_roots": "Piss Roots",
       "item.minecraft.tipped_arrow.effect.nausea": "Arrow of Nausea",
@@ -8608,8 +9564,8 @@
       "block.hellscraft.block_of_cheese": "Block Of Cheese",
       "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
       "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
-      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
       "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
@@ -8640,13 +9596,13 @@
       "item.cheese.darksteel_armor_leggings": "Darksteel Leggings",
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
-      "item.cheese.totem_of_dying": "Totem Of Dying",
-      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "block.hellscraft.polished_endersite": "Polished Endersite",
+      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
+      "item.cheese.totem_of_dying": "Totem Of Dying",
       "block.hellscraft.darksteel_block": "Darksteel Block",
       "item.cheese.fishmetal_sword": "Fishmetal Sword",
-      "item.hellscraft.darksteel_armor_boots": "Darksteel Boots",
       "item.hellscraft.salted_beef": "Salted Beef",
+      "item.hellscraft.darksteel_armor_boots": "Darksteel Boots",
       "block.cheese.piss_pressure_plate": "Piss Pressure Plate",
       "block.hellscraft.gilded_deeperslate": "Gilded Deeperslate",
       "item.minecraft.tipped_arrow.effect.levitation": "Arrow of Levitation",
@@ -8728,6 +9684,7 @@
       "item.hellscraft.raw_darksteel": "Raw Darksteel",
       "block.cheese.smooth_greenstone_slab": "Smooth Greenstone",
       "item.cheese.cheesed_axe": "Cheese Axe",
+      "block.hellscraft.kidneystone_brick_wall": "Kidneystone Brick Wall",
       "block.hellscraft.piss_mushroom": "Piss Mushroom",
       "item.hellscraft.darksteel_armor_helmet": "Darksteel Helmet",
       "painting.hellscraft.seige_rhino.author": "Volkan Baga",
@@ -8771,6 +9728,7 @@
       "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
       "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
       "painting.hellscraft.birb.title": "Birb",
+      "block.hellscraft.kidneystone_wall": "Kidneystone Wall",
       "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
       "block.cheese.hardspice_brick_wall": "Hardspice Brick Wall",
       "block.hellscraft.polished_deeperslate": "Polished Deeperslate",
@@ -8804,6 +9762,7 @@
       "block.hellscraft.lead_ore": "Lead Ore",
       "item.cheese.raw_darksteel": "Raw Darksteel",
       "item.hellscraft.cheesed_armor_chestplate": "Cheese Chestplate",
+      "block.hellscraft.polished_kidneystone_slab": "Polished Kidneystone",
       "item.hellscraft.fishmetal_armor_leggings": "Fishmetal Leggings",
       "item.hellscraft.seasoned_porkchop": "Seasoned Porkchop",
       "block.cheese.greenstone": "Greenstone",
@@ -8887,6 +9846,7 @@
       "painting.hellscraft.true_painting.title": "True",
       "item.hellscraft.cheesed_shovel": "Cheese Shovel",
       "block.hellscraft.hardspice_brick_stairs": "Hardspice Brick Stairs",
+      "block.hellscraft.kidneystone_brick_stairs": "Kidneystone Brick Stairs",
       "biome.cheese.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.hellscraft.block_of_dandelion": "Block Of Dandelion",
       "painting.hellscraft.smoking.author": "Smoking",
