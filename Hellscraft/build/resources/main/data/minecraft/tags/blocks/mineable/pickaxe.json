@@ -102,6 +102,14 @@
     "hellscraft:kidneystone_brick_slab",
     "hellscraft:kidneystone_brick_stairs",
     "hellscraft:kidneystone_brick_wall",
-    "hellscraft:cracked_kidneystone_brick_slab"
+    "hellscraft:cracked_kidneystone_brick_slab",
+    "hellscraft:block_of_uranium",
+    "hellscraft:block_of_raw_lead",
+    "hellscraft:deeperslate_slab",
+    "hellscraft:deeperslate_stairs",
+    "hellscraft:deeperslate_wall",
+    "hellscraft:jeweled_deeperslate_slab",
+    "hellscraft:gilded_deeperslate_slab",
+    "hellscraft:galvanic_deeperslate_slab"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "hellscraft:gilded_deeperslate"
+  },
+  "result": "hellscraft:gilded_deeperslate_bricks"
+}

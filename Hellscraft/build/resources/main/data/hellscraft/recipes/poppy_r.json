@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:block_of_poppy"
+    }
+  },
+  "result": {
+    "item": "minecraft:poppy",
+    "count": 9
+  }
+}

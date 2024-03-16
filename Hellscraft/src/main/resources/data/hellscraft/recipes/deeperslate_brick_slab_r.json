@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:deeperslate_bricks"
+    }
+  },
+  "result": {
+    "item": "hellscraft:deeperslate_brick_slab",
+    "count": 6
+  }
+}

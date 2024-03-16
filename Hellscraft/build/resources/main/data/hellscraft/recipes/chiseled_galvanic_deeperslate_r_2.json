@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "hellscraft:galvanic_deeperslate"
+  },
+  "result": "hellscraft:chisled_galvanic_deeperslate"
+}

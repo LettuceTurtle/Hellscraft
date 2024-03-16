@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "item": "minecraft:fire_charge"
+    },
+    "c": {
+      "item": "hellscraft:darksteel_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}

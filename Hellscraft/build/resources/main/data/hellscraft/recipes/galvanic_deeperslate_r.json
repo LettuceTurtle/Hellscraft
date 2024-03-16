@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:deeperslate"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "hellscraft:galvanic_deeperslate",
+    "count": 8
+  }
+}

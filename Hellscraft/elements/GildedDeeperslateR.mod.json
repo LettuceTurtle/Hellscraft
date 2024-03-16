@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      },
+      {
+        "value": "CUSTOM:Deeperslate"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GildedDeeperslate"
+    },
+    "name": "gilded_deeperslate_r",
+    "namespace": "mod"
+  }
+}

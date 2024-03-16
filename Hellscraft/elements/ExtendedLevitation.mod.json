@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "potion",
   "definition": {
-    "potionName": "Potion of Extended Levitation",
-    "splashName": "Splash Potion of Extended Levitation",
-    "lingeringName": "Lingering Potion of Extended Levitation",
-    "arrowName": "Arrow of Extended Levitation",
+    "potionName": "Potion of Levitation",
+    "splashName": "Splash Potion of Levitation",
+    "lingeringName": "Lingering Potion of Levitation",
+    "arrowName": "Arrow of Levitation",
     "effects": [
       {
         "effect": {

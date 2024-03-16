@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/gilded_deeperslate_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/gilded_deeperslate_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/gilded_deeperslate_slab_full"
+    }
+  }
+}

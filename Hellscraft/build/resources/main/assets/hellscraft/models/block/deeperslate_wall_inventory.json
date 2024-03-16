@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "hellscraft:block/4faaf0f7-fc6f-496a-a92c-71fdb34c883e",
+    "particle": "hellscraft:block/4faaf0f7-fc6f-496a-a92c-71fdb34c883e"
+  },
+  "render_type": "solid"
+}

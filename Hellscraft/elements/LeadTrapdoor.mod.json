@@ -57,7 +57,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
-      "value": "IRON"
+      "value": "MISCELLANEOUS"
     },
     "tickRate": 0,
     "tickRandomly": false,

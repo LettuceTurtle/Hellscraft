@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:block_of_cornflower"
+    }
+  },
+  "result": {
+    "item": "minecraft:cornflower",
+    "count": 9
+  }
+}

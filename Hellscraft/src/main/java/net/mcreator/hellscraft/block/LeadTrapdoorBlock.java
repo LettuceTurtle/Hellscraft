@@ -20,7 +20,7 @@ import java.util.Collections;
 
 public class LeadTrapdoorBlock extends TrapDoorBlock {
 	public LeadTrapdoorBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.COPPER).strength(3f, 1f).requiresCorrectToolForDrops().dynamicShape(), BlockSetType.IRON);
+		super(BlockBehaviour.Properties.of().sound(SoundType.COPPER).strength(3f, 1f).requiresCorrectToolForDrops().dynamicShape(), BlockSetType.STONE);
 	}
 
 	@Override

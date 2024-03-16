@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:deeperslate"
+    }
+  },
+  "result": {
+    "item": "hellscraft:polished_deeperslate",
+    "count": 4
+  }
+}

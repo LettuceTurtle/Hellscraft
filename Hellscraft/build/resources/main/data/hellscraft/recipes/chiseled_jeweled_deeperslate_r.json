@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:jeweled_deeperslate_slab"
+    }
+  },
+  "result": {
+    "item": "hellscraft:chiseled_jeweled_deeperslate",
+    "count": 1
+  }
+}

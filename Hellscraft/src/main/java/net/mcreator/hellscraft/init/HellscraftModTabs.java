@@ -98,6 +98,11 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_SLAB.get().asItem());
 			tabData.accept(HellscraftModBlocks.CUT_LEAD_STAIRS.get().asItem());
 			tabData.accept(HellscraftModBlocks.LEAD_TRAPDOOR.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_URANIUM.get().asItem());
+			tabData.accept(HellscraftModBlocks.BLOCK_OF_RAW_LEAD.get().asItem());
+			tabData.accept(HellscraftModBlocks.JEWELED_DEEPERSLATE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.GILDED_DEEPERSLATE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.GALVANIC_DEEPERSLATE_SLAB.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
@@ -252,6 +257,9 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICK_STAIRS.get().asItem());
 			tabData.accept(HellscraftModBlocks.KIDNEYSTONE_BRICK_WALL.get().asItem());
 			tabData.accept(HellscraftModBlocks.CRACKED_KIDNEYSTONE_BRICK_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_SLAB.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_STAIRS.get().asItem());
+			tabData.accept(HellscraftModBlocks.DEEPERSLATE_WALL.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
@@ -270,6 +278,22 @@ public class HellscraftModTabs {
 			tabData.accept(HellscraftModItems.TOTEM_OF_DYING.get());
 			tabData.accept(HellscraftModItems.BREAD_KNIFE.get());
 			tabData.accept(HellscraftModItems.LAVA_AXE.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_SPEED.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_SLOWNESS.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_JUMPBOOST.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_STRENGTH.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_WEAKNESS.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_POISON.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_REGEN.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_FIRERESISTANCE.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_WATERBREATHING.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_NIGHTVISION.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_INVISIBILITY.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_SLOWFALLING.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_NAUSEA.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_LEVITATION.get());
+			tabData.accept(HellscraftModItems.TOTEM_OF_INFUSION_HASTE.get());
 		}
 	}
 }

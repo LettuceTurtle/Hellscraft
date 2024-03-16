@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hellscraft:gilded_deeperslate"
+    }
+  },
+  "result": {
+    "item": "hellscraft:gilded_deeperslate_slab",
+    "count": 6
+  }
+}

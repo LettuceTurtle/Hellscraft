@@ -18,7 +18,7 @@ import java.util.List;
 
 public class DeepslateLeadOreBlock extends Block {
 	public DeepslateLeadOreBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(4.5f, 3f).requiresCorrectToolForDrops().hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(4.5f, 3f).requiresCorrectToolForDrops());
 	}
 
 	@Override

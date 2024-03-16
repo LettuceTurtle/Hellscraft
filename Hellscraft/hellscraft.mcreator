@@ -9429,6 +9429,1683 @@
           "src/main/resources/data/hellscraft/recipes/cracked_kidneystone_brick_slab_r_3.json"
         ]
       }
+    },
+    {
+      "name": "BlockOfUranium",
+      "type": "block",
+      "sortid": 630,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_uranium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/block_of_uranium.json",
+          "src/main/resources/assets/hellscraft/models/item/block_of_uranium.json",
+          "src/main/resources/assets/hellscraft/blockstates/block_of_uranium.json",
+          "src/main/java/net/mcreator/hellscraft/block/BlockOfUraniumBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BlockOfUraniumR",
+      "type": "recipe",
+      "sortid": 631,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_uranium_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/block_of_uranium_r.json"
+        ]
+      }
+    },
+    {
+      "name": "UraniumR",
+      "type": "recipe",
+      "sortid": 632,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uranium_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/uranium_r.json"
+        ]
+      }
+    },
+    {
+      "name": "BlockOfRawLead",
+      "type": "block",
+      "sortid": 633,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_raw_lead",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/block_of_raw_lead.json",
+          "src/main/resources/assets/hellscraft/models/block/block_of_raw_lead.json",
+          "src/main/java/net/mcreator/hellscraft/block/BlockOfRawLeadBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/block_of_raw_lead.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedDeeperslateR",
+      "type": "recipe",
+      "sortid": 634,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedDeeperslateR2",
+      "type": "recipe",
+      "sortid": 635,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deeperslate_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_deeperslate_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBricksR",
+      "type": "recipe",
+      "sortid": 636,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBricksR2",
+      "type": "recipe",
+      "sortid": 637,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBricksR3",
+      "type": "recipe",
+      "sortid": 638,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_bricks_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_bricks_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateSlab",
+      "type": "block",
+      "sortid": 639,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_slab_full.json",
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateSlabBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateStairs",
+      "type": "block",
+      "sortid": 640,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateStairsBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_stairs.json",
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_stairs.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_stairs_inner.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_stairs_outer.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateWall",
+      "type": "block",
+      "sortid": 641,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/deeperslate_wall.json",
+          "src/main/resources/assets/hellscraft/blockstates/deeperslate_wall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_wall_inventory.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_wall_post.json",
+          "src/main/java/net/mcreator/hellscraft/block/DeeperslateWallBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_wall_side_tall.json",
+          "src/main/resources/assets/hellscraft/models/block/deeperslate_wall.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateSlabR",
+      "type": "recipe",
+      "sortid": 642,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateSlabR2",
+      "type": "recipe",
+      "sortid": 643,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateStairsR",
+      "type": "recipe",
+      "sortid": 644,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateStairsR2",
+      "type": "recipe",
+      "sortid": 645,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateWallR",
+      "type": "recipe",
+      "sortid": 646,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateWallR2",
+      "type": "recipe",
+      "sortid": 647,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledDeeperslateR",
+      "type": "recipe",
+      "sortid": 648,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledDeeperslateR2",
+      "type": "recipe",
+      "sortid": 649,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_deeperslate_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_deeperslate_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickSlabR",
+      "type": "recipe",
+      "sortid": 650,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickSlabR2",
+      "type": "recipe",
+      "sortid": 651,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickSlabR3",
+      "type": "recipe",
+      "sortid": 652,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickStairsR",
+      "type": "recipe",
+      "sortid": 653,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickStairsR2",
+      "type": "recipe",
+      "sortid": 654,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickStairsR3",
+      "type": "recipe",
+      "sortid": 655,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_stairs_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_stairs_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickWallR",
+      "type": "recipe",
+      "sortid": 656,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_wall_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_wall_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickWallR2",
+      "type": "recipe",
+      "sortid": 657,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_wall_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_wall_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "DeeperslateBrickWallR3",
+      "type": "recipe",
+      "sortid": 658,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeperslate_brick_wall_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/deeperslate_brick_wall_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateR",
+      "type": "recipe",
+      "sortid": 659,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/jeweled_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateBricksR",
+      "type": "recipe",
+      "sortid": 660,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/jeweled_deeperslate_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateSlab",
+      "type": "block",
+      "sortid": 661,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/jeweled_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/jeweled_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/jeweled_deeperslate_slab_full.json",
+          "src/main/java/net/mcreator/hellscraft/block/JeweledDeeperslateSlabBlock.java",
+          "src/main/resources/assets/hellscraft/blockstates/jeweled_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/jeweled_deeperslate_slab_top.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateSlab",
+      "type": "block",
+      "sortid": 662,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/block/gilded_deeperslate_slab_full.json",
+          "src/main/resources/assets/hellscraft/models/block/gilded_deeperslate_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/item/gilded_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/models/block/gilded_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/blockstates/gilded_deeperslate_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/GildedDeeperslateSlabBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateSlab",
+      "type": "block",
+      "sortid": 663,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/galvanic_deeperslate_slab.json",
+          "src/main/resources/assets/hellscraft/blockstates/galvanic_deeperslate_slab.json",
+          "src/main/java/net/mcreator/hellscraft/block/GalvanicDeeperslateSlabBlock.java",
+          "src/main/resources/assets/hellscraft/models/block/galvanic_deeperslate_slab_top.json",
+          "src/main/resources/assets/hellscraft/models/block/galvanic_deeperslate_slab_full.json",
+          "src/main/resources/assets/hellscraft/models/block/galvanic_deeperslate_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateSlabR",
+      "type": "recipe",
+      "sortid": 664,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/jeweled_deeperslate_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateSlabR2",
+      "type": "recipe",
+      "sortid": 665,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/jeweled_deeperslate_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "JeweledDeeperslateBricksR2",
+      "type": "recipe",
+      "sortid": 666,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeweled_deeperslate_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/jeweled_deeperslate_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledJeweledDeeperslateR",
+      "type": "recipe",
+      "sortid": 667,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_jeweled_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_jeweled_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledJeweledDeeperslateR2",
+      "type": "recipe",
+      "sortid": 668,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_jeweled_deeperslate_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_jeweled_deeperslate_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateR",
+      "type": "recipe",
+      "sortid": 669,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/gilded_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateBricksR",
+      "type": "recipe",
+      "sortid": 670,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/gilded_deeperslate_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateBricksR2",
+      "type": "recipe",
+      "sortid": 671,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/gilded_deeperslate_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledGildedDeeperslateR",
+      "type": "recipe",
+      "sortid": 672,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_gilded_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_gilded_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledGildedDeeperslateR2",
+      "type": "recipe",
+      "sortid": 673,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_gilded_deeperslate_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_gilded_deeperslate_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateSlabR",
+      "type": "recipe",
+      "sortid": 674,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/gilded_deeperslate_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GildedDeeperslateSlabR2",
+      "type": "recipe",
+      "sortid": 675,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_deeperslate_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/gilded_deeperslate_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateR",
+      "type": "recipe",
+      "sortid": 676,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/galvanic_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateBricksR",
+      "type": "recipe",
+      "sortid": 677,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_bricks_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/galvanic_deeperslate_bricks_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateBricksR2",
+      "type": "recipe",
+      "sortid": 678,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_bricks_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/galvanic_deeperslate_bricks_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateSlabR",
+      "type": "recipe",
+      "sortid": 679,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/galvanic_deeperslate_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "GalvanicDeeperslateSlabR2",
+      "type": "recipe",
+      "sortid": 680,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galvanic_deeperslate_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/galvanic_deeperslate_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledGalvanicDeeperslateR",
+      "type": "recipe",
+      "sortid": 681,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_galvanic_deeperslate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_galvanic_deeperslate_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChiseledGalvanicDeeperslateR2",
+      "type": "recipe",
+      "sortid": 682,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_galvanic_deeperslate_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chiseled_galvanic_deeperslate_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteSlabR",
+      "type": "recipe",
+      "sortid": 683,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chuckite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteSlabR2",
+      "type": "recipe",
+      "sortid": 684,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chuckite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteStairsR",
+      "type": "recipe",
+      "sortid": 685,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chuckite_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "ChuckiteStairsR2",
+      "type": "recipe",
+      "sortid": 686,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuckite_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/chuckite_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteR",
+      "type": "recipe",
+      "sortid": 687,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteR2",
+      "type": "recipe",
+      "sortid": 688,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteSlabR",
+      "type": "recipe",
+      "sortid": 689,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_slab_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_slab_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteSlabR2",
+      "type": "recipe",
+      "sortid": 690,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_slab_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_slab_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteSlabR3",
+      "type": "recipe",
+      "sortid": 691,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_slab_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_slab_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteStairsR",
+      "type": "recipe",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_stairs_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_stairs_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteStairsR2",
+      "type": "recipe",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_stairs_r_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_stairs_r_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedChuckiteStairsR3",
+      "type": "recipe",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_chuckite_stairs_r_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/polished_chuckite_stairs_r_3.json"
+        ]
+      }
+    },
+    {
+      "name": "BlockOfDandelionR",
+      "type": "recipe",
+      "sortid": 695,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_dandelion_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/block_of_dandelion_r.json"
+        ]
+      }
+    },
+    {
+      "name": "DandelionR",
+      "type": "recipe",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dandelion_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/dandelion_r.json"
+        ]
+      }
+    },
+    {
+      "name": "PoppyR",
+      "type": "recipe",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poppy_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/poppy_r.json"
+        ]
+      }
+    },
+    {
+      "name": "CornflowerR",
+      "type": "recipe",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cornflower_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/cornflower_r.json"
+        ]
+      }
+    },
+    {
+      "name": "AzureBluetR",
+      "type": "recipe",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azure_bluet_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/azure_bluet_r.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusion",
+      "type": "item",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSpeed",
+      "type": "item",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_speed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_speed.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSpeedItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowness",
+      "type": "item",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowness",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_slowness.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSlownessItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionJumpboost",
+      "type": "item",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_jumpboost",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_jumpboost.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionJumpboostItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionStrength",
+      "type": "item",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_strength",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionStrengthItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_strength.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWeakness",
+      "type": "item",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_weakness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionWeaknessItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_weakness.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionPoison",
+      "type": "item",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_poison",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_poison.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionPoisonItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionRegen",
+      "type": "item",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_regen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionRegenItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_regen.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionFireresistance",
+      "type": "item",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_fireresistance",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_fireresistance.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionFireresistanceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWaterbreathing",
+      "type": "item",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_waterbreathing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionWaterbreathingItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_waterbreathing.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNightvision",
+      "type": "item",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nightvision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionNightvisionItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_nightvision.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionInvisibility",
+      "type": "item",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_invisibility",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_invisibility.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionInvisibilityItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowfalling",
+      "type": "item",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowfalling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSlowfallingItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_slowfalling.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNausea",
+      "type": "item",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nausea",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_nausea.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionNauseaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitation",
+      "type": "item",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionLevitationItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_levitation.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHaste",
+      "type": "item",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionHasteItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_haste.json"
+        ]
+      }
+    },
+    {
+      "name": "ToiSpeed",
+      "type": "procedure",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_speed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSpeedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowness",
+      "type": "procedure",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlownessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiJumpboost",
+      "type": "procedure",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_jumpboost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiJumpboostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiStrength",
+      "type": "procedure",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_strength",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiStrengthProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWeakness",
+      "type": "procedure",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_weakness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWeaknessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiPoison",
+      "type": "procedure",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_poison",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiPoisonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiRegen",
+      "type": "procedure",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_regen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiRegenProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiFireresistance",
+      "type": "procedure",
+      "sortid": 723,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_fireresistance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiFireresistanceProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWaterbreathing",
+      "type": "procedure",
+      "sortid": 724,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_waterbreathing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWaterbreathingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNightvision",
+      "type": "procedure",
+      "sortid": 725,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nightvision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNightvisionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiInvisibility",
+      "type": "procedure",
+      "sortid": 726,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_invisibility",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiInvisibilityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowfalling",
+      "type": "procedure",
+      "sortid": 727,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowfalling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlowfallingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNausea",
+      "type": "procedure",
+      "sortid": 728,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nausea",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNauseaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiLevitation",
+      "type": "procedure",
+      "sortid": 729,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_levitation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiLevitationProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiHaste",
+      "type": "procedure",
+      "sortid": 730,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_haste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiHasteProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionR",
+      "type": "recipe",
+      "sortid": 731,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/totem_of_infusion_r.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSpeedR",
+      "type": "recipe",
+      "sortid": 732,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_speed_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSpeedRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlownessR",
+      "type": "recipe",
+      "sortid": 733,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlownessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionJumpboostR",
+      "type": "recipe",
+      "sortid": 734,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_jumpboost_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionJumpboostRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionStrengthR",
+      "type": "recipe",
+      "sortid": 735,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_strength_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionStrengthRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionPoisonR",
+      "type": "recipe",
+      "sortid": 736,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_poison_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionPoisonRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWeaknessR",
+      "type": "recipe",
+      "sortid": 737,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_weakness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWeaknessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionRegenR",
+      "type": "recipe",
+      "sortid": 738,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_regen_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionRegenRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionFireresistanceR",
+      "type": "recipe",
+      "sortid": 739,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_fireresistance_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionFireresistanceRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWaterbreathingR",
+      "type": "recipe",
+      "sortid": 740,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_waterbreathing_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWaterbreathingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNightvisionR",
+      "type": "recipe",
+      "sortid": 741,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nightvision_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNightvisionRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionInvisibilityR",
+      "type": "recipe",
+      "sortid": 742,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_invisibility_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionInvisibilityRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowfallingR",
+      "type": "recipe",
+      "sortid": 743,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowfalling_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlowfallingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNauseaR",
+      "type": "recipe",
+      "sortid": 744,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nausea_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNauseaRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitationR",
+      "type": "recipe",
+      "sortid": 745,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionLevitationRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHasteR",
+      "type": "recipe",
+      "sortid": 746,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionHasteRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "SpawnerR",
+      "type": "recipe",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/spawner_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -9467,9 +11144,10 @@
       "block.hellscraft.endersite_slab": "Endersite Slab",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
       "item.hellscraft.beef_jerkey": "Beef Jerkey",
-      "block.hellscraft.chisled_galvanic_deeperslate": "Chisled Galvanic Deeperslate",
+      "block.hellscraft.chisled_galvanic_deeperslate": "Chiseled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
       "block.hellscraft.block_of_poppy": "Block Of Poppy",
+      "block.hellscraft.jeweled_deeperslate_slab": "Jeweled Deeperslate Slab",
       "item.cheese.cheese": "Cheese",
       "biome.cheese.piss_forest": "Piss Forest",
       "block.hellscraft.cut_lead_slab": "Cut Lead Slab",
@@ -9485,7 +11163,8 @@
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
-      "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
+      "item.hellscraft.totem_of_infusion_levitation": "Totem Of Infusion",
+      "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Haste",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
       "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
@@ -9504,6 +11183,7 @@
       "painting.hellscraft.goku.author": "Ough",
       "block.hellscraft.hardspice_stairs": "Hardspice Stairs",
       "block.hellscraft.greenstone_stairs": "Greenstone Stairs",
+      "item.hellscraft.totem_of_infusion_weakness": "Totem Of Infusion",
       "item.hellscraft.buttered_bucket_of_popcorn": "Buttered Bucket Of Popcorn",
       "block.hellscraft.polished_corn_stairs": "Polished Corn Stairs",
       "painting.hellscraft.one_with_nothing.author": "Jim Nelson",
@@ -9513,6 +11193,7 @@
       "block.hellscraft.endiorite_stairs": "Endiorite Stairs",
       "block.hellscraft.block_of_rotten_flesh": "Block Of Rotten Flesh",
       "item.hellscraft.fishmetal_axe": "Fishmetal Axe",
+      "item.hellscraft.totem_of_infusion_nightvision": "Totem Of Infusion",
       "block.hellscraft.bismuth": "Bismuth",
       "block.cheese.piss_nylium": "Piss Nylium",
       "biome.hellscraft.cavern_of_souls": "Cavern Of Souls",
@@ -9533,6 +11214,7 @@
       "item.hellscraft.bottle_of_pepsi": "Bottle Of Pepsi",
       "block.hellscraft.piss_roots": "Piss Roots",
       "item.minecraft.tipped_arrow.effect.nausea": "Arrow of Nausea",
+      "block.hellscraft.gilded_deeperslate_slab": "Gilded Deeperslate Slab",
       "death.attack.totem_damage.player": "%1$s bid farewell, cruel world!",
       "item.cheese.gold_javelin": "Gold Javelin",
       "block.hellscraft.polished_endiorite_slab": "Polished Endiorite Slab",
@@ -9549,7 +11231,7 @@
       "item.minecraft.splash_potion.effect.nausea": "Splash Potion of Nausea",
       "block.cheese.cheese_slab": "Cheese Slab",
       "block.cheese.quicksand": "Quicksand",
-      "item.minecraft.potion.effect.enhanced_haste": "Potion of Enhanced Haste",
+      "item.minecraft.potion.effect.enhanced_haste": "Potion of Haste",
       "block.hellscraft.salt_lamp": "Salt Lamp",
       "block.cheese.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.cheese.piss_plank_fence": "Piss Fence",
@@ -9563,9 +11245,10 @@
       "block.cheese.hardspice_brick_slab": "Hardspice Brick Slab",
       "block.hellscraft.block_of_cheese": "Block Of Cheese",
       "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
-      "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Enhanced Levitation",
+      "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Levitation",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
       "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
+      "item.hellscraft.totem_of_infusion_waterbreathing": "Totem Of Infusion",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
       "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
@@ -9573,21 +11256,23 @@
       "block.cheese.darkwood_slab": "Darkwood Slab",
       "block.cheese.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
       "block.hellscraft.block_of_butter": "Block Of Butter",
-      "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Extended Haste",
+      "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Haste",
       "block.cheese.greenstone_brick_wall": "Greenstone Brick Wall",
       "block.hellscraft.piss_wart_block": "Piss Wart Block",
       "block.hellscraft.polished_corn_wall": "Polished Corn Wall",
+      "item.hellscraft.totem_of_infusion_strength": "Totem Of Infusion",
       "block.cheese.greenstone_slab": "Greenstone Slab",
-      "item.minecraft.potion.effect.extended_haste": "Potion of Extended Haste",
+      "item.minecraft.potion.effect.extended_haste": "Potion of Haste",
+      "block.hellscraft.deeperslate_wall": "Deeperslate Wall",
       "block.hellscraft.block_of_corn": "Block Of Corn",
       "item.cheese.darksteel_armor_boots": "Darksteel Boots",
       "block.hellscraft.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.hellscraft.piss_plank_door": "Piss Door",
       "block.hellscraft.deepslate_lead_ore": "Deepslate Lead Ore",
       "item.hellscraft.fishmetal_armor_helmet": "Fishmetal Helmet",
-      "item.minecraft.potion.effect.enhanced_levitation": "Potion of Enhanced Levitation",
+      "item.minecraft.potion.effect.enhanced_levitation": "Potion of Levitation",
       "block.cheese.press": "Press",
-      "item.minecraft.splash_potion.effect.enhanced_levitation": "Splash Potion of Enhanced Levitation",
+      "item.minecraft.splash_potion.effect.enhanced_levitation": "Splash Potion of Levitation",
       "block.hellscraft.cooler_greenstone": "Chiseled Greenstone Bricks",
       "block.hellscraft.deeperslate_brick_wall": "Deeperslate Brick Wall",
       "item.cheese.darksteel_sword": "Darksteel Sword",
@@ -9596,6 +11281,7 @@
       "item.cheese.darksteel_armor_leggings": "Darksteel Leggings",
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
+      "block.hellscraft.block_of_raw_lead": "Block Of Raw Lead",
       "block.hellscraft.polished_endersite": "Polished Endersite",
       "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "item.cheese.totem_of_dying": "Totem Of Dying",
@@ -9608,6 +11294,7 @@
       "item.minecraft.tipped_arrow.effect.levitation": "Arrow of Levitation",
       "block.hellscraft.block_of_lead": "Block Of Lead",
       "block.cheese.block_of_cheese": "Block Of Cheese",
+      "block.hellscraft.block_of_uranium": "Block Of Uranium",
       "item.hellscraft.villager_meat": "Villager Meat",
       "block.cheese.darksteel_ore": "Darksteel Ore",
       "block.hellscraft.smooth_hardspice": "Smooth Hardspice",
@@ -9622,13 +11309,13 @@
       "block.cheese.cheese_fence": "Cheese Fence",
       "painting.hellscraft.seige_rhino.title": "Seige Rhino",
       "item.hellscraft.raw_uranium": "Raw Uranium",
-      "item.minecraft.tipped_arrow.effect.extended_levitation": "Arrow of Extended Levitation",
+      "item.minecraft.tipped_arrow.effect.extended_levitation": "Arrow of Levitation",
       "block.hellscraft.darkwood_pressure_plate": "Darkwood Pressure Plate",
-      "item.minecraft.potion.effect.extended_levitation": "Potion of Extended Levitation",
+      "item.minecraft.potion.effect.extended_levitation": "Potion of Levitation",
       "item.hellscraft.beef_sandwhich": "Beef Sandwhich",
       "block.hellscraft.piss_plank_slab": "Piss Slab",
       "item.hellscraft.pink_salt": "Pink Salt",
-      "item.minecraft.tipped_arrow.effect.enhanced_levitation": "Arrow of Enhanced Levitation",
+      "item.minecraft.tipped_arrow.effect.enhanced_levitation": "Arrow of Levitation",
       "item.cheese.cheesed_sword": "Cheese Sword",
       "block.cheese.gunk": "Gunk",
       "item.hellscraft.netherspice": "Netherspice",
@@ -9642,8 +11329,11 @@
       "item.hellscraft.darksteel_pickaxe": "Darksteel Pickaxe",
       "block.hellscraft.chiseled_deeperslate": "Chiseled Deeperslate",
       "block.hellscraft.smooth_hardspice_slab": "Smooth Hardspice Slab",
+      "item.hellscraft.totem_of_infusion_speed": "Totem Of Infusion",
       "block.cheese.darkwood_button": "Darkwood Button",
       "block.hellscraft.kidneystone": "Kidneystone",
+      "item.hellscraft.totem_of_infusion_slowness": "Totem Of Infusion",
+      "item.hellscraft.totem_of_infusion_regen": "Totem Of Infusion",
       "block.hellscraft.piss_plank_fence_gate": "Piss Plank Fence Gate",
       "item.hellscraft.corn": "Corn",
       "block.hellscraft.kidneystone_bricks": "Kidneystone Bricks",
@@ -9708,9 +11398,11 @@
       "block.hellscraft.darkwood_fence": "Darkwood Fence",
       "block.hellscraft.hardspice_brick_slab": "Hardspice Brick Slab",
       "block.hellscraft.endersite_stairs": "Endersite Stairs",
+      "item.hellscraft.totem_of_infusion_fireresistance": "Totem Of Infusion",
       "item.cheese.cheesed_armor_leggings": "Cheese Leggings",
+      "item.hellscraft.totem_of_infusion": "Totem Of Infusion",
       "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
-      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
+      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Haste",
       "entity.minecraft.villager.cheese.necromancer": "Necromancer",
       "block.hellscraft.deeperslate_lead_ore": "Deeperslate Lead Ore",
       "block.hellscraft.piss_planks": "Piss Planks",
@@ -9726,22 +11418,25 @@
       "block.hellscraft.carrot_brick_wall": "Carrot Brick Wall",
       "block.hellscraft.stone_block": "stone block",
       "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
-      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
+      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Haste",
       "painting.hellscraft.birb.title": "Birb",
       "block.hellscraft.kidneystone_wall": "Kidneystone Wall",
       "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
       "block.cheese.hardspice_brick_wall": "Hardspice Brick Wall",
       "block.hellscraft.polished_deeperslate": "Polished Deeperslate",
-      "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Extended Levitation",
+      "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Levitation",
       "item.cheese.darksteel_armor_helmet": "Darksteel Helmet",
       "block.cheese.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
-      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Enhanced Haste",
-      "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Extended Levitation",
+      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Haste",
+      "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Levitation",
+      "block.hellscraft.galvanic_deeperslate_slab": "Galvanic Deeperslate Slab",
       "item.cheese.fishmetal_pickaxe": "Fishmetal Pickaxe",
       "block.hellscraft.piss_stem": "Piss Stem",
       "item.cheese.seasoned_porkchop": "Seasoned Porkchop",
       "block.hellscraft.endersite_wall": "Endersite Wall",
+      "block.hellscraft.deeperslate_stairs": "Deeperslate Stairs",
       "painting.hellscraft.smoking.title": "Smoking Is Badass",
+      "item.hellscraft.totem_of_infusion_nausea": "Totem Of Infusion",
       "block.cheese.piss_planks": "Piss Planks",
       "block.hellscraft.gilded_deeperslate_bricks": "Gilded Deeperslate Bricks",
       "block.hellscraft.hardspice_slab": "Hardspice Slab",
@@ -9754,6 +11449,7 @@
       "block.hellscraft.deepslate_uranium_ore": "Deepslate Uranium Ore",
       "painting.hellscraft.pawper.title": "Pawper",
       "block.hellscraft.endgranite_stairs": "Endgranite Stairs",
+      "item.hellscraft.totem_of_infusion_invisibility": "Totem Of Infusion",
       "block.hellscraft.corn_ore": "Corn Ore",
       "item.hellscraft.fishmetal_javelin": "Fishmetal Javelin",
       "block.hellscraft.darkwood_button": "Darkwood Button",
@@ -9765,6 +11461,7 @@
       "block.hellscraft.polished_kidneystone_slab": "Polished Kidneystone",
       "item.hellscraft.fishmetal_armor_leggings": "Fishmetal Leggings",
       "item.hellscraft.seasoned_porkchop": "Seasoned Porkchop",
+      "block.hellscraft.deeperslate_slab": "Deeperslate Slab",
       "block.cheese.greenstone": "Greenstone",
       "block.cheese.fishmetal_block": "Fishmetal Block",
       "item.hellscraft.popcorn": "Popcorn",
@@ -9777,6 +11474,7 @@
       "block.hellscraft.quicksand": "Quicksand",
       "block.cheese.greenstone_brick_slab": "Greenstone Brick Slab",
       "block.cheese.hardspice_stairs": "Hardspice Stairs",
+      "item.hellscraft.totem_of_infusion_haste": "Totem Of Infusion",
       "block.cheese.greenstone_bricks": "Greenstone Bricks",
       "block.hellscraft.darkwood_log": "Darkwood Log",
       "block.hellscraft.darkwood_planks": "Darkwood Planks",
@@ -9787,7 +11485,7 @@
       "block.cheese.piss_plank_slab": "Piss Slab",
       "item.hellscraft.chocolate_milk": "Chocolate Milk",
       "item.hellscraft.darksteel_armor_leggings": "Darksteel Leggings",
-      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Enhanced Haste",
+      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Haste",
       "painting.hellscraft.storm_crow.title": "Storm Crow",
       "block.hellscraft.waxed_block_of_corn": "Waxed Block Of Corn",
       "block.cheese.stripped_darkwood_log": "Stripped Darkwood Log",
@@ -9807,6 +11505,7 @@
       "item.minecraft.lingering_potion.effect.nausea": "Lingering Potion of Nausea",
       "block.hellscraft.cheese_stairs": "Cheese Stairs",
       "block.hellscraft.polished_endgranite_slab": "Polished Endgranite Slab",
+      "item.hellscraft.totem_of_infusion_slowfalling": "Totem Of Infusion",
       "item.hellscraft.darksteel_hoe": "Darksteel Hoe",
       "block.hellscraft.hardspice_bricks": "Hardspice Bricks",
       "painting.hellscraft.funny_cat.author": "Munke",
@@ -9820,7 +11519,9 @@
       "block.hellscraft.cut_lead_stairs": "Cut Lead Stairs",
       "item.hellscraft.lead_ingot": "Lead Ingot",
       "block.hellscraft.polished_block_of_corn": "Polished Block Of Corn",
+      "item.hellscraft.totem_of_infusion_jumpboost": "Totem Of Infusion",
       "block.hellscraft.smooth_greenstone": "Smooth Greenstone",
+      "item.hellscraft.totem_of_infusion_poison": "Totem Of Infusion",
       "painting.hellscraft.urabrask_hit.author": "Lurtle",
       "block.hellscraft.chuckite_slab": "Chuckite Slab",
       "item.hellscraft.bucket_of_pilk": "Bucket Of Pilk",

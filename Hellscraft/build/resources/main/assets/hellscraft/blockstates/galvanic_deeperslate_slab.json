@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hellscraft:block/galvanic_deeperslate_slab"
+    },
+    "type=top": {
+      "model": "hellscraft:block/galvanic_deeperslate_slab_top"
+    },
+    "type=double": {
+      "model": "hellscraft:block/galvanic_deeperslate_slab_full"
+    }
+  }
+}

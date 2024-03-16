@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "hellscraft:deeperslate_bricks"
+  },
+  "result": "hellscraft:deeperslate_brick_slab"
+}
