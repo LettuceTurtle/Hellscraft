@@ -6031,7 +6031,8 @@
       "registry_name": "lava_axe_projectile",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
+          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java",
+          "src/main/java/net/mcreator/hellscraft/client/renderer/LavaAxeProjectileRenderer.java"
         ]
       }
     },
@@ -11106,6 +11107,38 @@
           "src/main/resources/data/hellscraft/recipes/spawner_r.json"
         ]
       }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -11120,8 +11153,8 @@
       "advancements.darksteel_ingot_advancement.descr": "Aquire a Darksteel Ingot.",
       "block.hellscraft.deeperslate": "Deeperslate",
       "block.hellscraft.carrot_brick_slab": "Carrot Brick Slab",
-      "item.cheese.corn": "Corn",
       "block.hellscraft.greenstone_brick_slab": "Greenstone Brick Slab",
+      "item.cheese.corn": "Corn",
       "block.cheese.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.hellscraft.fishmetal_pickaxe": "Fishmetal Pickaxe",
       "item.cheese.fishmetal_javelin": "Fishmetal Javelin",
@@ -11142,31 +11175,31 @@
       "block.cheese.deeperslate_iron_ore": "Deeperslate Iron Ore",
       "block.hellscraft.block_of_popcorn": "Block of Popcorn",
       "block.hellscraft.endersite_slab": "Endersite Slab",
-      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.polished_kidneystone": "Polished Kidneystone",
+      "item.hellscraft.beef_jerkey": "Beef Jerkey",
       "block.hellscraft.chisled_galvanic_deeperslate": "Chiseled Galvanic Deeperslate",
       "item.hellscraft.darksteel_javelin": "Darksteel Javelin",
-      "block.hellscraft.jeweled_deeperslate_slab": "Jeweled Deeperslate Slab",
       "block.hellscraft.block_of_poppy": "Block Of Poppy",
+      "block.hellscraft.jeweled_deeperslate_slab": "Jeweled Deeperslate Slab",
       "item.cheese.cheese": "Cheese",
       "biome.cheese.piss_forest": "Piss Forest",
       "block.hellscraft.cut_lead_slab": "Cut Lead Slab",
       "biome.hellscraft.field_of_hopes_and_dreams": "Field Of Hopes And Dreams",
       "block.cheese.darkwood_log": "Darkwood Log",
-      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.hellscraft.block_of_villager": "Block Of Villager",
+      "item.hellscraft.bucket_of_popcorn": "Bucket Of Popcorn",
       "block.cheese.deeperslate": "Deeperslate",
       "item.cheese.netherite_javelin": "Netherite Javelin",
       "item.cheese.fishmetal_armor_chestplate": "Fishmetal Chestplate",
-      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.hellscraft.block_of_carrot": "Block Of Carrot",
+      "block.hellscraft.deepslate_spawn_egg_ore": "Deepslate Spawn Egg Ore",
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
-      "item.hellscraft.totem_of_infusion_levitation": "Totem Of Infusion",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
+      "item.hellscraft.totem_of_infusion_levitation": "Totem Of Infusion",
       "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Haste",
-      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
+      "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
       "painting.hellscraft.urabrask_hit.title": "Urabrask Hit",
       "block.hellscraft.endgranite": "Endgranite",
@@ -11201,8 +11234,8 @@
       "block.cheese.piss_stem": "Piss Stem",
       "item.hellscraft.wooden_javelin": "Wooden Javelin",
       "block.hellscraft.carrot_bricks": "Carrot Bricks",
-      "item.cheese.fishmetal_axe": "Fishmetal Axe",
       "block.hellscraft.spawn_egg_ore": "Spawn Egg Ore",
+      "item.cheese.fishmetal_axe": "Fishmetal Axe",
       "block.hellscraft.greenstone_slab": "Greenstone Slab",
       "item.minecraft.splash_potion.effect.haste": "Splash Potion of Haste",
       "block.hellscraft.darkwood_stairs": "Darkwood Stairs",
@@ -11246,8 +11279,8 @@
       "block.hellscraft.block_of_cheese": "Block Of Cheese",
       "block.cheese.darkwood_fence_gate": "Darkwood Fence Gate",
       "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Levitation",
-      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
+      "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
       "item.hellscraft.totem_of_infusion_waterbreathing": "Totem Of Infusion",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
@@ -11282,9 +11315,9 @@
       "block.hellscraft.polished_chuckite": "Polished Chuckite",
       "block.hellscraft.deeperslate_brick_stairs": "Deeperslate Brick Stairs",
       "block.hellscraft.block_of_raw_lead": "Block Of Raw Lead",
-      "item.cheese.totem_of_dying": "Totem Of Dying",
-      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
       "block.hellscraft.polished_endersite": "Polished Endersite",
+      "painting.hellscraft.you_cannot_be_eepy.author": "MunkeGutz",
+      "item.cheese.totem_of_dying": "Totem Of Dying",
       "block.hellscraft.darksteel_block": "Darksteel Block",
       "item.cheese.fishmetal_sword": "Fishmetal Sword",
       "item.hellscraft.salted_beef": "Salted Beef",

@@ -6031,7 +6031,8 @@
       "registry_name": "lava_axe_projectile",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
+          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java",
+          "src/main/java/net/mcreator/hellscraft/client/renderer/LavaAxeProjectileRenderer.java"
         ]
       }
     },
@@ -11058,12 +11059,84 @@
     {
       "name": "TotemOfInfusionNauseaR",
       "type": "recipe",
+      "sortid": 744,
       "compiles": true,
       "locked_code": false,
       "registry_name": "totem_of_infusion_nausea_r",
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNauseaRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitationR",
+      "type": "recipe",
+      "sortid": 745,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionLevitationRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHasteR",
+      "type": "recipe",
+      "sortid": 746,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionHasteRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "SpawnerR",
+      "type": "recipe",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/spawner_r.json"
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
         ]
       }
     }
@@ -11533,7 +11606,7 @@
   "workspaceSettings": {
     "modid": "hellscraft",
     "modName": "Hellscraft",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author": "Lettuce, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",

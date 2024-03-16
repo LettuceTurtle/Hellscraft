@@ -11,6 +11,8 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.client.renderer.entity.ThrownItemRenderer;
 
+import net.mcreator.hellscraft.client.renderer.LavaAxeProjectileRenderer;
+
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 public class HellscraftModEntityRenderers {
 	@SubscribeEvent
@@ -24,6 +26,6 @@ public class HellscraftModEntityRenderers {
 		event.registerEntityRenderer(HellscraftModEntities.GOLD_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HellscraftModEntities.DIAMOND_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
 		event.registerEntityRenderer(HellscraftModEntities.NETHERITE_JAVELIN_PROJECTILE.get(), ThrownItemRenderer::new);
-		event.registerEntityRenderer(HellscraftModEntities.LAVA_AXE_PROJECTILE.get(), ThrownItemRenderer::new);
+		event.registerEntityRenderer(HellscraftModEntities.LAVA_AXE_PROJECTILE.get(), LavaAxeProjectileRenderer::new);
 	}
 }

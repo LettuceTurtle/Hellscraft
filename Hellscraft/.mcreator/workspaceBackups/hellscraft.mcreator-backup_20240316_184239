@@ -6031,7 +6031,8 @@
       "registry_name": "lava_axe_projectile",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
+          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java",
+          "src/main/java/net/mcreator/hellscraft/client/renderer/LavaAxeProjectileRenderer.java"
         ]
       }
     },
@@ -11093,6 +11094,51 @@
           "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionHasteRBrewingRecipe.java"
         ]
       }
+    },
+    {
+      "name": "SpawnerR",
+      "type": "recipe",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/spawner_r.json"
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -11560,7 +11606,7 @@
   "workspaceSettings": {
     "modid": "hellscraft",
     "modName": "Hellscraft",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author": "Lettuce, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",

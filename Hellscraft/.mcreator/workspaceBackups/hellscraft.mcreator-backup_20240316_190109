@@ -6031,7 +6031,8 @@
       "registry_name": "lava_axe_projectile",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
+          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java",
+          "src/main/java/net/mcreator/hellscraft/client/renderer/LavaAxeProjectileRenderer.java"
         ]
       }
     },
@@ -10600,6 +10601,544 @@
           "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_haste.json"
         ]
       }
+    },
+    {
+      "name": "ToiSpeed",
+      "type": "procedure",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_speed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSpeedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowness",
+      "type": "procedure",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlownessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiJumpboost",
+      "type": "procedure",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_jumpboost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiJumpboostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiStrength",
+      "type": "procedure",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_strength",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiStrengthProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWeakness",
+      "type": "procedure",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_weakness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWeaknessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiPoison",
+      "type": "procedure",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_poison",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiPoisonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiRegen",
+      "type": "procedure",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_regen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiRegenProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiFireresistance",
+      "type": "procedure",
+      "sortid": 723,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_fireresistance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiFireresistanceProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWaterbreathing",
+      "type": "procedure",
+      "sortid": 724,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_waterbreathing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWaterbreathingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNightvision",
+      "type": "procedure",
+      "sortid": 725,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nightvision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNightvisionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiInvisibility",
+      "type": "procedure",
+      "sortid": 726,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_invisibility",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiInvisibilityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowfalling",
+      "type": "procedure",
+      "sortid": 727,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowfalling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlowfallingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNausea",
+      "type": "procedure",
+      "sortid": 728,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nausea",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNauseaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiLevitation",
+      "type": "procedure",
+      "sortid": 729,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_levitation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiLevitationProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiHaste",
+      "type": "procedure",
+      "sortid": 730,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_haste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiHasteProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionR",
+      "type": "recipe",
+      "sortid": 731,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/totem_of_infusion_r.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSpeedR",
+      "type": "recipe",
+      "sortid": 732,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_speed_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSpeedRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlownessR",
+      "type": "recipe",
+      "sortid": 733,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlownessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionJumpboostR",
+      "type": "recipe",
+      "sortid": 734,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_jumpboost_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionJumpboostRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionStrengthR",
+      "type": "recipe",
+      "sortid": 735,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_strength_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionStrengthRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionPoisonR",
+      "type": "recipe",
+      "sortid": 736,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_poison_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionPoisonRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWeaknessR",
+      "type": "recipe",
+      "sortid": 737,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_weakness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWeaknessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionRegenR",
+      "type": "recipe",
+      "sortid": 738,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_regen_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionRegenRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionFireresistanceR",
+      "type": "recipe",
+      "sortid": 739,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_fireresistance_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionFireresistanceRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWaterbreathingR",
+      "type": "recipe",
+      "sortid": 740,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_waterbreathing_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWaterbreathingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNightvisionR",
+      "type": "recipe",
+      "sortid": 741,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nightvision_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNightvisionRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionInvisibilityR",
+      "type": "recipe",
+      "sortid": 742,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_invisibility_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionInvisibilityRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowfallingR",
+      "type": "recipe",
+      "sortid": 743,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowfalling_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlowfallingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNauseaR",
+      "type": "recipe",
+      "sortid": 744,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nausea_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNauseaRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitationR",
+      "type": "recipe",
+      "sortid": 745,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionLevitationRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHasteR",
+      "type": "recipe",
+      "sortid": 746,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionHasteRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "SpawnerR",
+      "type": "recipe",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/spawner_r.json"
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -11067,7 +11606,7 @@
   "workspaceSettings": {
     "modid": "hellscraft",
     "modName": "Hellscraft",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author": "Lettuce, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",

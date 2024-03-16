@@ -6031,7 +6031,8 @@
       "registry_name": "lava_axe_projectile",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java"
+          "src/main/java/net/mcreator/hellscraft/entity/LavaAxeProjectileEntity.java",
+          "src/main/java/net/mcreator/hellscraft/client/renderer/LavaAxeProjectileRenderer.java"
         ]
       }
     },
@@ -10376,6 +10377,768 @@
           "src/main/resources/data/hellscraft/recipes/azure_bluet_r.json"
         ]
       }
+    },
+    {
+      "name": "TotemOfInfusion",
+      "type": "item",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSpeed",
+      "type": "item",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_speed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_speed.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSpeedItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowness",
+      "type": "item",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowness",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_slowness.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSlownessItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionJumpboost",
+      "type": "item",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_jumpboost",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_jumpboost.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionJumpboostItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionStrength",
+      "type": "item",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_strength",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionStrengthItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_strength.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWeakness",
+      "type": "item",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_weakness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionWeaknessItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_weakness.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionPoison",
+      "type": "item",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_poison",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_poison.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionPoisonItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionRegen",
+      "type": "item",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_regen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionRegenItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_regen.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionFireresistance",
+      "type": "item",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_fireresistance",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_fireresistance.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionFireresistanceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWaterbreathing",
+      "type": "item",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_waterbreathing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionWaterbreathingItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_waterbreathing.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNightvision",
+      "type": "item",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nightvision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionNightvisionItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_nightvision.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionInvisibility",
+      "type": "item",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_invisibility",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_invisibility.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionInvisibilityItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowfalling",
+      "type": "item",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowfalling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionSlowfallingItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_slowfalling.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNausea",
+      "type": "item",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nausea",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_nausea.json",
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionNauseaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitation",
+      "type": "item",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionLevitationItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_levitation.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHaste",
+      "type": "item",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/item/TotemOfInfusionHasteItem.java",
+          "src/main/resources/assets/hellscraft/models/item/totem_of_infusion_haste.json"
+        ]
+      }
+    },
+    {
+      "name": "ToiSpeed",
+      "type": "procedure",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_speed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSpeedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowness",
+      "type": "procedure",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlownessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiJumpboost",
+      "type": "procedure",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_jumpboost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiJumpboostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiStrength",
+      "type": "procedure",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_strength",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiStrengthProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWeakness",
+      "type": "procedure",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_weakness",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWeaknessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiPoison",
+      "type": "procedure",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_poison",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiPoisonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiRegen",
+      "type": "procedure",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_regen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiRegenProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiFireresistance",
+      "type": "procedure",
+      "sortid": 723,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_fireresistance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiFireresistanceProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiWaterbreathing",
+      "type": "procedure",
+      "sortid": 724,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_waterbreathing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiWaterbreathingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNightvision",
+      "type": "procedure",
+      "sortid": 725,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nightvision",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNightvisionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiInvisibility",
+      "type": "procedure",
+      "sortid": 726,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_invisibility",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiInvisibilityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiSlowfalling",
+      "type": "procedure",
+      "sortid": 727,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_slowfalling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiSlowfallingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiNausea",
+      "type": "procedure",
+      "sortid": 728,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_nausea",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiNauseaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiLevitation",
+      "type": "procedure",
+      "sortid": 729,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_levitation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiLevitationProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToiHaste",
+      "type": "procedure",
+      "sortid": 730,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toi_haste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/ToiHasteProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionR",
+      "type": "recipe",
+      "sortid": 731,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/totem_of_infusion_r.json"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSpeedR",
+      "type": "recipe",
+      "sortid": 732,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_speed_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSpeedRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlownessR",
+      "type": "recipe",
+      "sortid": 733,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlownessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionJumpboostR",
+      "type": "recipe",
+      "sortid": 734,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_jumpboost_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionJumpboostRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionStrengthR",
+      "type": "recipe",
+      "sortid": 735,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_strength_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionStrengthRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionPoisonR",
+      "type": "recipe",
+      "sortid": 736,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_poison_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionPoisonRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWeaknessR",
+      "type": "recipe",
+      "sortid": 737,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_weakness_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWeaknessRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionRegenR",
+      "type": "recipe",
+      "sortid": 738,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_regen_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionRegenRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionFireresistanceR",
+      "type": "recipe",
+      "sortid": 739,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_fireresistance_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionFireresistanceRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionWaterbreathingR",
+      "type": "recipe",
+      "sortid": 740,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_waterbreathing_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionWaterbreathingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNightvisionR",
+      "type": "recipe",
+      "sortid": 741,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nightvision_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNightvisionRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionInvisibilityR",
+      "type": "recipe",
+      "sortid": 742,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_invisibility_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionInvisibilityRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionSlowfallingR",
+      "type": "recipe",
+      "sortid": 743,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_slowfalling_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionSlowfallingRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionNauseaR",
+      "type": "recipe",
+      "sortid": 744,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_nausea_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionNauseaRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionLevitationR",
+      "type": "recipe",
+      "sortid": 745,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_levitation_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionLevitationRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "TotemOfInfusionHasteR",
+      "type": "recipe",
+      "sortid": 746,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem_of_infusion_haste_r",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/recipes/brewing/TotemOfInfusionHasteRBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "SpawnerR",
+      "type": "recipe",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/spawner_r.json"
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeProjectileProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_projectile_projectile_hits_living_entity",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hellscraft/procedures/LavaAxeProjectileProjectileHitsLivingEntityProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaAxeRecipe",
+      "type": "recipe",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hellscraft/recipes/lava_axe_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -10433,7 +11196,8 @@
       "block.cheese.hardspice_bricks": "Hardspice Bricks",
       "block.cheese.darkwood_planks": "Darkwood Planks",
       "gui.hellscraft.aging_barrel_gui.label_aging": "Aging",
-      "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Extended Haste",
+      "item.hellscraft.totem_of_infusion_levitation": "Totem Of Infusion",
+      "item.minecraft.tipped_arrow.effect.extended_haste": "Arrow of Haste",
       "item.cheese.darksteel_shovel": "Darksteel Shovel",
       "block.hellscraft.greenstone_brick_stairs": "Greenstone Brick Stairs",
       "entity.minecraft.villager.hellscraft.necromancer": "Necromancer",
@@ -10452,6 +11216,7 @@
       "painting.hellscraft.goku.author": "Ough",
       "block.hellscraft.hardspice_stairs": "Hardspice Stairs",
       "block.hellscraft.greenstone_stairs": "Greenstone Stairs",
+      "item.hellscraft.totem_of_infusion_weakness": "Totem Of Infusion",
       "item.hellscraft.buttered_bucket_of_popcorn": "Buttered Bucket Of Popcorn",
       "block.hellscraft.polished_corn_stairs": "Polished Corn Stairs",
       "painting.hellscraft.one_with_nothing.author": "Jim Nelson",
@@ -10461,6 +11226,7 @@
       "block.hellscraft.endiorite_stairs": "Endiorite Stairs",
       "block.hellscraft.block_of_rotten_flesh": "Block Of Rotten Flesh",
       "item.hellscraft.fishmetal_axe": "Fishmetal Axe",
+      "item.hellscraft.totem_of_infusion_nightvision": "Totem Of Infusion",
       "block.hellscraft.bismuth": "Bismuth",
       "block.cheese.piss_nylium": "Piss Nylium",
       "biome.hellscraft.cavern_of_souls": "Cavern Of Souls",
@@ -10498,7 +11264,7 @@
       "item.minecraft.splash_potion.effect.nausea": "Splash Potion of Nausea",
       "block.cheese.cheese_slab": "Cheese Slab",
       "block.cheese.quicksand": "Quicksand",
-      "item.minecraft.potion.effect.enhanced_haste": "Potion of Enhanced Haste",
+      "item.minecraft.potion.effect.enhanced_haste": "Potion of Haste",
       "block.hellscraft.salt_lamp": "Salt Lamp",
       "block.cheese.darkwood_trapdoor": "Darkwood Trapdoor",
       "block.cheese.piss_plank_fence": "Piss Fence",
@@ -10515,6 +11281,7 @@
       "item.minecraft.lingering_potion.effect.enhanced_levitation": "Lingering Potion of Levitation",
       "item.minecraft.lingering_potion.effect.levitation": "Lingering Potion of Levitation",
       "item.hellscraft.end_fluid_bucket": "End Fluid Bucket",
+      "item.hellscraft.totem_of_infusion_waterbreathing": "Totem Of Infusion",
       "painting.hellscraft.pawper.author": "Draner",
       "item.hellscraft.salt": "Salt",
       "block.hellscraft.chiseled_jeweled_deeperslate": "Chiseled Jeweled Deeperslate",
@@ -10522,12 +11289,13 @@
       "block.cheese.darkwood_slab": "Darkwood Slab",
       "block.cheese.deeperslate_diamond_ore": "Deeperslate Diamond Ore",
       "block.hellscraft.block_of_butter": "Block Of Butter",
-      "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Extended Haste",
+      "item.minecraft.lingering_potion.effect.extended_haste": "Lingering Potion of Haste",
       "block.cheese.greenstone_brick_wall": "Greenstone Brick Wall",
       "block.hellscraft.piss_wart_block": "Piss Wart Block",
       "block.hellscraft.polished_corn_wall": "Polished Corn Wall",
+      "item.hellscraft.totem_of_infusion_strength": "Totem Of Infusion",
       "block.cheese.greenstone_slab": "Greenstone Slab",
-      "item.minecraft.potion.effect.extended_haste": "Potion of Extended Haste",
+      "item.minecraft.potion.effect.extended_haste": "Potion of Haste",
       "block.hellscraft.deeperslate_wall": "Deeperslate Wall",
       "block.hellscraft.block_of_corn": "Block Of Corn",
       "item.cheese.darksteel_armor_boots": "Darksteel Boots",
@@ -10594,8 +11362,11 @@
       "item.hellscraft.darksteel_pickaxe": "Darksteel Pickaxe",
       "block.hellscraft.chiseled_deeperslate": "Chiseled Deeperslate",
       "block.hellscraft.smooth_hardspice_slab": "Smooth Hardspice Slab",
+      "item.hellscraft.totem_of_infusion_speed": "Totem Of Infusion",
       "block.cheese.darkwood_button": "Darkwood Button",
       "block.hellscraft.kidneystone": "Kidneystone",
+      "item.hellscraft.totem_of_infusion_slowness": "Totem Of Infusion",
+      "item.hellscraft.totem_of_infusion_regen": "Totem Of Infusion",
       "block.hellscraft.piss_plank_fence_gate": "Piss Plank Fence Gate",
       "item.hellscraft.corn": "Corn",
       "block.hellscraft.kidneystone_bricks": "Kidneystone Bricks",
@@ -10660,9 +11431,11 @@
       "block.hellscraft.darkwood_fence": "Darkwood Fence",
       "block.hellscraft.hardspice_brick_slab": "Hardspice Brick Slab",
       "block.hellscraft.endersite_stairs": "Endersite Stairs",
+      "item.hellscraft.totem_of_infusion_fireresistance": "Totem Of Infusion",
       "item.cheese.cheesed_armor_leggings": "Cheese Leggings",
+      "item.hellscraft.totem_of_infusion": "Totem Of Infusion",
       "item.cheese.darksteel_armor_chestplate": "Darksteel Chestplate",
-      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Enhanced Haste",
+      "item.minecraft.tipped_arrow.effect.enhanced_haste": "Arrow of Haste",
       "entity.minecraft.villager.cheese.necromancer": "Necromancer",
       "block.hellscraft.deeperslate_lead_ore": "Deeperslate Lead Ore",
       "block.hellscraft.piss_planks": "Piss Planks",
@@ -10678,7 +11451,7 @@
       "block.hellscraft.carrot_brick_wall": "Carrot Brick Wall",
       "block.hellscraft.stone_block": "stone block",
       "advancements.darksteel_ingot_advancement.title": "So, How Do I Tap It For Mana?",
-      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Extended Haste",
+      "item.minecraft.splash_potion.effect.extended_haste": "Splash Potion of Haste",
       "painting.hellscraft.birb.title": "Birb",
       "block.hellscraft.kidneystone_wall": "Kidneystone Wall",
       "block.hellscraft.cracked_kidneystone_bricks": "Cracked Kidneystone Bricks",
@@ -10687,7 +11460,7 @@
       "item.minecraft.splash_potion.effect.extended_levitation": "Splash Potion of Levitation",
       "item.cheese.darksteel_armor_helmet": "Darksteel Helmet",
       "block.cheese.chiseled_greenstone_bricks": "Chiseled Greenstone Bricks",
-      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Enhanced Haste",
+      "item.minecraft.lingering_potion.effect.enhanced_haste": "Lingering Potion of Haste",
       "item.minecraft.lingering_potion.effect.extended_levitation": "Lingering Potion of Levitation",
       "block.hellscraft.galvanic_deeperslate_slab": "Galvanic Deeperslate Slab",
       "item.cheese.fishmetal_pickaxe": "Fishmetal Pickaxe",
@@ -10696,6 +11469,7 @@
       "block.hellscraft.endersite_wall": "Endersite Wall",
       "block.hellscraft.deeperslate_stairs": "Deeperslate Stairs",
       "painting.hellscraft.smoking.title": "Smoking Is Badass",
+      "item.hellscraft.totem_of_infusion_nausea": "Totem Of Infusion",
       "block.cheese.piss_planks": "Piss Planks",
       "block.hellscraft.gilded_deeperslate_bricks": "Gilded Deeperslate Bricks",
       "block.hellscraft.hardspice_slab": "Hardspice Slab",
@@ -10708,6 +11482,7 @@
       "block.hellscraft.deepslate_uranium_ore": "Deepslate Uranium Ore",
       "painting.hellscraft.pawper.title": "Pawper",
       "block.hellscraft.endgranite_stairs": "Endgranite Stairs",
+      "item.hellscraft.totem_of_infusion_invisibility": "Totem Of Infusion",
       "block.hellscraft.corn_ore": "Corn Ore",
       "item.hellscraft.fishmetal_javelin": "Fishmetal Javelin",
       "block.hellscraft.darkwood_button": "Darkwood Button",
@@ -10732,6 +11507,7 @@
       "block.hellscraft.quicksand": "Quicksand",
       "block.cheese.greenstone_brick_slab": "Greenstone Brick Slab",
       "block.cheese.hardspice_stairs": "Hardspice Stairs",
+      "item.hellscraft.totem_of_infusion_haste": "Totem Of Infusion",
       "block.cheese.greenstone_bricks": "Greenstone Bricks",
       "block.hellscraft.darkwood_log": "Darkwood Log",
       "block.hellscraft.darkwood_planks": "Darkwood Planks",
@@ -10742,7 +11518,7 @@
       "block.cheese.piss_plank_slab": "Piss Slab",
       "item.hellscraft.chocolate_milk": "Chocolate Milk",
       "item.hellscraft.darksteel_armor_leggings": "Darksteel Leggings",
-      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Enhanced Haste",
+      "item.minecraft.splash_potion.effect.enhanced_haste": "Splash Potion of Haste",
       "painting.hellscraft.storm_crow.title": "Storm Crow",
       "block.hellscraft.waxed_block_of_corn": "Waxed Block Of Corn",
       "block.cheese.stripped_darkwood_log": "Stripped Darkwood Log",
@@ -10762,6 +11538,7 @@
       "item.minecraft.lingering_potion.effect.nausea": "Lingering Potion of Nausea",
       "block.hellscraft.cheese_stairs": "Cheese Stairs",
       "block.hellscraft.polished_endgranite_slab": "Polished Endgranite Slab",
+      "item.hellscraft.totem_of_infusion_slowfalling": "Totem Of Infusion",
       "item.hellscraft.darksteel_hoe": "Darksteel Hoe",
       "block.hellscraft.hardspice_bricks": "Hardspice Bricks",
       "painting.hellscraft.funny_cat.author": "Munke",
@@ -10775,7 +11552,9 @@
       "block.hellscraft.cut_lead_stairs": "Cut Lead Stairs",
       "item.hellscraft.lead_ingot": "Lead Ingot",
       "block.hellscraft.polished_block_of_corn": "Polished Block Of Corn",
+      "item.hellscraft.totem_of_infusion_jumpboost": "Totem Of Infusion",
       "block.hellscraft.smooth_greenstone": "Smooth Greenstone",
+      "item.hellscraft.totem_of_infusion_poison": "Totem Of Infusion",
       "painting.hellscraft.urabrask_hit.author": "Lurtle",
       "block.hellscraft.chuckite_slab": "Chuckite Slab",
       "item.hellscraft.bucket_of_pilk": "Bucket Of Pilk",
@@ -10827,7 +11606,7 @@
   "workspaceSettings": {
     "modid": "hellscraft",
     "modName": "Hellscraft",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author": "Lettuce, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
